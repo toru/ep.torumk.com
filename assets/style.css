@@ -7,6 +7,14 @@ body {
 }
 
 h1 {
-  font-size: 360%;
-  text-align: center;
+  font-size: 300%;
+}
+
+.wrapper {
+  margin: 0 auto;
+  width: 800px;
+}
+
+.site-title {
+  margin-bottom: 16px;
 }
