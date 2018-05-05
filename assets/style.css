@@ -18,3 +18,19 @@ h1 {
 .site-title {
   margin-bottom: 16px;
 }
+
+.timeline > ul {
+  list-style-type: none;
+  margin-top: 32px;
+  padding-left: 4px;
+}
+.timeline li {
+  border-left: 3px solid #444;
+  padding-left: 8px;
+  margin-bottom: 16px;
+}
+
+.timeline .meta .date {
+  font-size: 80%;
+  color: #777;
+}
