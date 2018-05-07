@@ -34,3 +34,12 @@ h1 {
   font-size: 80%;
   color: #777;
 }
+
+@media screen
+and (min-device-width: 375px)
+and (max-device-width: 667px) {
+  .timeline li {
+    border-left: 6px solid #444;
+    padding-left: 16px;
+  }
+}
