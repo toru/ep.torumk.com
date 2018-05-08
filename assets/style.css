@@ -10,6 +10,23 @@ h1 {
   font-size: 300%;
 }
 
+a {
+  text-decoration: none;
+}
+
+a:link {
+  color: #222;
+}
+
+a:hover,
+a:focus {
+  border-bottom: 1px #999 solid;
+}
+
+a:visited {
+  color: #555;
+}
+
 .wrapper {
   margin: 0 auto;
   width: 800px;
