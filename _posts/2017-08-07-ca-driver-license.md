@@ -1,7 +1,7 @@
 ---
 title: カリフォルニア州の普通運転免許を取得
 permalink: /ca-driver-license
-layout: default
+layout: post
 ---
 
 # カリフォルニア州の普通運転免許を取得

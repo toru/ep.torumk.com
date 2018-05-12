@@ -1,3 +1,4 @@
+
 body {
   margin: 0;
   padding: 0;
@@ -46,10 +47,28 @@ a:visited {
   padding-left: 8px;
   margin-bottom: 16px;
 }
-
 .timeline .meta .date {
   font-size: 80%;
   color: #777;
+}
+
+.post {
+  -webkit-font-smoothing: antialiased;
+}
+.post h1 {
+  font-size: 150%;
+}
+.post h2 {
+  font-size: 125%;
+}
+.post p {
+  line-height: 26px;
+}
+.post a {
+  color: #256fba;
+}
+.post a:hover {
+  border-bottom: 1px #256fba solid;
 }
 
 @media screen
