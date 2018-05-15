@@ -57,6 +57,7 @@ a:visited {
 }
 .post h1 {
   font-size: 150%;
+  margin-bottom: 0px;
 }
 .post h2 {
   font-size: 125%;
@@ -69,6 +70,10 @@ a:visited {
 }
 .post a:hover {
   border-bottom: 1px #256fba solid;
+}
+.post .published {
+  font-size: 90%;
+  color: #444;
 }
 
 @media screen
