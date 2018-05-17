@@ -71,6 +71,28 @@ a:visited {
 .post a:hover {
   border-bottom: 1px #256fba solid;
 }
+.post > ul {
+  list-style: none;
+  margin: 0;
+  padding: 5px 0;
+  overflow: hidden;
+  border-bottom: 1px #ccc solid;
+}
+.post > ul li:first-child {
+  padding-left: 0;
+}
+.post > ul li {
+  float: left;
+  font-size: 80%;
+  padding-left: 8px;
+}
+.post > ul a {
+  display: block;
+}
+.post > ul a:hover,
+.post > ul a:focus {
+  border: none;
+}
 .post .published {
   font-size: 90%;
   color: #444;
