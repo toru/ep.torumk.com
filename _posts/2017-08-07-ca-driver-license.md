@@ -2,6 +2,7 @@
 title: カリフォルニア州の普通運転免許を取得
 permalink: /ca-driver-license
 layout: post
+published: true
 ---
 
 カリフォルニア州の普通運転免許 ([Class C](https://www.dmv.ca.gov/portal/dmv/detail/pubs/hdbk/lic_classes)) を取得しました。

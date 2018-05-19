@@ -2,6 +2,7 @@
 title: サンフランシスコに引越しました
 permalink: /hello-san-francisco
 layout: post
+published: true
 ---
 
 実際には 8 月に引越したのですが、そういえばちゃんと近況報告をしていないかったので、まとめました。
