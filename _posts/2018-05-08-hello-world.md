@@ -1,5 +1,6 @@
 ---
 title: ハローワールド
+titlesuffix: true
 permalink: /hello-world
 layout: default
 published: false

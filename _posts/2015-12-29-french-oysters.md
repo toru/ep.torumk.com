@@ -1,5 +1,6 @@
 ---
 title: パリで幻のグリーンオイスターに出会う
+titlesuffix: true
 permalink: /french-oysters
 layout: post
 published: true

@@ -1,5 +1,6 @@
 ---
 title: サンフランシスコに引越しました
+titlesuffix: true
 permalink: /hello-san-francisco
 layout: post
 published: true
