@@ -31,6 +31,7 @@ a:visited {
 .wrapper {
   margin: 0 auto;
   width: 800px;
+  -webkit-font-smoothing: antialiased;
 }
 
 .site-title {
@@ -53,7 +54,6 @@ a:visited {
 }
 
 .post {
-  -webkit-font-smoothing: antialiased;
 }
 .post h1 {
   font-size: 150%;
@@ -93,6 +93,7 @@ a:visited {
 }
 .nav > li a {
   display: block;
+  color: #256fba;
 }
 .nav > li a:hover,
 .nav > li a:focus {
