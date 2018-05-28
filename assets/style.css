@@ -13,6 +13,10 @@ h1 {
 
 a {
   text-decoration: none;
+  color: #256fba;
+}
+a:hover {
+  border-bottom: 1px solid;
 }
 
 .wrapper {
@@ -59,12 +63,6 @@ a {
 }
 .post p {
   line-height: 26px;
-}
-.post a {
-  color: #256fba;
-}
-.post a:hover {
-  border-bottom: 1px #256fba solid;
 }
 .post .published {
   font-size: 90%;
