@@ -1,1 +1,8 @@
 exclude: ['README.md']
+
+defaults:
+  -
+    scope:
+      path: '_posts'
+    values:
+      layout: 'post'
