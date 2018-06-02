@@ -69,6 +69,10 @@ a:hover {
   font-size: 90%;
   color: #444;
 }
+.post .adjacent-posts {
+  font-size: 80%;
+  margin: 20px 0px;
+}
 
 .nav {
   list-style: none;
