@@ -73,6 +73,13 @@ a:hover {
   font-size: 80%;
   margin: 20px 0px;
 }
+.post .adjacent-posts a {
+  float: left;
+  width: 50%;
+}
+.post .next {
+  text-align: right;
+}
 
 .nav {
   list-style: none;
