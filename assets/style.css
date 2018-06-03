@@ -15,8 +15,9 @@ a {
   text-decoration: none;
   color: #256fba;
 }
-a:hover {
-  border-bottom: 1px solid;
+a:hover,
+a:focus {
+  text-decoration: underline;
 }
 
 .wrapper {
@@ -45,10 +46,6 @@ a:hover {
 }
 .timeline a:visited {
   color: #555;
-}
-.timeline a:hover,
-.timeline a:focus {
-  border-bottom: 1px #999 solid;
 }
 .timeline .meta .date {
   font-size: 80%;
