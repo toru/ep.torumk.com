@@ -6,3 +6,4 @@ defaults:
       path: '_posts'
     values:
       layout: 'post'
+      is_post: true
