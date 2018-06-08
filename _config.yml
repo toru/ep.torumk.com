@@ -5,5 +5,5 @@ defaults:
     scope:
       path: '_posts'
     values:
-      layout: 'post'
+      layout: 'default'
       is_post: true
