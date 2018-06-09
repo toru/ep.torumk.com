@@ -1,6 +1,7 @@
 ---
 title: 前坂 徹 | Toru Maesaka
-layout: post
+layout: default
+is_post: true
 ---
 
 ソフトウェアエンジニア。
