@@ -62,6 +62,9 @@ a:focus {
 .post p {
   line-height: 26px;
 }
+.post img {
+  width: 100%;
+}
 .post .published {
   font-size: 90%;
   color: #444;
