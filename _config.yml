@@ -7,3 +7,5 @@ defaults:
     values:
       layout: 'default'
       is_post: true
+
+image_host: 'https://storage.googleapis.com'

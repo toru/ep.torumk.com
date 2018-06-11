@@ -28,7 +28,7 @@ Pousse en Claire に関しては、ネット上での評判が特に良く、Fin
 
 ## 感謝
 
-![opium-paris](https://storage.googleapis.com/mk-objects-asia/ep/37a9520a.jpg)
+![opium-paris]({{ site.image_host }}/mk-objects-asia/ep/37a9520a.jpg)
 
 パリは今年、いろんなことがありましたが、彼のようなホスピタリティに溢れた若者に触れて、これからも世界中のみんなが訪れる町でいてほしいと思いました。
 
