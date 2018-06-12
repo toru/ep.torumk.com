@@ -1,4 +1,3 @@
-
 body {
   margin: 0;
   padding: 0;
@@ -22,7 +21,7 @@ a:focus {
 
 .wrapper {
   margin: 0 auto;
-  width: 800px;
+  width: 100%;
   -webkit-font-smoothing: antialiased;
 }
 
@@ -106,6 +105,12 @@ a:focus {
 .nav > li a:hover,
 .nav > li a:focus {
   border: none;
+}
+
+@media (min-width: 1025px) {
+  .wrapper {
+    width: 720px;
+  }
 }
 
 @media screen
