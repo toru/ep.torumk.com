@@ -68,6 +68,7 @@ a:focus {
 .post .adjacent-posts {
   font-size: 80%;
   margin: 20px 0px;
+  overflow: auto;
 }
 .post .adjacent-posts a {
   width: 50%;
