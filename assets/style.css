@@ -6,10 +6,6 @@ body {
   font-family: 'Noto Sans JP';
 }
 
-h1 {
-  font-size: 240%;
-}
-
 a {
   text-decoration: none;
   color: #256fba;
@@ -21,11 +17,12 @@ a:focus {
 
 .wrapper {
   margin: 0 auto;
-  width: 100%;
+  padding: 0px 12px;
   -webkit-font-smoothing: antialiased;
 }
 
 .site-title {
+  font-size: 230%;
   margin-top: 12px;
   margin-bottom: 16px;
 }
