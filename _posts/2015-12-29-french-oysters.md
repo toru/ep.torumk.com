@@ -7,7 +7,7 @@ published: true
 
 クリスマスのサンジェルマン・デ・プレで嬉しい出会いがありました。
 
-![green-oyster]({{ site.image_host }}/mk-objects-asia/ep/8bc6a823.jpg)
+![green-oyster]({{ site.image_bucket}}/ep/8bc6a823.jpg)
 
 ## 牡蠣が食べたかった
 
@@ -19,7 +19,7 @@ published: true
 
 いろんな牡蠣が提供されていましたが、お兄さんに食べたほうが良いと勧められたグリーンと Pousse en Claire オイスターをミックスでいただきました。
 
-![french-oysters]({{ site.image_host }}/mk-objects-asia/ep/56bfd92c.jpg)
+![french-oysters]({{ site.image_bucket }}/ep/56bfd92c.jpg)
 
 あとから知ったのですが、これらの牡蠣は本当に特別なようで、期間限定でしか食べることができないようです。
 Pousse en Claire に関しては、ネット上での評判が特に良く、Financial Times が究極のオイスターと評しているほどです。
@@ -32,7 +32,7 @@ Pousse en Claire に関しては、ネット上での評判が特に良く、Fin
 
 ## 感謝
 
-![opium-paris]({{ site.image_host }}/mk-objects-asia/ep/37a9520a.jpg)
+![opium-paris]({{ site.image_bucket }}/ep/37a9520a.jpg)
 
 パリは今年、いろんなことがありましたが、彼のようなホスピタリティに溢れた若者に触れて、これからも世界中のみんなが訪れる町でいてほしいと思いました。
 

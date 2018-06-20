@@ -7,7 +7,7 @@ published: true
 
 久しぶりにプライベートでサンフランシスコを訪れました。
 
-![cento-sf]({{ site.image_host }}/mk-objects-asia/ep/7bef0555.jpg)
+![cento-sf]({{ site.image_bucket }}/ep/7bef0555.jpg)
 
 ## 天気が良いのに寒い
 

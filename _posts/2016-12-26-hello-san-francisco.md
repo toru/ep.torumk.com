@@ -9,7 +9,7 @@ published: true
 バタバタしていて、きちんとした近況報告ができていなかったので、最近の出来事をまとめました。
 まずは荷物から。
 
-![luggage]({{ site.image_host }}/mk-objects-asia/ep/3e1sf4a1.jpg)
+![luggage]({{ site.image_bucket }}/ep/3e1sf4a1.jpg)
 
 なるべく荷物の量を減らしたものの、バックパックひとつでニュージーランドから日本に移住したときに比べて、だいぶ増えました。
 今回は自転車も運びました。　

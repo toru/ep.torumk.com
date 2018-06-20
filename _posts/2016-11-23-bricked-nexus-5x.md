@@ -7,7 +7,7 @@ published: true
 
 メインで使っている [Nexus 5X](https://en.wikipedia.org/wiki/Nexus_5X) が急にフリーズし、起動しなくなりました。
 
-![nexus-5x]({{ site.image_host }}/mk-objects-asia/ep/7e1e936a.jpg)
+![nexus-5x]({{ site.image_bucket }}/ep/7e1e936a.jpg)
 
 具体的には、"Google" のロゴが現れる初期段階で起動に失敗し、勝手に再起動がかかり、同じところでまた落ちて再起動する、というループが症状です。
 放置すると数百回に一回は起動しますが、またすぐにフリーズしてループに戻ってしまいます。

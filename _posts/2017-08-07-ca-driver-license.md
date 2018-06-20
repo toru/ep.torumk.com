@@ -8,7 +8,7 @@ published: true
 カリフォルニア州の普通運転免許 ([Class C](https://www.dmv.ca.gov/portal/dmv/detail/pubs/hdbk/lic_classes)) を取得しました。
 以下、簡単な備忘録です。
 
-![gti]({{ site.image_host }}/mk-objects-asia/ep/fct07272.jpg)
+![gti]({{ site.image_bucket }}/ep/fct07272.jpg)
 
 ## 筆記試験
 

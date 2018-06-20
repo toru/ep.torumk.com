@@ -8,4 +8,4 @@ defaults:
       layout: 'default'
       is_post: true
 
-image_host: 'https://storage.googleapis.com'
+image_bucket: 'https://storage.googleapis.com/mk-objects-asia'
