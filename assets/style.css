@@ -54,6 +54,11 @@ a:focus {
 }
 .post h2 {
   font-size: 125%;
+  padding-bottom: 4px;
+  border-bottom: 1px solid #ccc;
+}
+.post h3 {
+  font-size: 110%;
 }
 .post p {
   line-height: 26px;
