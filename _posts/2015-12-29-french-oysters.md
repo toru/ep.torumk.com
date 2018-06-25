@@ -13,7 +13,8 @@ published: true
 
 サンジェルマン・デ・プレをうろうろしていたら、無性に牡蠣が食べたくなり、その場で調べて突撃することにしました。
 クリスマス当日だったので、当然ながらどこも閉まっていました。
-次の店で最後にしようと足を運んでみたら、店内にお兄さんがいたので、下手なフランス語で「開いてる？」と聞いたところ、英語で「もちろん！入りなよ」と歓迎されました。
+次の店 ([Opium la Cabane](https://www.tripadvisor.com/Restaurant_Review-g187147-d3388673-Reviews-Opium_la_Cabane-Paris_Ile_de_France.html)) で最後にしようと足を運んでみたら、店内にお兄さんがいました。
+下手なフランス語で「開いてる？」と聞いたら、英語で「もちろん！入りなよ」と歓迎されました。
 
 ## La Pousse en Claire オイスター
 
@@ -36,6 +37,6 @@ Pousse en Claire に関しては、ネット上での評判が特に良く、Fin
 
 パリは今年、いろんなことがありましたが、彼のようなホスピタリティに溢れた若者に触れて、これからも世界中のみんなが訪れる町でいてほしいと思いました。
 
-## お店の詳細
+## 関連リンク
 
-[Opium, La Cabane (TripAdvisor)](https://www.tripadvisor.com/Restaurant_Review-g187147-d3388673-Reviews-Opium_la_Cabane-Paris_Ile_de_France.html)
+- [近江町市場で生牡蠣を立ち食いする](/kanazawa-oyster)
