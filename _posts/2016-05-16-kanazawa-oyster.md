@@ -2,6 +2,7 @@
 title: 近江町市場で生牡蠣を立ち食いする
 titlesuffix: true
 permalink: /kanazawa-oyster
+tags: travel oyster
 published: true
 ---
 
