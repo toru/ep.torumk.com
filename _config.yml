@@ -1,4 +1,5 @@
 exclude: ['README.md']
+include: ['_pages']
 
 defaults:
   -
