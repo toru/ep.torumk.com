@@ -10,6 +10,7 @@ is_post: true
 [Fastly](https://www.fastly.com/) で分散システムの開発をしています。
 1990 年から 2007 年までニュージーランドで暮らしていました。
 その後、2016 年まで東京で日本生活を満喫しました。
+[生牡蠣](/t/oyster)が好物です。
 
 ![playtime]({{ site.image_bucket }}/ep/d4a29e83.jpg)
 
