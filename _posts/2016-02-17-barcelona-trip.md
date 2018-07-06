@@ -2,6 +2,7 @@
 title: バルセロナで地中海の息吹を感じる
 titlesuffix: true
 permalink: /barcelona-trip
+tags: travel
 published: true
 ---
 

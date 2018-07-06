@@ -2,6 +2,7 @@
 title: 久しぶりのサンフランシスコ
 titlesuffix: true
 permalink: /missed-you-san-francisco
+tags: travel
 published: true
 ---
 
