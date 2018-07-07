@@ -2,7 +2,6 @@
 title: 電動アシスト自転車 A2B Kuo を手放す
 titlesuffix: true
 permalink: /farewell-kuo
-tags: travel
 og_image: /ep/42dca746.jpg
 published: true
 ---
