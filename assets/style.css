@@ -22,7 +22,7 @@ a:focus {
 }
 
 .site-title {
-  font-size: 230%;
+  font-size: 200%;
   margin-top: 12px;
   margin-bottom: 16px;
 }
@@ -113,5 +113,8 @@ a:focus {
 @media (min-width: 1025px) {
   .wrapper {
     width: 720px;
+  }
+  .site-title {
+    font-size: 230%;
   }
 }
