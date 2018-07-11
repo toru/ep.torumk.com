@@ -95,6 +95,8 @@ a:focus {
 }
 .nav > li:first-child {
   padding-left: 0;
+  font-weight: 900;
+  color: #444;
 }
 .nav > li {
   float: left;
