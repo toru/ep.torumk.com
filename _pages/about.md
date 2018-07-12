@@ -16,5 +16,6 @@ is_post: true
 
 このウェブサイトは日本で生まれた縁を絶やさないために運営しています。
 主なコンテンツは不定期に発信している他愛のない近況です。
-[GitHub Pages](https://pages.github.com/) をホスティングに利用しています。
-ご質問などは [GitHub](https://github.com/tmaesaka) で公開しているメールアドレスまでお願いします。
+[GitHub Pages](https://pages.github.com/) をホスティングに利用しています ([ソースコード](https://github.com/tmaesaka/ep.torumk.com))。
+お問い合わせは <mailto:toru@torumk.com> までお願いします。
+ソーシャルメディアによるご連絡につきましては、お返事ができない可能性が高いです。
