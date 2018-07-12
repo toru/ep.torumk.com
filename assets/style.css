@@ -92,6 +92,7 @@ a:focus {
   padding: 5px 0;
   overflow: hidden;
   border-bottom: 1px #ccc solid;
+  font-size: 100%;
 }
 .nav > li:first-child {
   padding-left: 0;
@@ -100,7 +101,6 @@ a:focus {
 }
 .nav > li {
   float: left;
-  font-size: 80%;
   padding-left: 8px;
 }
 .nav > li a {
@@ -118,5 +118,8 @@ a:focus {
   }
   .site-title {
     font-size: 230%;
+  }
+  .nav {
+    font-size: 85%;
   }
 }
