@@ -37,6 +37,9 @@ a:focus {
   padding-left: 8px;
   margin-bottom: 16px;
 }
+.timeline li:hover {
+  border-left: 3px solid #256fba;
+}
 .timeline a:link {
   color: #222;
 }
