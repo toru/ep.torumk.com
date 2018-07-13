@@ -15,6 +15,13 @@ a:focus {
   text-decoration: underline;
 }
 
+h1 a {
+  color: #222;
+}
+h1 a:hover {
+  text-decoration: none;
+}
+
 .wrapper {
   margin: 0 auto;
   padding: 0px 12px;
