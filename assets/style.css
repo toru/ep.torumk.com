@@ -107,7 +107,13 @@ h1 a:hover {
 .nav > li:first-child {
   padding-left: 0;
   font-weight: 900;
+}
+.nav > li:first-child a {
   color: #444;
+}
+.nav > li:first-child a:hover {
+  text-decoration: none;
+  color: #ff2d55;
 }
 .nav > li {
   float: left;
