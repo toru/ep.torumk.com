@@ -1,5 +1,5 @@
 ---
-title: Vegan チョコレートケーキが美味しかった
+title: Vegan チョコケーキが美味しかった
 titlesuffix: true
 permalink: /vegan-chocolate-cake
 tags: vegan
