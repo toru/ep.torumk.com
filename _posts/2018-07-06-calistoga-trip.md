@@ -1,5 +1,5 @@
 ---
-title: 独立記念日をナパのカリストガで過ごす
+title: 独立記念日をカリストガで過ごす
 titlesuffix: true
 permalink: /calistoga-trip
 tags: travel napa wine
