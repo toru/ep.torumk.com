@@ -2,6 +2,8 @@
 title: Fastly Altitude 2016 参加録
 titlesuffix: true
 permalink: /fastly-altitude-2016
+tags: fastly
+og_image: /ep/ea970d55.jpg
 published: true
 ---
 
