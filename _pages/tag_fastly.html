@@ -1,0 +1,21 @@
+---
+title: Fastly
+titlesuffix: true
+permalink: /t/fastly
+layout: default
+---
+
+<p>Edge Cloud Platform の <a href="https://www.fastly.com/">Fastly</a> に関するエピソード集です。</p>
+
+<div class="timeline">
+  <ul>
+    {% for post in site.tags['fastly'] %}
+    <li>
+      <a href="{{post.url}}">{{ post.title }}</a>
+      <div class="meta">
+        <span class="date">Published: {{ post.date | date: "%Y-%m-%d" }}</span>
+      </div>
+    </li>
+    {% endfor %}
+  </ul>
+</div>
