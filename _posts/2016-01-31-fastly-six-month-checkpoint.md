@@ -7,7 +7,7 @@ og_image: /ep/de976e33.jpg
 published: true
 ---
 
-Fastly にソフトウェアエンジニアとして入社してから半年たちました。
+[Fastly](/t/fastly) にソフトウェアエンジニアとして入社してから半年たちました。
 
 ![lunch]({{ site.image_bucket }}/ep/de976e33.jpg)
 

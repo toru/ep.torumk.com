@@ -7,7 +7,7 @@ og_image: /ep/ea970d55.jpg
 published: true
 ---
 
-[Altitude](https://www.fastly.com/altitude) という、Fastly が主催するカスタマーサミットに参加しました。
+[Altitude](https://www.fastly.com/altitude) という、[Fastly](/t/fastly) が主催するカスタマーサミットに参加しました。
 
 ![altitude-2016]({{ site.image_bucket }}/ep/ea970d55.jpg)
 
