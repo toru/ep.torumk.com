@@ -9,4 +9,4 @@ defaults:
       layout: 'default'
       is_post: true
 
-image_bucket: 'https://storage.googleapis.com/mk-objects-asia'
+image_bucket: 'https://mk-cdn.global.ssl.fastly.net'
