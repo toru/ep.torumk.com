@@ -9,4 +9,4 @@ defaults:
       layout: 'default'
       is_post: true
 
-image_bucket: 'https://mk-cdn.global.ssl.fastly.net'
+object_store: 'https://mk-cdn.global.ssl.fastly.net'

@@ -8,7 +8,7 @@ published: true
 
 消耗しきった [Bose AE2](https://www.bose.com/en_us/support/products/over_ear_headphones_support/ae2_headphones.html) のイヤパッドを交換しました。
 
-![ae2]({{ site.image_bucket }}/ep/bf829426.jpg)
+![ae2]({{ site.object_store }}/ep/bf829426.jpg)
 
 このヘッドフォンは相当つかいこんだので、後継機への買い替えも検討しましたが、本体は元気なので見送りました。
 パーツは適当に Amazon で[互換品を購入](https://www.amazon.co.jp/gp/product/B009Z8K6D4/?tag=amzntm-22)しました。

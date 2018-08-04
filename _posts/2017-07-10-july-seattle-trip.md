@@ -8,7 +8,7 @@ published: true
 
 独立記念日の連休を利用して、久々にシアトルを訪れました。
 
-![molly-moons]({{ site.image_bucket }}/ep/787fa989.jpg)
+![molly-moons]({{ site.object_store }}/ep/787fa989.jpg)
 
 今回の旅はとくに目的があるわけではなく、息抜き程度に考えていました。
 が、蓋をあけてみると意外とイベントフルで充実した連休でした。

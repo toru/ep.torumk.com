@@ -8,7 +8,7 @@ published: true
 
 [年末のパリ旅行](/french-oysters)のついでに、少し足を伸ばしてバルセロナにも行ってきました。
 
-![barcelona]({{ site.image_bucket }}/ep/afc84e87.jpg)
+![barcelona]({{ site.object_store }}/ep/afc84e87.jpg)
 
 バルセロナはとにかく食事とお酒が美味しくて素晴らしかったです。
 しかも全体的にリーズナブルな価格。

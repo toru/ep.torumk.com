@@ -8,7 +8,7 @@ published: true
 
 米国への移住に伴い、折りたたみ電動アシスト自転車を手放しました。
 
-![a2b-kuo]({{ site.image_bucket }}/ep/42dca746.jpg)
+![a2b-kuo]({{ site.object_store }}/ep/42dca746.jpg)
 
 時間に余裕があれば売りたかったのですが、身辺整理が忙しくて断念。
 購入店に引き取ってもらいました。

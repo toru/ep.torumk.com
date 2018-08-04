@@ -7,7 +7,7 @@ published: true
 
 [LG G Watch](https://en.wikipedia.org/wiki/LG_G_Watch) を手に入れたので [Google Fit](https://www.google.com/fit/) をつかってみました。
 
-![gfit-stats]({{ site.image_bucket }}/ep/6c979367.png)
+![gfit-stats]({{ site.object_store }}/ep/6c979367.png)
 
 先月の一日あたりの歩数は最低: 2,413、最大: 18,771、中央値: 13,732、平均: 12,858 でした。
 いい感じに身体を動かせたと思います。

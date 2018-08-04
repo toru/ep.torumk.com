@@ -7,7 +7,7 @@ published: true
 
 先日、はじめて父として父の日を迎えました。
 
-![family]({{ site.image_bucket }}/ep/d4a29e83.jpg)
+![family]({{ site.object_store }}/ep/d4a29e83.jpg)
 
 実は家族に言われるまで父の日であることを忘れていました。
 父の日のプレゼントには妻から自由時間を少しもらいました。

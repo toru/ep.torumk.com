@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   {% if page.og_image %}
-  <meta property="og:image" content="{{ site.image_bucket }}{{ page.og_image }}">
+  <meta property="og:image" content="{{ site.object_store }}{{ page.og_image }}">
   {% endif %}
   <title>{{ page.title }}{% if page.titlesuffix %} | Toru Maesaka{% endif %}</title>
 

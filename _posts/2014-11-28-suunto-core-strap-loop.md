@@ -7,7 +7,7 @@ published: true
 
 消耗によるものでしょうか、Suunto Core の遊環がちぎれました。
 
-![suunto-core]({{ site.image_bucket }}/ep/bc5a20bf.jpg)
+![suunto-core]({{ site.object_store }}/ep/bc5a20bf.jpg)
 
 通常はストラップを買い替えるのですが、ストラップの状態は良いので気が進みません。
 試しに代用できそうな[遊環 (内寸 24mm)](http://www.amazon.co.jp/gp/product/B00L6NZXIY/tag=amzntm-22) を Amazon で購入しました。

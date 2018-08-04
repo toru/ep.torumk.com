@@ -12,7 +12,7 @@ is_post: true
 その後、2016 年まで東京で日本生活を満喫しました。
 [生牡蠣](/t/oyster)が好物です。
 
-![playtime]({{ site.image_bucket }}/ep/d4a29e83.jpg)
+![playtime]({{ site.object_store }}/ep/d4a29e83.jpg)
 
 このウェブサイトは日本で生まれた縁を絶やさないために運営しています。
 主なコンテンツは不定期に発信している近況です。
