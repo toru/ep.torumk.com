@@ -20,9 +20,18 @@ published: true
 自分は入会と同時に下記のワインを受け取りました。
 現在リストにあるソーヴィニョンブランを飲みながらこのエピソードを書いています。
 
-- 2015 Rutherford Estate Vineyard Cabernet Franc
-- 2015 Dollarhide Estate Vineyard Malbec
-- 2017 Dollarhide Estate Vineyard Sauvignon Blanc
-- 2017 Napa Valley Estate Oak Free Chardonnay
+<pre class="wine-list">
+2015 Rutherford Estate Vineyard
+     Cabernet Franc
+
+2015 Dollarhide Estate Vineyard
+     Malbec
+
+2017 Dollarhide Estate Vineyard
+     Sauvignon Blanc
+
+2017 Napa Valley Estate
+     Oak Free Chardonnay
+</pre>
 
 次の出荷が楽しみです。

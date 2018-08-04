@@ -73,11 +73,9 @@ h1 a:hover {
 .post p {
   line-height: 26px;
 }
-
 .post ul {
   padding-left: 22px;
 }
-
 .post img {
   width: 100%;
 }
@@ -99,6 +97,10 @@ h1 a:hover {
 .post .next {
   float: right;
   text-align: right;
+}
+.post .wine-list {
+  padding: 8px 14px;
+  background: #eee;
 }
 
 .nav {
