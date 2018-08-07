@@ -1,4 +1,4 @@
-# Epitomic Episodes
+# Epoch Episodes
 
 This repository contains the [Jekyll](https://jekyllrb.com) source files
 for [my website](https://ep.torumk.com/) in Nihongo. Mostly random short
