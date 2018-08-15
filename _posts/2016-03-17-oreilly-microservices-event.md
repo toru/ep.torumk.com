@@ -1,5 +1,5 @@
 ---
-title: Microservices Casual Talks で話してきました
+title: Microservices Casual Talks 後日談
 titlesuffix: true
 permalink: /oreilly-microservices-event
 ---
