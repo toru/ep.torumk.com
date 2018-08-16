@@ -4,7 +4,7 @@ titlesuffix: true
 permalink: /oreilly-microservices-event
 ---
 
-株式会社オライリー・ジャパン主催の「マイクロサービスアーキテクチャ」出版記念イベントで久しぶりに話してきました。
+株式会社オライリー・ジャパン主催の「[マイクロサービスアーキテクチャ](https://www.oreilly.co.jp/books/9784873117607/)」出版記念イベントで久しぶりに話してきました。
 
 ![random-day-at-fastly]({{ site.object_store }}/ep/c12b169f.jpg)
 
@@ -39,12 +39,12 @@ Microservices アーキテクチャを採用したからといって、プロダ
 
 エンジニアやアーキテクトの利便性のために、Microservice にはよくコードネームがつけられます。
 自分の観測範囲内だとコードネームは作者やチームの趣味で面白い名前がつけられがちです。
-Fastly は創業者がスキー好きなので、初期から存在する Microservices にはスキーリゾートの名前がつけられています。
+Fastly の場合は[創業者](https://twitter.com/crucially)の趣味がスキーなので、初期から存在する Microservices にはスキーリゾートの名前がつけられています。
 
 ## モニタリングの重要性
 
 Microservices アーキテクチャは動くパーツが多いので、モニタリングが極めて重要です。
-James Lewis と Martin Fowler を引用しつつ、Datadog や New Relic などの紹介をしました。
+[James Lewis](https://www.thoughtworks.com/profiles/james-lewis) と [Martin Fowler](https://ja.wikipedia.org/wiki/マーティン・ファウラー) を引用しつつ、Datadog や New Relic などの紹介をしました。
 
 ## 開発環境
 
@@ -53,7 +53,7 @@ James Lewis と Martin Fowler を引用しつつ、Datadog や New Relic など�
 とはいえ、依存している Microservice (たとえば監査サービスなど) があると、動作確認ができなくて困ります。
 したがって、良い感じに自動で開発環境が構築される仕組みが必要という話をしました。
 
-Fastly ではエンジニアはほとんど Mac を使っていて (or Linux)、仮想マシン上に複数の LXC が立ち上がっている環境で開発しています。
+Fastly ではエンジニアはほとんど Mac を使っていて (or Linux)、仮想マシン上に複数の [LXC](https://linuxcontainers.org) が立ち上がっている環境で開発しています。
 各 LXC がサービスを表すノードです。
 この開発環境は専門のチームがメンテしてくれていて、困ったことがあるとチャットで助けてくれます。
 
@@ -64,7 +64,7 @@ Fastly ではエンジニアはほとんど Mac を使っていて (or Linux)、
 しかも、Microservices アーキテクチャは動いているパーツが多かったりなどで、外部要因 (物理障害など) による影響を受けやすいアーキテクチャです。
 
 上記の理由から、Microservices アーキテクチャでは、レジリエンス (回復力) のテストが極めて重要になってきます。
-レジリエンスのテスト手法として、Shopify が公開している toxiproxy という簡易的に厳しいネットワーク環境をエミュレートできる仕組みや、Netflix の Chaos Monkey や Chaos Kong といった常識はずれのテスト手法を紹介しました。
+レジリエンスのテスト手法として、[Shopify](https://www.shopify.com/) が公開している [toxiproxy](https://github.com/Shopify/toxiproxy) という簡易的に厳しいネットワーク環境をエミュレートできる仕組みや、[Netflix](https://www.netflix.com) の [Chaos Monkey](http://techblog.netflix.com/2012/07/chaos-monkey-released-into-wild.html) や [Chaos Kong](http://techblog.netflix.com/2015/09/chaos-engineering-upgraded.html) といった常識はずれのテスト手法を紹介しました。
 
 ## Fastly の Polyglot な環境
 
@@ -77,3 +77,8 @@ Fastly ではいろんなプログラミング言語を活用してシステム�
 Microservices という言葉をよく耳にするようになりましたが、結局はアーキテクチャのひとつです。
 万能なアーキテクチャは存在せず、誤った選択は逆に技術者の生産性や幸せ度を低下します。
 Microservices も例外ではありません。
+
+## 関連リンク
+
+- [出版記念イベント (O'Reilly)](https://www.oreilly.co.jp/editors/archives/2016/02/microservices_event.html)
+- [イベントの Togetter まとめ](https://togetter.com/li/949990)
