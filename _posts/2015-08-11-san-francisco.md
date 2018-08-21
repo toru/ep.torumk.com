@@ -3,6 +3,7 @@ title: 久しぶりのサンフランシスコ
 titlesuffix: true
 permalink: /missed-you-san-francisco
 tags: travel
+og_image: /ep/7bef0555.jpg
 published: true
 ---
 

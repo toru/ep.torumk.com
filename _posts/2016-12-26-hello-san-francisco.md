@@ -2,6 +2,7 @@
 title: サンフランシスコに引越しました
 titlesuffix: true
 permalink: /hello-san-francisco
+og_image: /ep/3e1sf4a1.jpg
 published: true
 ---
 

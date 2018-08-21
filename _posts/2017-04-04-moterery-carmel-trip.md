@@ -2,6 +2,7 @@
 title: セントラルコースト旅行
 titlesuffix: true
 permalink: /monterey-carmel-trip
+og_image: /ep/2b68a5e2.jpg
 tags: travel
 published: true
 ---

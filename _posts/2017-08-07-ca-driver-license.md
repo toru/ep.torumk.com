@@ -2,6 +2,7 @@
 title: カリフォルニア州の運転免許を取得
 titlesuffix: true
 permalink: /ca-driver-license
+og_image: /ep/fct07272.jpg
 published: true
 ---
 

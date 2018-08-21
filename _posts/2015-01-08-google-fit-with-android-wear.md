@@ -2,6 +2,7 @@
 title: Android Wear と Google Fit の感想
 titlesuffix: true
 permalink: /google-fit-with-android-wear
+og_image: /ep/6c979367.png
 published: true
 ---
 

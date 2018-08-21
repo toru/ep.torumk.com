@@ -1,6 +1,7 @@
 ---
 title: Microservices Casual Talks 後日談
 titlesuffix: true
+og_image: /ep/c12b169f.jpg
 permalink: /oreilly-microservices-event
 ---
 

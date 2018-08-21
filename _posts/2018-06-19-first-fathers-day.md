@@ -2,6 +2,7 @@
 title: はじめての父の日
 titlesuffix: true
 permalink: /first-fathers-day
+og_image: /ep/d4a29e83.jpg
 published: true
 ---
 

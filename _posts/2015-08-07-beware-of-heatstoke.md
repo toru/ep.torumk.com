@@ -2,6 +2,7 @@
 title: 熱中症でダウンしました
 titlesuffix: true
 permalink: /beware-of-heatstroke
+og_image: /ep/e94cd623.jpg
 published: true
 ---
 

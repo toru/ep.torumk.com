@@ -2,6 +2,7 @@
 title: 独立記念日をシアトルで過ごす
 titlesuffix: true
 permalink: /july-seattle-trip
+og_image: /ep/787fa989.jpg
 tags: travel
 published: true
 ---

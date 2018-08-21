@@ -2,6 +2,7 @@
 title: Vegan チョコケーキが美味しかった
 titlesuffix: true
 permalink: /vegan-chocolate-cake
+og_image: /ep/179c514f.jpg
 tags: vegan
 published: true
 ---

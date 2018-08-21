@@ -2,6 +2,7 @@
 title: Fastly で画像を配信するようにした
 titlesuffix: true
 permalink: /images-through-fastly
+og_image: /ep/13fd7008.jpg
 tags: fastly
 published: true
 ---

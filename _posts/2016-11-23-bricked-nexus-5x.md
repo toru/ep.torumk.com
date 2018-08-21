@@ -2,6 +2,7 @@
 title: Nexus 5X が文鎮化して困った話
 titlesuffix: true
 permalink: /bricked-nexus-5x
+og_image: /ep/7e1e936a.jpg
 published: true
 ---
 
