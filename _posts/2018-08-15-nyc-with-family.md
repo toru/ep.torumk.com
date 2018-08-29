@@ -9,7 +9,7 @@ published: true
 
 妻の出張に同行してニューヨーク市に来てます。
 
-![west-villega]({{ site.object_store }}/ep/89b7cf50.jpg)
+![nyc-west-village]({{ site.object_store }}/ep/89b7cf50.jpg)
 
 娘の保育園の休みが重なったことと、しばらく休暇をとっていなかったので、思いきって家族でニューヨーク市に来ました。
 West Village に宿泊してます。
