@@ -17,3 +17,7 @@ West Village に宿泊してます。
 とにかく暑い。
 最初は [Ergobaby](http://www.ergobaby.jp/about/) で移動していましたが、汗の量が心配で途中からストローラーに切り替えました。
 持ってきてよかった。
+
+## あわせて読みたい
+
+- [NYC で贅沢なベーグルに出会う]({% post_url 2018-08-16-murrays-salmon-bagel %})
