@@ -15,3 +15,7 @@ permalink: /week-with-the-little-one
 なかなか集中できないものの、たまたま低レイヤのバグを発見。
 Submit した修正が approve されたので成果的には満足。
 空気を吸うように WFH できる会社でよかったと思いつつ、いま思えば休んでよかったかも。
+
+## あわせて読みたい
+
+- [はじめての父の日]({% post_url 2018-06-19-first-fathers-day %})
