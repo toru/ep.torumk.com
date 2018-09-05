@@ -9,4 +9,8 @@ defaults:
       layout: 'default'
       is_post: true
 
-object_store: 'https://mk-cdn.global.ssl.fastly.net'
+object_store:
+  - https://mk-cdn.global.ssl.fastly.net
+
+plugins:
+  - jekyll-feed
