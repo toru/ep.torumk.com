@@ -17,3 +17,7 @@ Origin には [Google Cloud Storage](https://cloud.google.com/storage/) (GCS) �
 ついでに [Synthetic Response](https://docs.fastly.com/guides/basic-configuration/responses-tutorial) をつかった[テクニック](https://docs.fastly.com/guides/basic-configuration/creating-error-pages-with-custom-responses)で 403 エラーの見た目をよくしました。
 結果、良い検証データが得られるようになりました。
 満足。
+
+## あわせて読みたい
+
+- [Realtime CDN の Fastly に入社しました]({% post_url 2015-08-17-hello-fastly %})
