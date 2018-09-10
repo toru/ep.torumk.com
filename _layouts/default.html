@@ -3,10 +3,10 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta property="og:locale" content="ja_JP">
-  {% if page.og_image %}
-  <meta property="og:image" content="{{ site.object_store }}{{ page.og_image }}">
-  {% endif %}
+
+  {% if page.is_post %}<meta property="og:type" content="article">{% endif %}
+  {% if page.og_image %}<meta property="og:image" content="{{ site.object_store }}{{ page.og_image }}">{% endif %}
+
   <title>{{ page.title }}{% if page.titlesuffix %} | Toru Maesaka{% endif %}</title>
 
   <link rel="stylesheet" href="https://fonts.googleapis.com/earlyaccess/notosansjp.css">
