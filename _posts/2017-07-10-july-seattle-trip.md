@@ -16,3 +16,7 @@ published: true
 中でも友人夫婦 (& [その愛犬](https://www.instagram.com/tenley_inseattle/)) と [Little Si](https://www.wta.org/go-hiking/hikes/little-si) を登ったり、シアトル・マリナーズの試合を観戦したことで心身ともにリフレッシュできました。
 
 パシフィック・ノースウェストの豊かな緑は本当にすばらしい。
+
+## あわせて読みたい
+
+- [独立記念日をカリストガで過ごす]({% post_url 2018-07-06-calistoga-trip %})

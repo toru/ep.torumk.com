@@ -17,3 +17,7 @@ published: true
 
 次の日は [Frank Family Vineyards](https://www.frankfamilyvineyards.com) と [St. Supery Vineyards & Winery](https://www.stsupery.com) に行きました。
 思いの外 St. Supery で楽しい時間を過ごしてしまい、あっという間に帰る時間になってしまった。
+
+## あわせて読みたい
+
+- [独立記念日をシアトルで過ごす]({% post_url 2017-07-10-july-seattle-trip %})
