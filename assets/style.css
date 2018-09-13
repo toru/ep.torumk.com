@@ -53,9 +53,18 @@ h1 a:hover {
 .timeline a:visited {
   color: #555;
 }
-.timeline .meta .date {
+.timeline .date {
   font-size: 80%;
   color: #777;
+}
+
+.ep-count {
+  font-size: 80%;
+  color: #777;
+  text-align: right;
+}
+.ep-count span {
+  color: #ff2d55;
 }
 
 .post h1 {
