@@ -17,3 +17,7 @@ Github Pages への移行ついでに [Atom feed](https://ja.wikipedia.org/wiki/
 
 技術的にはあっけないほど簡単でした。GitHub Pages が [jekyll-feed](https://github.com/jekyll/jekyll-feed) という plugin の利用を認めているので、[乗っかりました](https://github.com/tmaesaka/ep.torumk.com/issues/2)。
 先走って Liquid Template で XML を生成しなくてよかった。
+
+## あわせて読みたい
+
+- [Fastly で画像を配信するようにした]({% post_url 2016-12-08-images-through-fastly %})
