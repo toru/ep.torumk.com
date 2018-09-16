@@ -17,6 +17,7 @@ published: true
 なかなか強気な価格設定でしたが、旅行中だしまあいいやと奮発しました。
 期待通りのプリプリでジューシーな味わいでした。
 
-## 関連リンク
+## あわせて読みたい
 
-- [パリで幻のグリーンオイスターに出会う](/french-oysters)
+- [Mission Rock Resort で生牡蠣]({% post_url 2018-08-10-oysters-at-mission-rock %})
+- [パリで幻のグリーンオイスターに出会う]({% post_url 2015-12-29-french-oysters %})
