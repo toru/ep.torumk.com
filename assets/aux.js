@@ -14,3 +14,14 @@ document.addEventListener('keyup', function(ev) {
       break;
   }
 });
+
+function isLocalStorageAvailable() {
+  var s = "e";
+  try {
+    localStorage.setItem(s,s);
+    localStorage.removeItem(s);
+    return true;
+  } catch(e) {
+    return false;
+  }
+}
