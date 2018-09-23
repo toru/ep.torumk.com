@@ -18,6 +18,6 @@ is_post: true
 このウェブサイトは日本との縁を守るために運営しています。
 主なコンテンツは不定期に発信している日々のエピソードです。
 マニアックなページを近日公開予定です。
-[GitHub Pages](https://pages.github.com/) をホスティングに利用しています ([ソースコード](https://github.com/tmaesaka/ep.torumk.com))。
+[GitHub Pages](https://pages.github.com/) をホスティングに利用しています ([ソースコード](https://github.com/toru/ep.torumk.com))。
 お問い合わせは <mailto:toru@torumk.com> までお願いします。
 ソーシャルメディアによるご連絡につきましては、お返事できない場合があります。

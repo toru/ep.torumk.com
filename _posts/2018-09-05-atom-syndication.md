@@ -15,7 +15,7 @@ Github Pages への移行ついでに [Atom feed](https://ja.wikipedia.org/wiki/
 一方で、流行り廃りに関係なく Pub/Sub 関係は普遍的な概念なので、Syndication を守り続けることにしました。
 [Subscribe](/feed.xml) してもらえると嬉しいです。
 
-技術的にはあっけないほど簡単でした。GitHub Pages が [jekyll-feed](https://github.com/jekyll/jekyll-feed) という plugin の利用を認めているので、[乗っかりました](https://github.com/tmaesaka/ep.torumk.com/issues/2)。
+技術的にはあっけないほど簡単でした。GitHub Pages が [jekyll-feed](https://github.com/jekyll/jekyll-feed) という plugin の利用を認めているので、[乗っかりました](https://github.com/toru/ep.torumk.com/issues/2)。
 先走って Liquid Template で XML を生成しなくてよかった。
 
 ## あわせて読みたい
