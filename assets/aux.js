@@ -33,12 +33,12 @@ class SearchEngine {
 
   loadSearchIndex() {
     if (self.fetch) {
-      fetch("/assets/fts.idx")
+      fetch(this.idxPath)
         .then(function(res) {
           if (res.ok) {
             return res.json()
           }
-          throw new Error('failed to download');
+          throw new Error('failed to download fts.idx');
         })
         .then(function(parsed) {
           // TODO: cache in localStorage
