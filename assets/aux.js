@@ -25,3 +25,25 @@ function isLocalStorageAvailable() {
     return false;
   }
 }
+
+function loadSearchIndex() {
+  if (self.fetch) {
+    fetch("/assets/fts.idx")
+      .then(function(res) {
+        if (res.ok) {
+          return res.json()
+        }
+        throw new Error('failed to download');
+      })
+      .then(function(parsed) {
+        // TODO: cache in localStorage
+        console.log(JSON.stringify(parsed));
+      })
+      .catch(function(err) {
+        console.log(err);
+      });
+  } else {
+    // TODO: fallback to XMLHttpRequest
+    return false;
+  }
+}
