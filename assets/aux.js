@@ -38,11 +38,14 @@ class SearchEngine {
           if (res.ok) {
             return res.json()
           }
-          throw new Error('failed to download fts.idx');
+          throw new Error("failed to download fts.idx");
         })
         .then(function(parsed) {
-          // TODO: cache in localStorage
-          console.log(JSON.stringify(parsed));
+          var idxStr = JSON.stringify(parsed);
+          if (SearchEngine.isLocalStorageAvailable()) {
+            localStorage.setItem("fts.idx", idxStr);
+          }
+          return idxStr;
         })
         .catch(function(err) {
           console.log(err);
