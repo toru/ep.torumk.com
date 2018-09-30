@@ -43,7 +43,11 @@ class SearchEngine {
         .then(function(parsed) {
           var idxStr = JSON.stringify(parsed);
           if (SearchEngine.isLocalStorageAvailable()) {
-            localStorage.setItem("fts.idx", idxStr);
+            try {
+              localStorage.setItem("fts.idx", idxStr);
+            } catch(e) {
+              console.error(e);
+            }
           }
           return idxStr;
         })
