@@ -6,6 +6,7 @@
 
   {% if page.is_post %}<meta property="og:type" content="article">{% endif %}
   {% if page.og_image %}<meta property="og:image" content="{{ site.object_store }}{{ page.og_image }}">{% endif %}
+  {% if page.is_post %}<meta property="og:description" content="{{ page.content | strip_html | truncatewords: 6 }}">{% endif %}
 
   <title>{{ page.title }}{% if page.titlesuffix %} | Toru Maesaka{% endif %}</title>
 
