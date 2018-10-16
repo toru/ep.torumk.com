@@ -1,0 +1,21 @@
+---
+title: サンフランシスコに関するエピソード
+titlesuffix: true
+permalink: /t/san-francisco
+layout: default
+---
+
+<p><a href="https://ja.wikipedia.org/wiki/サンフランシスコ">米サンフランシスコ</a>に関するエピソード集です。筆者が 2016 年から在住しています。</p>
+
+<div class="timeline">
+  <ul>
+    {% for post in site.tags['san-francisco'] %}
+    <li>
+      <a href="{{post.url}}">{{ post.title }}</a>
+      <div class="meta">
+        <span class="date">Published: {{ post.date | date: "%Y-%m-%d" }}</span>
+      </div>
+    </li>
+    {% endfor %}
+  </ul>
+</div>
