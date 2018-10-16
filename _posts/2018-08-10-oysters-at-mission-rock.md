@@ -3,7 +3,7 @@ title: Mission Rock Resort で生牡蠣
 titlesuffix: true
 permalink: /oysters-at-mission-rock
 og_image: /ep/f688410a.jpg
-tags: oyster
+tags: oyster san-francisco
 ---
 
 近所の [Mission Rock Resort](http://www.missionrockresort.com/) で生牡蠣を食べてきました。

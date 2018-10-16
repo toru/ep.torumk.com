@@ -2,6 +2,7 @@
 title: パンプキンパッチで秋を感じる
 titlesuffix: true
 permalink: /sf-pumpkin-patch
+tags: san-francisco
 og_image: /ep/e7168355.jpg
 ---
 

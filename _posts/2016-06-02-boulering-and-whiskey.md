@@ -1,8 +1,9 @@
 ---
 title: ボルダリングとウィスキー
 titlesuffix: true
-og_image: /ep/17b5b9cf.jpg
 permalink: /bouldering-and-whiskey
+tags: san-francisco
+og_image: /ep/17b5b9cf.jpg
 ---
 
 同僚たちと [Dogpatch Boulders](https://touchstoneclimbing.com/dogpatch-boulders/) に行ってきました。

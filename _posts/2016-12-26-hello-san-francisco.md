@@ -2,8 +2,8 @@
 title: サンフランシスコに引越しました
 titlesuffix: true
 permalink: /hello-san-francisco
+tags: san-francisco
 og_image: /ep/3e1sf4a1.jpg
-published: true
 ---
 
 実際には 8 月に引越しました。

@@ -2,6 +2,7 @@
 title: The Ramp のフィッシュ & チップス
 titlesuffix: true
 permalink: /fish-n-chips-at-the-ramp
+tags: san-francisco
 og_image: /ep/08c72de1.jpg
 ---
 
