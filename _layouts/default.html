@@ -4,9 +4,10 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  {% if page.is_post %}<meta property="og:type" content="article">{% endif %}
   {% if page.og_image %}<meta property="og:image" content="{{ site.object_store }}{{ page.og_image }}">{% endif %}
   {% if page.is_post %}
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="{{ page.title}}{% if page.titlesuffix %} | Toru Maesaka{% endif %}">
   <meta property="og:description" content="{{ page.content | strip_html | strip_newlines | truncate: 64 }}">
   <meta name="twitter:card" content="summary">
   <meta name="twitter:creator" content="@tmaesaka">
