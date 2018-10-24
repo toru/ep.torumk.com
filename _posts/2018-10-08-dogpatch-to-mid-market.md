@@ -2,6 +2,7 @@
 title: Dogpatch から Mid-Market へ
 titlesuffix: true
 og_image: /ep/a2f09b3f.jpg
+tags: san-francisco
 permalink: /dogpatch-to-mid-market
 ---
 
