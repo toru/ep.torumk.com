@@ -3,8 +3,8 @@ title: パリで幻のグリーンオイスターに出会う
 titlesuffix: true
 permalink: /french-oysters
 og_image: /ep/8bc6a823.jpg
+thumb: /ep/sq-8bc6a823.jpg
 tags: travel oyster
-published: true
 ---
 
 クリスマスの日にサンジェルマン・デ・プレで嬉しい出会いがありました。

@@ -157,3 +157,22 @@ h1 a:hover {
     padding-left: 30px;
   }
 }
+
+/* Experimental Block */
+.v2tl {
+  margin-bottom: 8px;
+  display: flex;
+  align-items: flex-start;
+}
+.v2tl img {
+  border-left: 1px solid gray;
+  padding-left: 4px;
+  margin-right: 10px;
+}
+.v2tl-body {
+  flex: 1;
+}
+.v2tl-body .date {
+  font-size: 85%;
+  color: #777;
+}

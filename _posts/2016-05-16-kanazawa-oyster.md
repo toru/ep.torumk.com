@@ -3,8 +3,8 @@ title: 近江町市場で生牡蠣を立ち食いする
 titlesuffix: true
 permalink: /kanazawa-oyster
 og_image: /ep/bf3e319c.jpg
+thumb: /ep/sq-bf3e319c.jpg
 tags: travel oyster
-published: true
 ---
 
 家族と[北陸新幹線](https://ja.wikipedia.org/wiki/%E5%8C%97%E9%99%B8%E6%96%B0%E5%B9%B9%E7%B7%9A)で金沢旅行にいってきました。

@@ -3,6 +3,7 @@ title: Mission Rock Resort で生牡蠣
 titlesuffix: true
 permalink: /oysters-at-mission-rock
 og_image: /ep/f688410a.jpg
+thumb: /ep/sq-f688410a.jpg
 tags: oyster san-francisco
 ---
 
