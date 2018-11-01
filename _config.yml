@@ -10,7 +10,7 @@ defaults:
       is_post: true
 
 object_store:
-  - https://mk-cdn.global.ssl.fastly.net
+  - https://mk-cdn.freetls.fastly.net
 
 plugins:
   - jekyll-feed
