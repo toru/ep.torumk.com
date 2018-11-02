@@ -4,12 +4,15 @@ titlesuffix: true
 permalink: /oysters-at-mission-rock
 og_image: /ep/f688410a.jpg
 thumb: /ep/sq-f688410a.jpg
+images:
+  - f688410a.jpg
+
 tags: oyster san-francisco
 ---
 
 近所の [Mission Rock Resort](http://www.missionrockresort.com/) で生牡蠣を食べてきました。
 
-![oyster]({{ site.object_store }}/ep/f688410a.jpg)
+![oyster]({{ site.object_store }}/ep/{{ page.images[0] }})
 
 入店前に娘が寝てくれたおかげで、久々にゆっくりとした食事を楽しめました。
 食べた牡蠣はカリフォルニア産の Kumamoto と Marin Miyagi オイスター。
