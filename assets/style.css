@@ -163,20 +163,28 @@ h1 a:hover {
   padding-left: 0px;
   list-style-type: none;
 }
+.v2tl > a:hover {
+  text-decoration: none;
+}
+.v2tl li {
+  border-left: 1px solid #444;
+}
+.v2tl li:hover {
+  border-left: 1px solid #ff2d55;
+}
 .v2tl-node {
   margin-bottom: 8px;
   display: flex;
   align-items: flex-start;
 }
-.v2tl-node img {
-  border-left: 1px solid gray;
+.v2tl-node > img {
   padding-left: 4px;
   margin-right: 10px;
 }
 .v2tl-body {
   flex: 1;
 }
-.v2tl-body .date {
+.v2tl-body > .date {
   font-size: 85%;
   color: #777;
 }
