@@ -7,12 +7,14 @@ layout: default
 
 <p>大好物の生牡蠣に関するエピソード集です。</p>
 
+<ul class="v2tl">
 {% for post in site.tags['oyster'] %}
-<div class="v2tl">
-  <img src="{{ site.object_store }}{{ post.thumb }}" width="48px">
-  <div class="v2tl-body">
-    <a href="{{post.url}}">{{ post.title }}</a>
-    <div class="date">Published: {{ post.date | date: "%Y-%m-%d" }}</div>
-  </div>
-</div>
+  <li class="v2tl-node">
+    <img src="{{ site.object_store }}{{ post.thumb }}" width="48px">
+    <div class="v2tl-body">
+      <a href="{{post.url}}">{{ post.title }}</a>
+      <div class="date">Published: {{ post.date | date: "%Y-%m-%d" }}</div>
+    </div>
+  </li>
 {% endfor %}
+</ul>

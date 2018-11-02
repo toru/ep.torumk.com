@@ -160,11 +160,15 @@ h1 a:hover {
 
 /* Experimental Block */
 .v2tl {
+  padding-left: 0px;
+  list-style-type: none;
+}
+.v2tl-node {
   margin-bottom: 8px;
   display: flex;
   align-items: flex-start;
 }
-.v2tl img {
+.v2tl-node img {
   border-left: 1px solid gray;
   padding-left: 4px;
   margin-right: 10px;
