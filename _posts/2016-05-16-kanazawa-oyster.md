@@ -3,7 +3,6 @@ title: 近江町市場で生牡蠣を立ち食いする
 titlesuffix: true
 permalink: /kanazawa-oyster
 og_image: /ep/bf3e319c.jpg
-thumb: /ep/sq-bf3e319c.jpg
 images:
   - bf3e319c.jpg
 

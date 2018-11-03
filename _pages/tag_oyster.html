@@ -11,7 +11,7 @@ layout: default
 {% for post in site.tags['oyster'] %}
   <a href="{{post.url}}">
     <li class="v2tl-node">
-      <img src="{{ site.object_store }}{{ post.thumb }}" width="48px">
+      <img src="{{ site.object_store }}/ep/sq-{{ post.images[0] }}" width="48px">
       <div class="v2tl-body">
         <div class="title">{{ post.title }}</div>
         <div class="date">Published: {{ post.date | date: "%Y-%m-%d" }}</div>

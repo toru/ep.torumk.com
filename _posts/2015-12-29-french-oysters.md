@@ -3,7 +3,6 @@ title: パリで幻のグリーンオイスターに出会う
 titlesuffix: true
 permalink: /french-oysters
 og_image: /ep/8bc6a823.jpg
-thumb: /ep/sq-8bc6a823.jpg
 images:
   - 8bc6a823.jpg
   - 56bfd92c.jpg
