@@ -9,7 +9,7 @@ og_image: /ep/fct07272.jpg
 カリフォルニア州の[普通運転免許](https://www.dmv.ca.gov/portal/dmv/detail/pubs/hdbk/lic_classes)を取得しました。
 以下、簡単な備忘録です。
 
-![gti]({{ site.object_store }}/ep/fct07272.jpg)
+![gti]({{ site.image_store }}fct07272.jpg)
 
 ## 筆記試験
 

@@ -8,7 +8,7 @@ permalink: /hello-fastly
 
 [Fastly](https://www.fastly.com) というサンフランシスコ発の会社に Software Engineer として入社しました。
 
-![fastly-luna]({{ site.object_store }}/ep/afc1edd1.jpg)
+![fastly-luna]({{ site.image_store }}afc1edd1.jpg)
 
 電子メールでやりとりするよりも実際に会って話したほうが効率的なので、サンフランシスコに行って就職活動をしました。
 最終的に Fastly を選んだ理由は創業者たちと働き方の価値観について意気投合したから、かな。

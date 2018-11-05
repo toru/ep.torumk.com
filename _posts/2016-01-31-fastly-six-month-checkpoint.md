@@ -9,7 +9,7 @@ published: true
 
 [Fastly](/t/fastly) にソフトウェアエンジニアとして入社してから半年たちました。
 
-![lunch]({{ site.object_store }}/ep/de976e33.jpg)
+![lunch]({{ site.image_store }}de976e33.jpg)
 
 入社前の約束どおり、日本からリモートでソフトウェア開発に励んでいます。
 リモートスタッフが想像よりも多く、リモートチーム前提の設備や文化が定着していて助かっています。

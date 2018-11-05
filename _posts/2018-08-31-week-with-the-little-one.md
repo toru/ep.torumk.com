@@ -8,7 +8,7 @@ permalink: /week-with-the-little-one
 
 妻が仕事でベルリンに発ちました。娘と自分は留守番です。
 
-![ucsf]({{ site.object_store }}/ep/5e207c72.jpg)
+![ucsf]({{ site.image_store }}5e207c72.jpg)
 
 幸いなことに週のほとんどは平和でしたが、昨日から娘が体調不良で保育園を休むことに。
 看病しつつ合間をみて仕事をすることにしました。

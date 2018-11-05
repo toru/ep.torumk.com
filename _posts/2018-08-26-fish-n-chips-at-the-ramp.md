@@ -8,7 +8,7 @@ og_image: /ep/08c72de1.jpg
 
 人気のブランチスポットでフィッシュアンドチップスを食べました。
 
-![fish-n-chips]({{ site.object_store }}/ep/08c72de1.jpg)
+![fish-n-chips]({{ site.image_store }}08c72de1.jpg)
 
 [The Ramp](http://www.rampsf.com/) のフィッシュアンドチップスはスティック型の切り身に厚めの衣というスタイルでした。
 自分好みのスタイルではないですが、ビールと店の雰囲気のおかげで気持ちよく週末の午前中を過ごせました。

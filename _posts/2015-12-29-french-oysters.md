@@ -13,7 +13,7 @@ tags: travel oyster
 
 クリスマスの日にサンジェルマン・デ・プレで嬉しい出会いがありました。
 
-![green-oyster]({{ site.object_store}}/ep/{{ page.images[0] }})
+![green-oyster]({{ site.image_store }}{{ page.images[0] }})
 
 ## 牡蠣が食べたかった
 
@@ -26,7 +26,7 @@ tags: travel oyster
 
 いろんな牡蠣が提供されていましたが、お兄さんに食べたほうが良いと勧められたグリーンと Pousse en Claire オイスターをミックスでいただきました。
 
-![french-oysters]({{ site.object_store }}/ep/{{ page.images[1] }})
+![french-oysters]({{ site.image_store }}{{ page.images[1] }})
 
 あとから知ったのですが、これらの牡蠣は本当に特別なようで、期間限定でしか食べることができないようです。
 Pousse en Claire に関しては、ネット上での評判が特に良く、Financial Times が究極のオイスターと評しているほどです。
@@ -39,7 +39,7 @@ Pousse en Claire に関しては、ネット上での評判が特に良く、Fin
 
 ## 感謝
 
-![opium-paris]({{ site.object_store }}/ep/{{ page.images[2] }})
+![opium-paris]({{ site.image_store }}{{ page.images[2] }})
 
 パリは今年、いろんなことがありましたが、彼のようなホスピタリティに溢れた若者に触れて、これからも世界中のみんなが訪れる町でいてほしいと思いました。
 

@@ -7,7 +7,7 @@ og_image: /ep/7b2a7363.jpg
 
 長年共にしてきた自転車が盗まれました。
 
-![bike-rack]({{ site.object_store }}/ep/7b2a7363.jpg)
+![bike-rack]({{ site.image_store }}7b2a7363.jpg)
 
 
 ずっと室内保管主義でしたが、アパートメントにある地下駐輪場の厳重な[入退室セキュリティ](https://twitter.com/tmaesaka/status/1042482700274130944)に気を緩めました。

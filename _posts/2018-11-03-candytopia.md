@@ -12,7 +12,7 @@ tags: san-francisco
 月末まで営業している [Candytopia SF](https://www.candytopia.com/) というキャンディアート展示会に行ってきました。
 画像はキャンディで作られたドラゴンです。
 
-![candy-dragon]({{ site.object_store}}/ep/{{ page.images[0] }})
+![candy-dragon]({{ site.image_store }}{{ page.images[0] }})
 
 この手のエキシビションは妻が得意で、いつの間にか家族分のチケットを入手していました。
 エキシビション自体は短めでしたが、どの空間もアートが素敵で娘も大喜び。

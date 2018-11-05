@@ -8,7 +8,7 @@ og_image: /ep/c45c5e09.jpg
 ほこりをかぶっていた [Fitbit Blaze](https://en.wikipedia.org/wiki/List_of_Fitbit_products#Fitbit_Blaze) を再び使い始めました。
 
 
-![fitbit-blaze]({{ site.object_store }}/ep/c45c5e09.jpg)
+![fitbit-blaze]({{ site.image_store }}c45c5e09.jpg)
 
 発端は屋外ジョギングをはじめたこと。
 ついでにトラッキングデバイスがほしいと考え Garmin や Apple Watch を真剣に検討しました。

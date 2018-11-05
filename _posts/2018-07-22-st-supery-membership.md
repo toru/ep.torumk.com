@@ -9,7 +9,7 @@ published: true
 
 ナパで訪れた [St. Supéry Estate Vineyards & Winery](https://www.stsupery.com) のワインクラブに入会しました。
 
-![st-supery-estate]({{ site.object_store }}/ep/84d1f0e6.jpg)
+![st-supery-estate]({{ site.image_store }}84d1f0e6.jpg)
 
 もともと St. Supéry を知ったきっかけは ANA のファーストクラスでサーブされた、という家族の土産話でした。
 ナパ滞在中にたまたまワイナリーが目に入ったので、これは良い機会だと思い訪問しました。

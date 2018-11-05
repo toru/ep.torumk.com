@@ -8,7 +8,7 @@ og_image: /ep/e7168355.jpg
 
 友人家とパンプキンパッチに行ってきました。
 
-![pumpkins]({{ site.object_store }}/ep/e7168355.jpg)
+![pumpkins]({{ site.image_store }}e7168355.jpg)
 
 
 当初は[ハーフムーンベイ](https://ja.wikipedia.org/wiki/ハーフムーンベイ_(カリフォルニア州))にあるパンプキンパッチに行く予定でしたが、この時期は激込みらしく、かわりにサンフランシスコの [Clancy’s Pumpkin Patch](https://www.yelp.com/biz/clancys-christmas-trees-and-pumpkin-patch-san-francisco) に行ってきました。

@@ -9,7 +9,7 @@ published: true
 
 マレーシアのペナン島に行ってきました。
 
-![tropical-spice-garden]({{ site.object_store }}/ep/867edce6.jpg)
+![tropical-spice-garden]({{ site.image_store }}867edce6.jpg)
 
 西洋文化、アジア文化、そしてイスラム文化が交差している不思議な環境でした。
 [ペナンの歴史](https://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%8A%E3%83%B3%E3%81%AE%E6%AD%B4%E5%8F%B2)やイギリス東インド会社がもたらした影響を観光しながら学びました。

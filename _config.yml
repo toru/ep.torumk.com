@@ -12,5 +12,8 @@ defaults:
 object_store:
   - https://mk-cdn.freetls.fastly.net
 
+image_store:
+  - https://mk-cdn.freetls.fastly.net/ep/
+
 plugins:
   - jekyll-feed

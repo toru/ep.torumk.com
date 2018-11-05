@@ -9,7 +9,7 @@ published: true
 
 贅沢なベーグルを食べる機会に恵まれました。
 
-![bagel]({{ site.object_store }}/ep/d2783c95.jpg)
+![bagel]({{ site.image_store }}d2783c95.jpg)
 
 発端は宿泊先の近所で見かけたベーグル屋 ([Murray's Bagels](http://www.murraysbagels.com))に朝食を買いに行ったこと。
 繁盛していたので、これは間違いないと思い入店。

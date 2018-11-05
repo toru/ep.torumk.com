@@ -7,7 +7,7 @@ permalink: /oreilly-microservices-event
 
 株式会社オライリー・ジャパン主催の「[マイクロサービスアーキテクチャ](https://www.oreilly.co.jp/books/9784873117607/)」出版記念イベントで久しぶりに話してきました。
 
-![random-day-at-fastly]({{ site.object_store }}/ep/c12b169f.jpg)
+![random-day-at-fastly]({{ site.image_store }}c12b169f.jpg)
 
 制限時間 20 分で Microservices アーキテクチャを語るのは厳しいので、開発現場のリアルな話や、Microservices に対して厳しい内容に絞りました。
 
