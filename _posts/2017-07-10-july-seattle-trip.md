@@ -4,7 +4,6 @@ titlesuffix: true
 permalink: /july-seattle-trip
 og_image: /ep/787fa989.jpg
 tags: travel
-published: true
 ---
 
 独立記念日の連休を利用して、久々にシアトルを訪れました。

@@ -4,7 +4,6 @@ titlesuffix: true
 permalink: /fastly-altitude-2016
 tags: fastly
 og_image: /ep/ea970d55.jpg
-published: true
 ---
 
 [Altitude](https://www.fastly.com/altitude) という、[Fastly](/t/fastly) が主催するカスタマーサミットに参加しました。

@@ -4,7 +4,6 @@ titlesuffix: true
 permalink: /calistoga-trip
 tags: travel napa wine
 og_image: /ep/97c49484.jpg
-published: true
 ---
 
 今年の独立記念日は家族で[ナパ](https://ja.wikipedia.org/wiki/ナパ郡_(カリフォルニア州))北部の[カリストガ](http://www.visitcalifornia.com/jp/attraction/カリストガ)に行きました。

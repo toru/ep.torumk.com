@@ -4,7 +4,6 @@ titlesuffix: true
 permalink: /fastly-six-month-checkpoint
 tags: fastly
 og_image: /ep/de976e33.jpg
-published: true
 ---
 
 [Fastly](/t/fastly) にソフトウェアエンジニアとして入社してから半年たちました。

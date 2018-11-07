@@ -4,7 +4,6 @@ titlesuffix: true
 permalink: /nyc-with-family
 tags: travel
 og_image: /ep/89b7cf50.jpg
-published: true
 ---
 
 妻の出張に同行してニューヨーク市に来てます。

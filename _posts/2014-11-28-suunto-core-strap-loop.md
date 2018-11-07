@@ -3,7 +3,6 @@ title: Suunto Core の遊環を DIY 交換した
 titlesuffix: true
 permalink: /suunto-core-strap-loop
 og_image: /ep/bc5a20bf.jpg
-published: true
 ---
 
 消耗によるものでしょうか、Suunto Core の遊環がちぎれました。

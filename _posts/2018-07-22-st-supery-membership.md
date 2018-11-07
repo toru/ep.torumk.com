@@ -4,7 +4,6 @@ titlesuffix: true
 permalink: /st-supery-membership
 tags: wine
 og_image: /ep/84d1f0e6.jpg
-published: true
 ---
 
 ナパで訪れた [St. Supéry Estate Vineyards & Winery](https://www.stsupery.com) のワインクラブに入会しました。

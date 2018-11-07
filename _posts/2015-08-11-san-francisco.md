@@ -4,7 +4,6 @@ titlesuffix: true
 permalink: /missed-you-san-francisco
 tags: travel san-francisco
 og_image: /ep/7bef0555.jpg
-published: true
 ---
 
 久しぶりにプライベートでサンフランシスコを訪れました。

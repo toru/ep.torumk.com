@@ -4,7 +4,6 @@ titlesuffix: true
 permalink: /murrays-salmon-bagel
 tags: travel
 og_image: /ep/d2783c95.jpg
-published: true
 ---
 
 贅沢なベーグルを食べる機会に恵まれました。

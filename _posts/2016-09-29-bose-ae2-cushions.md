@@ -3,7 +3,6 @@ title: Bose AE2 のイヤパッドを交換　
 titlesuffix: true
 permalink: /bose-ae2-cushions
 og_image: /ep/bf829426.jpg
-published: true
 ---
 
 消耗しきった [Bose AE2](https://www.bose.com/en_us/support/products/over_ear_headphones_support/ae2_headphones.html) のイヤパッドを交換しました。

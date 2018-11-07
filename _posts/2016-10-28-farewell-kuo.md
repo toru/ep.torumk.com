@@ -3,7 +3,6 @@ title: 電動アシスト自転車 A2B Kuo を手放す
 titlesuffix: true
 permalink: /farewell-kuo
 og_image: /ep/42dca746.jpg
-published: true
 ---
 
 米国への移住に伴い、折りたたみ電動アシスト自転車を手放しました。

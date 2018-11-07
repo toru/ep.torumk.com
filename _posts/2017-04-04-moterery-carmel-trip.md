@@ -4,7 +4,6 @@ titlesuffix: true
 permalink: /monterey-carmel-trip
 og_image: /ep/2b68a5e2.jpg
 tags: travel
-published: true
 ---
 
 西海岸の[モントレー](https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%B3%E3%83%88%E3%83%AC%E3%83%BC)と[カーメル・バイ・ザ・シー](https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%BC%E3%83%A1%E3%83%AB%E3%83%BB%E3%83%90%E3%82%A4%E3%83%BB%E3%82%B6%E3%83%BB%E3%82%B7%E3%83%BC)に行ってきました。

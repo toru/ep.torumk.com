@@ -4,7 +4,6 @@ titlesuffix: true
 permalink: /vegan-chocolate-cake
 og_image: /ep/179c514f.jpg
 tags: vegan san-francisco
-published: true
 ---
 
 サンフランシスコの [Whole Foods Market](https://www.wholefoodsmarket.com/) (4th & Harrison) できまぐれに購入した [Cafe Indigo](https://www.cafeindigo.com/) の Vegan チョコレートケーキが美味しくて感激しました。

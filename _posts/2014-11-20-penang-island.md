@@ -4,7 +4,6 @@ titlesuffix: true
 permalink: /penang-island
 tags: travel
 og_image: /ep/867edce6.jpg
-published: true
 ---
 
 マレーシアのペナン島に行ってきました。

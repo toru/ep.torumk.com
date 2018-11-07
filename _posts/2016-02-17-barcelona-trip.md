@@ -4,7 +4,6 @@ titlesuffix: true
 permalink: /barcelona-trip
 og_image: /ep/afc84e87.jpg
 tags: travel
-published: true
 ---
 
 [年末のパリ旅行](/french-oysters)のついでに、少し足を伸ばしてバルセロナにも行ってきました。
