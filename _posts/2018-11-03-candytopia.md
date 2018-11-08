@@ -2,7 +2,6 @@
 title: Candytopia SF とラーメン
 titlesuffix: true
 permalink: /candytopia-sf
-og_image: /ep/ed705905.jpg
 images:
   - ed705905.jpg
 
