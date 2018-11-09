@@ -7,15 +7,21 @@ layout: default
 
 <p><a href="https://ja.wikipedia.org/wiki/サンフランシスコ">米サンフランシスコ</a>に関するエピソード集です。筆者が 2016 年から在住しています。</p>
 
-<div class="timeline">
-  <ul>
-    {% for post in site.tags['san-francisco'] %}
-    <li>
-      <a href="{{post.url}}">{{ post.title }}</a>
-      <div class="meta">
-        <span class="date">Published: {{ post.date | date: "%Y-%m-%d" }}</span>
+<ul class="v2tl">
+{% for post in site.tags['san-francisco'] %}
+  <a href="{{post.url}}">
+    <li class="v2tl-node">
+      {% if post.thumb %}
+      <img src="{{ site.object_store }}/ep/sq-{{ post.images[0] }}" width="48px">
+      {% else %}
+      {% assign fallback_indices = "0|1|2" | split: "|" %}
+      <img src="{{ site.object_store }}/ep/sq-fallback-{{ fallback_indices | sample }}.png" width="48px">
+      {% endif %}
+      <div class="v2tl-body">
+        <div class="title">{{ post.title }}</div>
+        <div class="date">Published: {{ post.date | date: "%Y-%m-%d" }}</div>
       </div>
     </li>
-    {% endfor %}
-  </ul>
-</div>
+  </a>
+{% endfor %}
+</ul>
