@@ -1,14 +1,17 @@
 ---
 title: 久しぶりのサンフランシスコ
 titlesuffix: true
+thumb: true
+images:
+  - 7bef0555.jpg
+
 permalink: /missed-you-san-francisco
 tags: travel san-francisco
-og_image: /ep/7bef0555.jpg
 ---
 
-久しぶりにプライベートでサンフランシスコを訪れました。
+久しぶりにプライベートで[サンフランシスコ](/t/san-francisco)を訪れました。
 
-![cento-sf]({{ site.image_store }}7bef0555.jpg)
+![cento-sf]({{ site.image_store }}{{ page.images[0] }})
 
 ## 天気が良いのに寒い
 
@@ -30,4 +33,5 @@ og_image: /ep/7bef0555.jpg
 
 ## 関連エピソード
 
-- [2016-12-26: サンフランシスコに引越しました]({% post_url 2016-12-26-hello-san-francisco %})
+- [サンフランシスコに引越しました]({% post_url 2016-12-26-hello-san-francisco %})
+- [アルカトラズとブルーエンジェルス]({% post_url 2018-10-06-sf-fleet-week-2018 %})

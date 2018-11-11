@@ -1,10 +1,11 @@
 ---
 title: Ford GoBike 通勤をはじめた
 titlesuffix: true
-permalink: /ford-gobike-commute
+thumb: true
 images:
   - f0f39426.png
 
+permalink: /ford-gobike-commute
 tags: san-francisco
 ---
 
