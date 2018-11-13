@@ -1,15 +1,18 @@
 ---
 title: カリフォルニア州の運転免許を取得
 titlesuffix: true
+thumb: true
+images:
+  - fct07272.jpg
+
 permalink: /ca-driver-license
 tags: san-francisco
-og_image: /ep/fct07272.jpg
 ---
 
 カリフォルニア州の[普通運転免許](https://www.dmv.ca.gov/portal/dmv/detail/pubs/hdbk/lic_classes)を取得しました。
 以下、簡単な備忘録です。
 
-![gti]({{ site.image_store }}fct07272.jpg)
+![gti]({{ site.image_store }}{{ page.images[0] }})
 
 ## 筆記試験
 

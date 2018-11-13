@@ -1,14 +1,17 @@
 ---
 title: The Ramp のフィッシュ & チップス
 titlesuffix: true
+thumb: true
+images:
+  - 08c72de1.jpg
+
 permalink: /fish-n-chips-at-the-ramp
 tags: san-francisco
-og_image: /ep/08c72de1.jpg
 ---
 
 人気のブランチスポットでフィッシュアンドチップスを食べました。
 
-![fish-n-chips]({{ site.image_store }}08c72de1.jpg)
+![fish-n-chips]({{ site.image_store }}{{ page.images[0] }})
 
 [The Ramp](http://www.rampsf.com/) のフィッシュアンドチップスはスティック型の切り身に厚めの衣というスタイルでした。
 自分好みのスタイルではないですが、ビールと店の雰囲気のおかげで気持ちよく週末の午前中を過ごせました。

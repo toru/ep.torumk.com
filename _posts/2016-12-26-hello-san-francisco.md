@@ -1,16 +1,19 @@
 ---
 title: サンフランシスコに引越しました
 titlesuffix: true
+thumb: true
+images:
+  - 3e1sf4a1.jpg
+
 permalink: /hello-san-francisco
 tags: san-francisco
-og_image: /ep/3e1sf4a1.jpg
 ---
 
 実際には 8 月に引越しました。
 バタバタしていて、きちんとした近況報告ができていなかったので、最近の出来事をまとめました。
 まずは荷物から。
 
-![luggage]({{ site.image_store }}3e1sf4a1.jpg)
+![luggage]({{ site.image_store }}{{ page.images[0] }})
 
 なるべく荷物の量を減らしたものの、バックパックひとつでニュージーランドから日本に移住したときに比べて、だいぶ増えました。
 今回は自転車も運びました。　
@@ -31,3 +34,7 @@ og_image: /ep/3e1sf4a1.jpg
 東京からサンフランシスコ本社への転籍という形で、引き続き [Fastly](https://www.fastly.com) で働いています。
 チームは変わりましたが仕事内容や一緒に働いている人たちは同じなので、今まで通りの仕事をしています。
 まだ新生活に慣れていませんが、落ちついたらサンフランシスコでの仕事や暮らしについても書いていけたらと思います。
+
+## あわせて読みたい
+
+- [自転車が盗まれた]({% post_url 2018-09-19-bike-stolen %})

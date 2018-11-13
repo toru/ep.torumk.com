@@ -1,10 +1,11 @@
 ---
 title: Candytopia SF とラーメン
 titlesuffix: true
-permalink: /candytopia-sf
+thumb: true
 images:
   - ed705905.jpg
 
+permalink: /candytopia-sf
 tags: san-francisco
 ---
 

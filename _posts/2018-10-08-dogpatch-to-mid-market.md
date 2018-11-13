@@ -1,14 +1,17 @@
 ---
 title: Dogpatch から Mid-Market へ
 titlesuffix: true
-og_image: /ep/a2f09b3f.jpg
-tags: san-francisco
+thumb: true
+images:
+  - a2f09b3f.jpg
+
 permalink: /dogpatch-to-mid-market
+tags: san-francisco
 ---
 
 ライフスタイルの変化に伴い引越しました。
 
-![civic-center]({{ site.image_store }}a2f09b3f.jpg)
+![civic-center]({{ site.image_store }}{{ page.images[0] }})
 
 [Dogpatch](https://en.wikipedia.org/wiki/Dogpatch,_San_Francisco) は小奇麗なことや、[UCSF Mission Bay](http://www.ucsfmissionbayhospitals.org) に徒歩で行けるところを気に入っていました。
 しかし最近になって保育園の送り迎えと通勤の両立がつらくなってきたので、地理的に都合の良い [Mid-Market](https://en.wikipedia.org/wiki/Mid-Market,_San_Francisco) 地区に引越しました。
