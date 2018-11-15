@@ -1,10 +1,11 @@
 ---
 title: 近江町市場で生牡蠣を立ち食いする
 titlesuffix: true
-permalink: /kanazawa-oyster
+thumb: true
 images:
   - bf3e319c.jpg
 
+permalink: /kanazawa-oyster
 tags: travel oyster
 ---
 

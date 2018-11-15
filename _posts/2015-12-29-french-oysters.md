@@ -1,12 +1,13 @@
 ---
 title: パリで幻のグリーンオイスターに出会う
 titlesuffix: true
-permalink: /french-oysters
+thumb: true
 images:
   - 8bc6a823.jpg
   - 56bfd92c.jpg
   - 37a9520a.jpg
 
+permalink: /french-oysters
 tags: travel oyster
 ---
 
