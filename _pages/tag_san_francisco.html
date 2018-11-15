@@ -7,21 +7,4 @@ layout: default
 
 <p>カリフォルニア州 <a href="https://ja.wikipedia.org/wiki/サンフランシスコ">サンフランシスコ市</a>に関するエピソード集です。筆者が 2016 年から暮らしています。</p>
 
-<ul class="v2tl">
-{% for post in site.tags['san-francisco'] %}
-  <a href="{{post.url}}">
-    <li class="v2tl-node">
-      {% if post.thumb %}
-      <img src="{{ site.object_store }}/ep/sq-{{ post.images[0] }}" width="48px">
-      {% else %}
-      {% assign fallback_indices = "0|1|2" | split: "|" %}
-      <img src="{{ site.object_store }}/ep/sq-fallback-{{ fallback_indices | sample }}.png" width="48px">
-      {% endif %}
-      <div class="v2tl-body">
-        <div class="title">{{ post.title }}</div>
-        <div class="date">Published: {{ post.date | date: "%Y-%m-%d" }}</div>
-      </div>
-    </li>
-  </a>
-{% endfor %}
-</ul>
+{% include timeline.html tag="san-francisco" %}
