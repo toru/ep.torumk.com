@@ -1,14 +1,17 @@
 ---
 title: Realtime CDN の Fastly に入社しました
 titlesuffix: true
-tags: fastly
-og_image: /ep/afc1edd1.jpg
+thumb: true
+images:
+  - afc1edd1.jpg
+
 permalink: /hello-fastly
+tags: fastly
 ---
 
 [Fastly](https://www.fastly.com) というサンフランシスコ発の会社に Software Engineer として入社しました。
 
-![fastly-luna]({{ site.image_store }}afc1edd1.jpg)
+![fastly-luna]({{ site.image_store }}{{ page.images[0] }})
 
 電子メールでやりとりするよりも実際に会って話したほうが効率的なので、サンフランシスコに行って就職活動をしました。
 最終的に Fastly を選んだ理由は創業者たちと働き方の価値観について意気投合したから、かな。
