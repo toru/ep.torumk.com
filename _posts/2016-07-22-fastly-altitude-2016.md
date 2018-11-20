@@ -1,14 +1,17 @@
 ---
 title: Fastly Altitude 2016 参加録
 titlesuffix: true
+thumb: true
+images:
+  - ea970d55.jpg
+
 permalink: /fastly-altitude-2016
 tags: fastly
-og_image: /ep/ea970d55.jpg
 ---
 
 [Altitude](https://www.fastly.com/altitude) という、[Fastly](/t/fastly) が主催するカスタマーサミットに参加しました。
 
-![altitude-2016]({{ site.image_store }}ea970d55.jpg)
+![altitude-2016]({{ site.image_store }}{{ page.images[0] }})
 
 Altitude は端的にいうと、Fastly の顧客やスタッフによる、エッジの未来やテクノロジーに関するカンファレンスです。
 プロダクトの近況報告や今後のロードマップが紹介され、自分も最近まで担当していた[プロジェクト](https://docs.fastly.com/api/auth#tokens)のお披露目や、その啓蒙活動もかねて喋りました。

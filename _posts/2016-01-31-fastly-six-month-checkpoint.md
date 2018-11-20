@@ -1,14 +1,17 @@
 ---
 title: Fastly に入社して半年
 titlesuffix: true
+thumb: true
+images:
+  - de976e33.jpg
+
 permalink: /fastly-six-month-checkpoint
 tags: fastly
-og_image: /ep/de976e33.jpg
 ---
 
 [Fastly](/t/fastly) にソフトウェアエンジニアとして入社してから半年たちました。
 
-![lunch]({{ site.image_store }}de976e33.jpg)
+![lunch]({{ site.image_store }}{{ page.images[0] }})
 
 入社前の約束どおり、日本からリモートでソフトウェア開発に励んでいます。
 リモートスタッフが想像よりも多く、リモートチーム前提の設備や文化が定着していて助かっています。
