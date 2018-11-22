@@ -17,9 +17,8 @@ tags: san-francisco
 市内は自分も含め [N95 マスク](https://ja.wikipedia.org/wiki/N95%E3%83%9E%E3%82%B9%E3%82%AF)をしている人が多く、マスクを小馬鹿にしていた人たちも状況を察してマスクを求めるようになったそうです。
 AQI の悪化に伴い周辺地域の教育機関は休校になったので、今日は家で娘の面倒をみていました。
 
-寄付をするにも方法が多くて戸惑いました。
-しかも調べている過程で詐欺を発見してしまい何とも言えない気持ちになりました。
-リサーチの結果、Google と提携している Center for Disaster Philanthropy の [CDP California Wildfires Recovery Fund](https://disasterphilanthropy.org/cdp-fund/cdp-california-wildfires-recovery-fund/) を選びました。
+寄付をする方法を調べた結果、自分はGoogle と提携している Center for Disaster Philanthropy の [CDP California Wildfires Recovery Fund](https://disasterphilanthropy.org/cdp-fund/cdp-california-wildfires-recovery-fund/) に寄付をするこにしました。
+調べている過程で詐欺を発見してしまい悲しい気持ちになりました。
 
 ## あわせて読みたい
 
