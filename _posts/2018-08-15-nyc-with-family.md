@@ -1,14 +1,17 @@
 ---
 title: 思いきってニューヨーク市へ
 titlesuffix: true
+thumb: true
+images:
+  - 89b7cf50.jpg
+
 permalink: /nyc-with-family
 tags: travel
-og_image: /ep/89b7cf50.jpg
 ---
 
 妻の出張に同行してニューヨーク市に来てます。
 
-![nyc-west-village]({{ site.image_store }}89b7cf50.jpg)
+![nyc-west-village]({{ site.image_store }}{{ page.images[0] }})
 
 娘の保育園の休みが重なったことと、しばらく休暇をとっていなかったので、思いきって家族でニューヨーク市に来ました。
 West Village に宿泊してます。

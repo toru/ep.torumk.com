@@ -1,14 +1,17 @@
 ---
 title: デンバーの標高はきびしい
 titlesuffix: true
+thumb: true
+images:
+  - bc19cee0.jpg
+
 permalink: /hello-denver
 tags: travel
-og_image: /ep/bc19cee0.jpg
 ---
 
 出張で[コロラド州・デンバー](https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%B3%E3%83%90%E3%83%BC)に来ています。
 
-![denver-lodo]({{ site.image_store }}bc19cee0.jpg)
+![denver-lodo]({{ site.image_store }}{{ page.images[0] }})
 
 デンバーの[ロウアー・ダウンタウン](https://en.wikipedia.org/wiki/LoDo,_Denver)は広々としていて気持ちがいいです。
 歩道や建物も清潔感があり好印象です。

@@ -1,14 +1,17 @@
 ---
 title: NYC で贅沢なベーグルに出会う
 titlesuffix: true
+thumb: true
+images:
+  - d2783c95.jpg
+
 permalink: /murrays-salmon-bagel
 tags: travel
-og_image: /ep/d2783c95.jpg
 ---
 
 贅沢なベーグルを食べる機会に恵まれました。
 
-![bagel]({{ site.image_store }}d2783c95.jpg)
+![bagel]({{ site.image_store }}{{ page.images[0] }})
 
 発端は宿泊先の近所で見かけたベーグル屋 ([Murray's Bagels](http://www.murraysbagels.com))に朝食を買いに行ったこと。
 繁盛していたので、これは間違いないと思い入店。
