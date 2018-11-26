@@ -1,14 +1,17 @@
 ---
 title: 独立記念日をカリストガで過ごす
 titlesuffix: true
+thumb: true
+images:
+  - 97c49484.jpg
+
 permalink: /calistoga-trip
 tags: travel napa wine
-og_image: /ep/97c49484.jpg
 ---
 
 今年の独立記念日は家族で[ナパ](https://ja.wikipedia.org/wiki/ナパ郡_(カリフォルニア州))北部の[カリストガ](http://www.visitcalifornia.com/jp/attraction/カリストガ)に行きました。
 
-![calistoga]({{ site.image_store }}97c49484.jpg)
+![calistoga]({{ site.image_store }}{{ page.images[0] }})
 
 いわゆる、ザ・ナパバレーといった感じではなく、独特のゆったりとした雰囲気が特徴的でした。
 [宿泊先](https://www.tripadvisor.com/Hotel_Review-g32143-d80906-Reviews-Calistoga_Motor_Lodge_and_Spa-Calistoga_Napa_Valley_California.html)はインスタ映えしそうな可愛い宿で少し盛り上がりました。

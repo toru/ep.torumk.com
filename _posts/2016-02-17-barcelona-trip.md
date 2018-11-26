@@ -1,14 +1,17 @@
 ---
 title: バルセロナで地中海の息吹を感じる
 titlesuffix: true
+thumb: true
+images:
+  - afc84e87.jpg
+
 permalink: /barcelona-trip
-og_image: /ep/afc84e87.jpg
 tags: travel
 ---
 
 [年末のパリ旅行](/french-oysters)のついでに、少し足を伸ばしてバルセロナにも行ってきました。
 
-![barcelona]({{ site.image_store }}afc84e87.jpg)
+![barcelona]({{ site.image_store }}{{ page.images[0] }})
 
 バルセロナはとにかく食事とお酒が美味しくて素晴らしかったです。
 しかも全体的にリーズナブルな価格。
