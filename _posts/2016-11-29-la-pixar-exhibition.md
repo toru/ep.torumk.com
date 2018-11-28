@@ -1,14 +1,17 @@
 ---
 title: ロサンゼルスとピクサー展
 titlesuffix: true
+thumb: true
+images:
+  - 7e894ad4.jpg
+
 permalink: /la-pixar-exhibition
-og_image: /ep/7e894ad4.jpg
 tags: travel
 ---
 
 Thanksgiving の休日をつかって LA にいる親戚を訪れてきました。
 
-![pixar-exhibition]({{ site.image_store }}7e894ad4.jpg)
+![pixar-exhibition]({{ site.image_store }}{{ page.images[0] }})
 
 市内を運転していたらピクサー展の広告が目に入り、これは行かねばと即行動しました。
 企画展のテーマはピクサーを支える科学、技術、そして制作プロセスでした。
