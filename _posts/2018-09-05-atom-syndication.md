@@ -1,13 +1,15 @@
 ---
 title: Atom feed を堂々と吐く
 titlesuffix: true
-og_image: /ep/42e2c964.png
+images:
+  - 42e2c964.png
+
 permalink: /atom-syndication
 ---
 
 Github Pages への移行ついでに [Atom feed](https://ja.wikipedia.org/wiki/Atom_(%E3%82%A6%E3%82%A7%E3%83%96%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%E9%85%8D%E4%BF%A1)#Atom_Syndication_Format) の配信を開始しました。
 
-![gp-jekyll-feed]({{ site.image_store }}42e2c964.png)
+![gp-jekyll-feed]({{ site.image_store }}{{ page.images[0] }})
 
 [Google Reader](https://ja.wikipedia.org/wiki/Google%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC) が終了してから早や 5 年。
 フィードという言葉をめっきり聞かなくなりました。

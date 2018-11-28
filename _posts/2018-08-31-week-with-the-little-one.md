@@ -1,14 +1,16 @@
 ---
 title: 週を娘と二人で過ごす
 titlesuffix: true
-tags: parenting
-og_image: /ep/5e207c72.jpg
+images:
+  - 5e207c72.jpg
+
 permalink: /week-with-the-little-one
+tags: parenting
 ---
 
 妻が仕事でベルリンに発ちました。娘と自分は留守番です。
 
-![ucsf]({{ site.image_store }}5e207c72.jpg)
+![ucsf]({{ site.image_store }}{{ page.images[0] }})
 
 幸いなことに週のほとんどは平和でしたが、昨日から娘が体調不良で保育園を休むことに。
 看病しつつ合間をみて仕事をすることにしました。

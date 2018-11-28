@@ -1,13 +1,15 @@
 ---
 title: 金沢カレーに目覚める
 titlesuffix: true
-og_image: /ep/a2937ffb.jpg
+images:
+  - a2937ffb.jpg
+
 permalink: /kanazawa-curry
 ---
 
 老舗の[ターバンカレー本店](http://www.turbancurry.com/)に行ってきました。
 
-![kanazawa-curry]({{ site.image_store }}a2937ffb.jpg)
+![kanazawa-curry]({{ site.image_store }}{{ page.images[0] }})
 
 ロースカツカレーにオプションで「生卵 (割り込み)」を注文しました。
 割り込みってなんだろう？と妄想を膨らませながら待つこと 10 分弱、カレーが目の前に運ばれます。

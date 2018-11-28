@@ -1,13 +1,15 @@
 ---
 title: はじめての父の日
 titlesuffix: true
+images:
+  - d4a29e83.jpg
+
 permalink: /first-fathers-day
-og_image: /ep/d4a29e83.jpg
 ---
 
 先日、はじめて父として父の日を迎えました。
 
-![family]({{ site.image_store }}d4a29e83.jpg)
+![family]({{ site.image_store }}{{ page.images[0] }})
 
 実は家族に言われるまで父の日であることを忘れていました。
 父の日のプレゼントには妻から自由時間を少しもらいました。

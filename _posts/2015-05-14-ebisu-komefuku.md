@@ -1,13 +1,15 @@
 ---
 title: お米が主役の「恵比寿 米福」
 titlesuffix: true
+images:
+  - 32a9460d.jpg
+
 permalink: /ebisu-komefuku
-og_image: /ep/32a9460d.jpg
 ---
 
 ふぁるさんの誘いで古い仲間たちと[集まりました](http://fal.hatenablog.com/entry/2015/05/15/001918)。
 
-![rice]({{ site.image_store }}32a9460d.jpg)
+![rice]({{ site.image_store }}{{ page.images[0] }})
 
 お米が主役の和食店というだけあって、[ごはんのお供](http://www.ebisu-komefuku.com/menu/)が充実していました。
 今回は「コウノトリ育むお米」と「江戸前穴子の炊き込みごはん」を 1 合づついただきました。

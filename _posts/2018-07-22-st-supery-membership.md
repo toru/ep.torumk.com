@@ -1,14 +1,16 @@
 ---
 title: St. Supéry ワイナリーの会員になった
 titlesuffix: true
+images:
+  - 84d1f0e6.jpg
+
 permalink: /st-supery-membership
 tags: wine
-og_image: /ep/84d1f0e6.jpg
 ---
 
 ナパで訪れた [St. Supéry Estate Vineyards & Winery](https://www.stsupery.com) のワインクラブに入会しました。
 
-![st-supery-estate]({{ site.image_store }}84d1f0e6.jpg)
+![st-supery-estate]({{ site.image_store }}{{ page.images[0] }})
 
 もともと St. Supéry を知ったきっかけは ANA のファーストクラスでサーブされた、という家族の土産話でした。
 ナパ滞在中にたまたまワイナリーが目に入ったので、これは良い機会だと思い訪問しました。

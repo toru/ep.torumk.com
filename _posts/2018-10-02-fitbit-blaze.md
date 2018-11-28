@@ -1,14 +1,16 @@
 ---
 title: Fitbit Blaze 復活
 titlesuffix: true
+images:
+  - c45c5e09.jpg
+
 permalink: /fitbit-blaze-revived
-og_image: /ep/c45c5e09.jpg
 ---
 
 ほこりをかぶっていた [Fitbit Blaze](https://en.wikipedia.org/wiki/List_of_Fitbit_products#Fitbit_Blaze) を再び使い始めました。
 
 
-![fitbit-blaze]({{ site.image_store }}c45c5e09.jpg)
+![fitbit-blaze]({{ site.image_store }}{{ page.images[0] }})
 
 発端は屋外ジョギングをはじめたこと。
 ついでにトラッキングデバイスがほしいと考え Garmin や Apple Watch を真剣に検討しました。

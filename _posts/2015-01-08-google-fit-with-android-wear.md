@@ -1,13 +1,15 @@
 ---
 title: Android Wear と Google Fit の感想
 titlesuffix: true
+images:
+  - 6c979367.png
+
 permalink: /google-fit-with-android-wear
-og_image: /ep/6c979367.png
 ---
 
 [LG G Watch](https://en.wikipedia.org/wiki/LG_G_Watch) を手に入れたので [Google Fit](https://www.google.com/fit/) をつかってみました。
 
-![gfit-stats]({{ site.image_store }}6c979367.png)
+![gfit-stats]({{ site.image_store }}{{ page.images[0] }})
 
 先月の一日あたりの歩数は最低: 2,413、最大: 18,771、中央値: 13,732、平均: 12,858 でした。
 いい感じに身体を動かせたと思います。

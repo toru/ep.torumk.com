@@ -1,13 +1,15 @@
 ---
 title: 熱中症でダウンしました
 titlesuffix: true
+images:
+  - e94cd623.jpg
+
 permalink: /beware-of-heatstroke
-og_image: /ep/e94cd623.jpg
 ---
 
 油断大敵。熱中症でダウンしました。
 
-![unrelated-vineyard]({{ site.image_store }}e94cd623.jpg)
+![unrelated-vineyard]({{ site.image_store }}{{ page.images[0] }})
 
 朝起きてから部屋でコンピュータ作業をしていました。
 汗をかいてもどうせシャワーに入るから大丈夫だろうとエアコンをつけずに油断していました。

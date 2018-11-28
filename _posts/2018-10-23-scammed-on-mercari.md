@@ -1,13 +1,15 @@
 ---
 title: Mercari US で即返品を味わう
 titlesuffix: true
-og_image: /ep/267efb70.jpg
+images:
+  - 267efb70.jpg
+
 permalink: /scammed-on-mercari
 ---
 
 米メルカリでアップル製品を売ったら即返品されました (追記: 傷物が返ってきました)。
 
-![kirby]({{ site.image_store }}267efb70.jpg)
+![kirby]({{ site.image_store }}{{ page.images[0] }})
 
 アメリカで頑張っているメルカリを応援しようと思い、無料で譲る予定だった新品同様のアップル製品を [List](https://twitter.com/tmaesaka/status/1053362964814737408) しました。
 デバイスは当日中に売れ、その体験が嬉しくて即 Shipping に取りかかりました。
