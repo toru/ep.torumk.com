@@ -17,3 +17,7 @@ image_store:
 
 plugins:
   - jekyll-feed
+
+author:
+  name: Toru Maesaka
+  uri: https://twitter.com/tmaesaka
