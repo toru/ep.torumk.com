@@ -44,9 +44,9 @@
       <div class="published">{{ page.date | date: "%B %-d, %Y" }}</div>
       <section class="content">{{ content }}</section>
 
-      {% if page.related_episodes %}
+      {% if page.related %}
       <h2>あわせて読みたい</h2>
-      {% include related_episodes.html ep_ids=page.related_episodes %}
+      {% include related_episodes.html ep_ids=page.related %}
       {% endif %}
 
       <div class="adjacent-posts">

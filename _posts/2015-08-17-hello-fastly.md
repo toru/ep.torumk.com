@@ -6,8 +6,8 @@ thumb: true
 images:
   - afc1edd1.jpg
 
-related_episodes:
-  - /missed-you-san-francisco
+related:
+  - /hello-san-francisco
   - /fastly-altitude-2016
 
 permalink: /hello-fastly
