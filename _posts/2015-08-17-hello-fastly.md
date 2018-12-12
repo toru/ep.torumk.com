@@ -2,8 +2,13 @@
 title: Realtime CDN の Fastly に入社しました
 titlesuffix: true
 thumb: true
+
 images:
   - afc1edd1.jpg
+
+related_episodes:
+  - /missed-you-san-francisco
+  - /fastly-altitude-2016
 
 permalink: /hello-fastly
 tags: fastly
@@ -29,8 +34,3 @@ tags: fastly
 
 CDN の作り方なんて考えたことすらないので、解らないことばかりです。
 ポジティブに考えると技術者として成長するチャンスなので、初心にもどって頑張ります。
-
-## あわせて読みたい
-
-- [久しぶりのサンフランシスコ]({% post_url 2015-08-11-san-francisco %})
-- [Fastly Altitude 2016 参加録]({% post_url 2016-07-22-fastly-altitude-2016 %})
