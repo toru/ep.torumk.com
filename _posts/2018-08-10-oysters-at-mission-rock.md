@@ -2,8 +2,13 @@
 title: Mission Rock Resort で生牡蠣
 titlesuffix: true
 thumb: true
+
 images:
   - f688410a.jpg
+
+related:
+  - /french-oysters
+  - /kanazawa-oyster
 
 permalink: /oysters-at-mission-rock
 tags: oyster san-francisco
@@ -17,8 +22,3 @@ tags: oyster san-francisco
 食べた牡蠣はカリフォルニア産の Kumamoto と Marin Miyagi オイスター。
 どちらもクリーミーで美味しいのですが、小振りなところが満足度的に惜しいです。
 Mission Rock はストローラーに優しいレストランなので、家族のブランチスポットとして重宝しています。
-
-## あわせて読みたい
-
-- [パリで幻のグリーンオイスターに出会う]({% post_url 2015-12-29-french-oysters %})
-- [近江町市場で生牡蠣を立ち食いする](/kanazawa-oyster)

@@ -2,8 +2,13 @@
 title: 近江町市場で生牡蠣を立ち食いする
 titlesuffix: true
 thumb: true
+
 images:
   - bf3e319c.jpg
+
+related:
+  - /oysters-at-mission-rock
+  - /french-oysters
 
 permalink: /kanazawa-oyster
 tags: travel oyster
@@ -18,8 +23,3 @@ tags: travel oyster
 場内は活気があり、歩いていると店頭で牡蠣が食べられるお店をいくつか発見しました。
 なかなか強気な価格設定でしたが、旅行中だしまあいいやと奮発しました。
 期待通りのプリプリでジューシーな味わいでした。
-
-## あわせて読みたい
-
-- [Mission Rock Resort で生牡蠣]({% post_url 2018-08-10-oysters-at-mission-rock %})
-- [パリで幻のグリーンオイスターに出会う]({% post_url 2015-12-29-french-oysters %})

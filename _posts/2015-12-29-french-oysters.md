@@ -2,10 +2,15 @@
 title: パリで幻のグリーンオイスターに出会う
 titlesuffix: true
 thumb: true
+
 images:
   - 8bc6a823.jpg
   - 56bfd92c.jpg
   - 37a9520a.jpg
+
+related:
+  - /kanazawa-oyster
+  - /oysters-at-mission-rock
 
 permalink: /french-oysters
 tags: travel oyster
@@ -42,8 +47,3 @@ Pousse en Claire に関しては、ネット上での評判が特に良く、Fin
 ![opium-paris]({{ site.image_store }}{{ page.images[2] }})
 
 パリは今年、いろんなことがありましたが、彼のようなホスピタリティに溢れた若者に触れて、これからも世界中のみんなが訪れる町でいてほしいと思いました。
-
-## あわせて読みたい
-
-- [近江町市場で生牡蠣を立ち食いする](/kanazawa-oyster)
-- [Mission Rock Resort で生牡蠣]({% post_url 2018-08-10-oysters-at-mission-rock %})
