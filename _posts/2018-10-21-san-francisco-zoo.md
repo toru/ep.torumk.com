@@ -2,9 +2,13 @@
 title: サンフランシスコ動物園で童心に返る
 titlesuffix: true
 thumb: true
+
 images:
   - 5bc6ff91.jpg
 
+related:
+  - /fish-n-chips-at-the-ramp
+  - /nyc-with-family
 permalink: /san-francisco-zoo
 tags: san-francisco
 ---
@@ -19,8 +23,3 @@ tags: san-francisco
 家族で園内のメリーゴーラウンドにも乗りました。
 娘は乗れると思っていなかったようで、とても喜んでくれました。
 また行くのが楽しみです。
-
-## あわせて読みたい
-
-- [The Ramp のフィッシュ & チップス]({% post_url 2018-08-26-fish-n-chips-at-the-ramp %})
-- [思いきってニューヨーク市へ]({% post_url 2018-08-15-nyc-with-family %})

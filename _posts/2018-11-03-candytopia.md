@@ -2,8 +2,13 @@
 title: Candytopia SF とラーメン
 titlesuffix: true
 thumb: true
+
 images:
   - ed705905.jpg
+
+related:
+  - /san-francisco-zoo
+  - /sf-pumpkin-patch
 
 permalink: /candytopia-sf
 tags: san-francisco
@@ -18,8 +23,3 @@ tags: san-francisco
 エキシビション自体は短めでしたが、どの空間もアートが素敵で娘も大喜び。
 エキシビション後は隣にある [Ippudo SF](https://www.yelp.com/biz/ippudo-san-francisco-san-francisco-3) でランチ。
 この味玉は偽物だと店員に苦言を呈している人を見て、美味しんぼが頭を横切りました。
-
-## あわせて読みたい
-
-- [サンフランシスコ動物園で童心に返る]({% post_url 2018-10-21-san-francisco-zoo %})
-- [パンプキンパッチで秋を感じる]({% post_url 2018-10-14-sf-pumpkin-patch %})

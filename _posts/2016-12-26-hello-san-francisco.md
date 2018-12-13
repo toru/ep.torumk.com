@@ -2,8 +2,13 @@
 title: サンフランシスコに引越しました
 titlesuffix: true
 thumb: true
+
 images:
   - 3e1sf4a1.jpg
+
+related:
+  - /san-francisco-zoo
+  - /bike-stolen
 
 permalink: /hello-san-francisco
 tags: san-francisco
@@ -34,7 +39,3 @@ tags: san-francisco
 東京からサンフランシスコ本社への転籍という形で、引き続き [Fastly](https://www.fastly.com) で働いています。
 チームは変わりましたが仕事内容や一緒に働いている人たちは同じなので、今まで通りの仕事をしています。
 まだ新生活に慣れていませんが、落ちついたらサンフランシスコでの仕事や暮らしについても書いていけたらと思います。
-
-## あわせて読みたい
-
-- [自転車が盗まれた]({% post_url 2018-09-19-bike-stolen %})

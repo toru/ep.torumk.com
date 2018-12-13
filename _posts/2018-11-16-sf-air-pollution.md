@@ -2,8 +2,13 @@
 title: 山火事と自宅待機
 titlesuffix: true
 thumb: true
+
 images:
   - eb8cac0a.jpg
+
+related:
+  - /blue-sky
+  - /week-with-the-little-one
 
 permalink: /sf-air-pollution
 tags: san-francisco
@@ -19,7 +24,3 @@ AQI の悪化に伴い周辺地域の教育機関は休校になったので、�
 
 寄付をする方法を調べた結果、自分はGoogle と提携している Center for Disaster Philanthropy の [CDP California Wildfires Recovery Fund](https://disasterphilanthropy.org/cdp-fund/cdp-california-wildfires-recovery-fund/) に寄付をするこにしました。
 調べている過程で詐欺を発見してしまい悲しい気持ちになりました。
-
-## あわせて読みたい
-
-- [週を娘と二人で過ごす]({% post_url 2018-08-31-week-with-the-little-one %})

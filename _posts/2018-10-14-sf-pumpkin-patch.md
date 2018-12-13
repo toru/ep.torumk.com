@@ -2,8 +2,13 @@
 title: パンプキンパッチで秋を感じる
 titlesuffix: true
 thumb: true
+
 images:
   - e7168355.jpg
+
+related:
+  - /blue-sky
+  - /week-with-the-little-one
 
 permalink: /sf-pumpkin-patch
 tags: san-francisco
@@ -18,7 +23,3 @@ tags: san-francisco
 季節感あふれるプレゼンテーションがとても素敵でした。
 子どもたちよりもインスタ映えを求める大人たちが盛り上がっていた気がする。
 来年はもっとはしゃいでくれるといいな。
-
-## あわせて読みたい
-
-- [週を娘と二人で過ごす]({% post_url 2018-08-31-week-with-the-little-one %})

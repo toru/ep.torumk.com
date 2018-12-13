@@ -2,8 +2,13 @@
 title: カリフォルニア州の運転免許を取得
 titlesuffix: true
 thumb: true
+
 images:
   - fct07272.jpg
+
+related:
+  - /ford-gobike-commute
+  - /bike-stolen
 
 permalink: /ca-driver-license
 tags: san-francisco

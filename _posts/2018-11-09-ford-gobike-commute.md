@@ -2,8 +2,13 @@
 title: Ford GoBike 通勤をはじめた
 titlesuffix: true
 thumb: true
+
 images:
   - f0f39426.png
+
+related:
+  - /dogpatch-to-mid-market
+  - /bike-stolen
 
 permalink: /ford-gobike-commute
 tags: san-francisco
@@ -20,8 +25,3 @@ tags: san-francisco
 自転車の個体差 (消耗度) がたまに気になるので、自転車を選ぶ際に注意が必要です。
 月額 $15 で片道 45 分まで乗り放題は破格だと思う。
 [Bike Angels](https://www.fordgobike.com/bikeangels) というプログラムにも参加したので、そっち方面の活動についても今後書いていこうと思います。
-
-## あわせて読みたい
-
-- [Dogpatch から Mid-Market へ]({% post_url 2018-10-08-dogpatch-to-mid-market %})
-- [自転車が盗まれた]({% post_url 2018-09-19-bike-stolen %})

@@ -2,8 +2,13 @@
 title: Dogpatch から Mid-Market へ
 titlesuffix: true
 thumb: true
+
 images:
   - a2f09b3f.jpg
+
+related:
+  - /ford-gobike-commute
+  - /hello-san-francisco
 
 permalink: /dogpatch-to-mid-market
 tags: san-francisco
@@ -18,7 +23,3 @@ tags: san-francisco
 業者は友人の紹介で [Corrib](https://www.yelp.com/biz/corrib-moving-and-storage-san-francisco-5) を使いました。
 仕事が丁寧なかわりにレートが高い業者なので、箱詰めを自分たちでするなどして請求額を抑えました。
 去るのは寂しいですが Dogpatch には好きな[精肉店](https://www.yelp.com/biz/oliviers-butchery-san-francisco)と[チーズ屋](https://www.yelp.com/biz/la-fromagerie-cheese-shop-san-francisco-2)があるので、これからも通い続けると思います。
-
-## あわせて読みたい
-
-- [サンフランシスコに引越しました]({% post_url 2016-12-26-hello-san-francisco %})

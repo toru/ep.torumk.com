@@ -2,8 +2,13 @@
 title: 久しぶりのサンフランシスコ
 titlesuffix: true
 thumb: true
+
 images:
   - 7bef0555.jpg
+
+related:
+  - /hello-san-francisco
+  - /sf-fleet-week-2018
 
 permalink: /missed-you-san-francisco
 tags: travel san-francisco
@@ -30,8 +35,3 @@ tags: travel san-francisco
 アパートメントやオフィスビルの建設ラッシュが起きているようです。
 自分が宿泊していた Grand Hyatt の隣では新しいアップルストアを建設していました。
 近々また仕事で訪れることになりそうなので、次回はサウスベイの方にも行きたい。
-
-## 関連エピソード
-
-- [サンフランシスコに引越しました]({% post_url 2016-12-26-hello-san-francisco %})
-- [アルカトラズとブルーエンジェルス]({% post_url 2018-10-06-sf-fleet-week-2018 %})
