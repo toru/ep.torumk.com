@@ -2,8 +2,14 @@
 title: デンバーの標高はきびしい
 titlesuffix: true
 thumb: true
+
 images:
   - bc19cee0.jpg
+
+related:
+  - /nyc-with-family
+  - /la-pixar-exhibition
+
 
 permalink: /hello-denver
 tags: travel
@@ -19,7 +25,3 @@ tags: travel
 ただし、標高 1 マイル (1609.3 メートル) は伊達ではなく、すこし探検しただけで息があがりました。
 運動による影響でしょうか、初日の夜は頭痛に悩まされました。
 次回は家族と冬の[アスペン](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%B9%E3%83%9A%E3%83%B3_(%E3%82%B3%E3%83%AD%E3%83%A9%E3%83%89%E5%B7%9E))に行きたい。
-
-## あわせて読みたい
-
-- [ロサンゼルスとピクサー展]({% post_url 2016-11-29-la-pixar-exhibition %})

@@ -2,8 +2,13 @@
 title: セントラルコースト旅行
 titlesuffix: true
 thumb: true
+
 images:
   - 2b68a5e2.jpg
+
+related:
+  - /calistoga-trip
+  - /thanksgiving-2018
 
 permalink: /monterey-carmel-trip
 tags: travel

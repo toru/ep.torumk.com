@@ -2,8 +2,13 @@
 title: 独立記念日をカリストガで過ごす
 titlesuffix: true
 thumb: true
+
 images:
   - 97c49484.jpg
+
+related:
+  - /thanksgiving-2018
+  - /july-seattle-trip
 
 permalink: /calistoga-trip
 tags: travel napa wine
@@ -19,7 +24,3 @@ tags: travel napa wine
 
 次の日は [Frank Family Vineyards](https://www.frankfamilyvineyards.com) と [St. Supery Vineyards & Winery](https://www.stsupery.com) に行きました。
 思いの外 St. Supery で楽しい時間を過ごしてしまい、あっという間に帰る時間になってしまった。
-
-## あわせて読みたい
-
-- [独立記念日をシアトルで過ごす]({% post_url 2017-07-10-july-seattle-trip %})

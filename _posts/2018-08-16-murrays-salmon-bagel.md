@@ -2,8 +2,13 @@
 title: NYC で贅沢なベーグルに出会う
 titlesuffix: true
 thumb: true
+
 images:
   - d2783c95.jpg
+
+related:
+  - /nyc-with-family
+  - /fish-n-chips-at-the-ramp
 
 permalink: /murrays-salmon-bagel
 tags: travel
@@ -22,7 +27,3 @@ tags: travel
 魚多すぎ？と心配しましたが、他の具でしっかりと味がまとまっていて、最後まで美味しくいただきました。
 ベーグルも固すぎず自分好み。
 いい体験ができました。
-
-## あわせて読みたい
-
-- [思いきってニューヨーク市へ]({% post_url 2018-08-15-nyc-with-family %})
