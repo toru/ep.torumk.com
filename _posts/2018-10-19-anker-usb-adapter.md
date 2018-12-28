@@ -1,8 +1,14 @@
 ---
 title: Anker の USB-C to USB 3.0 アダプタ
 titlesuffix: true
+thumb: true
+
 images:
   - c27f8cbe.jpg
+
+related:
+  - /fitbit-blaze
+  - /scammed-on-mercari
 
 permalink: /anker-usb-adapter
 ---
@@ -16,7 +22,3 @@ permalink: /anker-usb-adapter
 外部モニタ出力は USB-C to [mDP](https://en.wikipedia.org/wiki/Mini_DisplayPort) のアダプタがオフィスに転がっていたので、それを拝借しました。
 あと周辺機器は [M570](https://www.amazon.co.jp/dp/B0043XYENO/?tag=amzntm-22) をつかっていて、[Unifying レシーバー](https://en.wikipedia.org/wiki/Logitech_Unifying_receiver)を HHKB に挿しました。
 ひとつで済むのに、ふたつもアダプタを挿しているという矛盾はありますが、自分はこの方が好みかな。
-
-## あわせて読みたい
-
-- [Fitbit Blaze 復活]({% post_url 2018-10-02-fitbit-blaze %})

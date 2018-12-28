@@ -1,8 +1,14 @@
 ---
 title: Fitbit Blaze 復活
 titlesuffix: true
+thumb: true
+
 images:
   - c45c5e09.jpg
+
+related:
+  - /la-pixar-exhibition
+  - /farewell-kuo
 
 permalink: /fitbit-blaze-revived
 ---
@@ -17,7 +23,3 @@ permalink: /fitbit-blaze-revived
 そんな中、ふと使わなくなった Blaze のことを思い出しました。
 考えてみると機能的には Blaze で十分なので、バッテリーがヘタるまで使い続けることにしました。
 それにしても、なんでファームウェアの焼き直しってこんなに時間がかかるんだろう。
-
-## あわせて読みたい
-
-- [電動アシスト自転車 A2B Kuo を手放す]({% post_url 2016-10-28-farewell-kuo %})
