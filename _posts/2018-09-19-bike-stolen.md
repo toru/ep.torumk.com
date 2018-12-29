@@ -1,8 +1,14 @@
 ---
 title: 自転車が盗まれた
 titlesuffix: true
+thumb: true
+
 images:
   - 7b2a7363.jpg
+
+related:
+  - /ford-gobike-commute
+  - /flat-tire-repair
 
 permalink: /bike-stolen
 ---
@@ -17,7 +23,3 @@ permalink: /bike-stolen
 盗まれた自転車は 10 年近く前に [なるしまフレンド (神宮店)](http://www.nalsimafrend.jp/shop/jingu.html) で購入した Orbea Aqua。
 年数もですが、一緒にアメリカに移住してきた自転車なので、大事な友人を失った気分です。
 みなさんもお気をつけください。
-
-## あわせて読みたい
-
-- [ロードバイクのタイヤチューブ交換]({% post_url 2015-06-09-flat-tire-repair %})
