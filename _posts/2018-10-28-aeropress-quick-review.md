@@ -1,6 +1,7 @@
 ---
 title: AeroPress が手に馴染んできた
 titlesuffix: true
+thumb: true
 
 images:
   - c4d66bdf.jpg

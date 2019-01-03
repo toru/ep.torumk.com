@@ -1,8 +1,14 @@
 ---
 title: 熱中症でダウンしました
 titlesuffix: true
+thumb: true
+
 images:
   - e94cd623.jpg
+
+related:
+  - /monterey-get-away
+  - /hello-denver
 
 permalink: /beware-of-heatstroke
 ---

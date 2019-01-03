@@ -1,8 +1,14 @@
 ---
 title: 週を娘と二人で過ごす
 titlesuffix: true
+thumb: true
+
 images:
   - 5e207c72.jpg
+
+related:
+  - /first-fathers-day
+  - /monterey-get-away
 
 permalink: /week-with-the-little-one
 tags: parenting
@@ -17,7 +23,3 @@ tags: parenting
 なかなか集中できないものの、たまたま低レイヤのバグを発見。
 Submit した修正が Approve されたので成果的には満足。
 空気を吸うように WFH できる会社でよかったと思いつつ、いま思えば休んでよかったかも。
-
-## あわせて読みたい
-
-- [はじめての父の日]({% post_url 2018-06-19-first-fathers-day %})

@@ -1,8 +1,14 @@
 ---
 title: はじめての父の日
 titlesuffix: true
+thumb: true
+
 images:
   - d4a29e83.jpg
+
+related:
+  - /nyc-with-family
+  - /week-with-the-little-one
 
 permalink: /first-fathers-day
 ---
@@ -16,7 +22,3 @@ permalink: /first-fathers-day
 僕がモノよりも時間を大事にしていることを理解してくれていて、ありがたいです。
 結局、その貴重な時間を[ルパン三世 PART5](https://lupin-pt5.com/) の鑑賞につかってしまい、もったいないことをしました。
 リラックスできたからいいかな。
-
-## あわせて読みたい
-
-- [週を娘と二人で過ごす]({% post_url 2018-08-31-week-with-the-little-one %})
