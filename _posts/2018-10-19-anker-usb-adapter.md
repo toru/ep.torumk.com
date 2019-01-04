@@ -7,7 +7,7 @@ images:
   - c27f8cbe.jpg
 
 related:
-  - /fitbit-blaze
+  - /fitbit-blaze-revived
   - /scammed-on-mercari
 
 permalink: /anker-usb-adapter
