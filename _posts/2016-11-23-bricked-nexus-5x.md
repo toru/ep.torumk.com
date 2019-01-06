@@ -1,8 +1,14 @@
 ---
 title: Nexus 5X が文鎮化して困った話
 titlesuffix: true
+thumb: true
+
 images:
   - 7e1e936a.jpg
+
+related:
+  - /samsung-837
+  - /fitbit-blaze-revived
 
 permalink: /bricked-nexus-5x
 ---
@@ -20,18 +26,16 @@ permalink: /bricked-nexus-5x
 調べてみたところ、どうやら一部の Nexus 5X と [Android 7.0 (Nougat)](https://www.android.com/versions/nougat-7-0/) との相性がすごぶる悪いらしく、かなりの人数がすでに bootloop について Android の [Issue Tracker で嘆いています](https://issuetracker.google.com/issues/37117345)。
 不思議なことに自分は 9/1 に Android 7.0 にアップデートしたので、すでに 2 ヶ月たっています。
 きっかけは何だったんだろうか。
-
-悪あがきで System Cache Partition をワイプしたり、いろんなアプリの Cache をクリアするなどしましたが効果なしでした。
-システムを起動できた一瞬の間に [2016-11 のアップデート (NRD91N)](https://source.android.com/security/bulletin/2016-11-01.html) が雲から降ってきて、これで直るかも！と期待しましたが、残念ながらアップデート後にループが悪化しました。
+System Cache Partition をワイプしたり、いろんなアプリの Cache をクリアするなどしましたが効果なしでした。
+システムを起動できた一瞬の間に [2016-11 のアップデート (NRD91N)](https://source.android.com/security/bulletin/2016-11-01.html) が降ってきて期待しましたが、残念ながらアップデート後にループが悪化しました。
 
 ## ベンジャミンが飛んでゆく
 
 Nexus 5X は今まで温かい目で見守ってきましたが、さすがにもう無理です。
 保証で本体を交換するという選択肢もありますが、面倒なので、[Project Fi](https://fi.google.com/) 経由で [Pixel XL](https://en.wikipedia.org/wiki/Pixel_(smartphone)) を注文しました。
 痛い出費です。
-
 今回の出来事でスマートフォンの重要性を痛感しました。
-とはいえ、こういった想定外の出来事は起きるものなので、重要なデバイスやソフトウェアの冗長化を見直していこうと思います。
+一方で、想定外の出来事は起きるものなので、重要なデバイスやソフトウェアの冗長化を見直していこうと思います。
 
 ## 関連リンク
 
