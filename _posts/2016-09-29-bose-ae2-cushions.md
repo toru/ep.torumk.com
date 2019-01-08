@@ -1,8 +1,14 @@
 ---
 title: Bose AE2 のイヤパッドを交換　
 titlesuffix: true
+thumb: true
+
 images:
   - bf829426.jpg
+
+related:
+  - /anker-usb-adapter
+  - /aeropress-quick-review
 
 permalink: /bose-ae2-cushions
 ---
