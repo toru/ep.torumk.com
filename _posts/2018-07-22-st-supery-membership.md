@@ -1,8 +1,14 @@
 ---
 title: St. Supéry ワイナリーの会員になった
 titlesuffix: true
+thumb: true
+
 images:
   - 84d1f0e6.jpg
+
+related:
+  - /monterey-get-away
+  - /breakfast-at-republique
 
 permalink: /st-supery-membership
 tags: wine
