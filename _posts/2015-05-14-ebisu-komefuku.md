@@ -1,8 +1,14 @@
 ---
 title: お米が主役の「恵比寿 米福」
 titlesuffix: true
+thumb: true
+
 images:
   - 32a9460d.jpg
+
+related:
+  - /breakfast-at-republique
+  - /kanazawa-curry
 
 permalink: /ebisu-komefuku
 ---

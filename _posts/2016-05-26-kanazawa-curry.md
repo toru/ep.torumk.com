@@ -1,8 +1,14 @@
 ---
 title: 金沢カレーに目覚める
 titlesuffix: true
+thumb: true
+
 images:
   - a2937ffb.jpg
+
+related:
+  - /kanazawa-oyster
+  - /murrays-salmon-bagel
 
 permalink: /kanazawa-curry
 ---
@@ -17,7 +23,3 @@ permalink: /kanazawa-curry
 ロースカツにはソースがかかっているし、生卵は本当に割り込んでいる。
 [金沢カレー](https://ja.wikipedia.org/wiki/%E9%87%91%E6%B2%A2%E3%82%AB%E3%83%AC%E3%83%BC)というものを知らなかったので、衝撃的でした。
 やみつきになる美味しさでした。
-
-## あわせて読みたい
-
-- [近江町市場で生牡蠣を立ち食いする]({% post_url 2016-05-16-kanazawa-oyster %})
