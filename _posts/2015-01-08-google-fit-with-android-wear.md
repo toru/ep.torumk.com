@@ -1,8 +1,14 @@
 ---
 title: Android Wear と Google Fit の感想
 titlesuffix: true
+thumb: true
+
 images:
   - 6c979367.png
+
+related:
+  - /fitbit-blaze-revived
+  - /monterey-carmel-trip
 
 permalink: /google-fit-with-android-wear
 ---

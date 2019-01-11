@@ -1,8 +1,14 @@
 ---
 title: Suunto Core の遊環を DIY 交換した
 titlesuffix: true
+thumb: true
+
 images:
   - bc5a20bf.jpg
+
+related:
+  - /fitbit-blaze-revived
+  - /bose-ae2-cushions
 
 permalink: /suunto-core-strap-loop
 ---

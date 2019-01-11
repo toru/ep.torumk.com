@@ -1,8 +1,14 @@
 ---
 title: IKEA でサーモンエッグベネディクト
 titlesuffix: true
+thumb: true
+
 images:
   - f04af445.jpg
+
+related:
+  - /breakfast-at-republique
+  - /fish-n-chips-at-the-ramp
 
 permalink: /breakfast-at-ikea
 ---

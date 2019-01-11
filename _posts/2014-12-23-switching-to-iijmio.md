@@ -1,8 +1,14 @@
 ---
 title: モバイル回線を IIJmio に移行した
 titlesuffix: true
+thumb: true
+
 images:
   - 48e96de7.jpg
+
+related:
+  - /bricked-nexus-5x
+  - /fitbit-blaze-revived
 
 permalink: /switching-to-iijmio
 ---
