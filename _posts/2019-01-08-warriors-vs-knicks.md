@@ -1,5 +1,5 @@
 ---
-title: Warriors 対 Knicks を観戦してきた
+title: Warriors 対 Knicks 観戦
 titlesuffix: true
 thumb: true
 
