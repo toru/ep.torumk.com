@@ -6,17 +6,5 @@ layout: default
 
 <h1 class="site-title">Epoch Episodes</h1>
 <p>日々のエピソードを気が向いたときに書いています。既存のコンテンツを移行中です。</p>
-
-<div class="timeline">
-  <ul>
-    {% for post in site.posts %}
-    <li>
-      <a href="{{post.url}}">{{ post.title }}</a>
-      <div class="meta">
-        <span class="date">Published: {{ post.date | date: "%Y-%m-%d" }}</span>
-      </div>
-    </li>
-    {% endfor %}
-  </ul>
-  <p class="ep-count">現在のエピソード数: <span>{{ site.posts|size }}</span></p>
-</div>
+{% include timeline.html episodes=site.posts %}
+<p class="ep-count">現在のエピソード数: <span>{{ site.posts|size }}</span></p>
