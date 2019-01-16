@@ -21,4 +21,4 @@ permalink: /coffee-break-in-castro
 早朝だったので、店員と世間話をする余裕がありました。
 その後は将来 Castro District に住むことをイメージしながら近所を散策しました。
 平和な環境のおかげで良いストレス解消になりました。
-次に住むのは Castro か [Noe Valley](https://en.wikipedia.org/wiki/Noe_Valley,_San_Francisco) かな。
+次は Castro か [Noe Valley](https://en.wikipedia.org/wiki/Noe_Valley,_San_Francisco) に住みたいですね。
