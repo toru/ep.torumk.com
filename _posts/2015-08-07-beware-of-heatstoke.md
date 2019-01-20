@@ -7,7 +7,7 @@ images:
   - e94cd623.jpg
 
 related:
-  - /monterey-get-away
+  - /monterey-getaway
   - /hello-denver
 
 permalink: /beware-of-heatstroke

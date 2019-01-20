@@ -7,7 +7,7 @@ images:
   - 84d1f0e6.jpg
 
 related:
-  - /monterey-get-away
+  - /monterey-getaway
   - /breakfast-at-republique
 
 permalink: /st-supery-membership

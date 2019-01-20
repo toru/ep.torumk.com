@@ -7,10 +7,10 @@ images:
   - b0bda909.jpg
 
 related:
+  - /east-bay-getaway
   - /monterey-carmel-trip
-  - /calistoga-trip
 
-permalink: /monterey-get-away
+permalink: /monterey-getaway
 tags: travel
 ---
 

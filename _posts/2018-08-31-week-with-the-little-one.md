@@ -8,7 +8,7 @@ images:
 
 related:
   - /first-fathers-day
-  - /monterey-get-away
+  - /monterey-getaway
 
 permalink: /week-with-the-little-one
 tags: parenting
