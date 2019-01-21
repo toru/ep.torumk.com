@@ -11,6 +11,7 @@ related:
   - /coffee-break-in-castro
 
 permalink: /east-bay-getaway
+tags: travel
 ---
 
 [MLK Day](https://ja.wikipedia.org/wiki/キング牧師記念日) の連休を利用して、[イーストベイ](https://ja.wikipedia.org/wiki/イーストベイ_(サンフランシスコ・ベイエリア))に泊りがけで来ています。
