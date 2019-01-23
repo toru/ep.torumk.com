@@ -34,30 +34,6 @@ h1 a:hover {
   margin-bottom: 16px;
 }
 
-.timeline > ul {
-  list-style-type: none;
-  margin-top: 32px;
-  padding-left: 4px;
-}
-.timeline li {
-  border-left: 3px solid #444;
-  padding-left: 8px;
-  margin-bottom: 16px;
-}
-.timeline li:hover {
-  border-left: 3px solid #256fba;
-}
-.timeline a:link {
-  color: #222;
-}
-.timeline a:visited {
-  color: #555;
-}
-.timeline .date {
-  font-size: 80%;
-  color: #777;
-}
-
 .ep-count {
   font-size: 80%;
   color: #777;
