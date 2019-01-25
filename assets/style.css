@@ -34,6 +34,36 @@ h1 a:hover {
   margin-bottom: 16px;
 }
 
+.tl {
+  padding-left: 0px;
+  list-style-type: none;
+}
+.tl > a:hover {
+  text-decoration: none;
+}
+.tl li {
+  border-left: 1px solid #ccc;
+}
+.tl li:hover {
+  border-left: 1px solid #ff2d55;
+}
+.tl-node {
+  margin-bottom: 8px;
+  display: flex;
+  align-items: flex-start;
+}
+.tl-node > img {
+  padding-left: 4px;
+  margin-right: 10px;
+}
+.tl-body {
+  flex: 1;
+}
+.tl-body > .date {
+  font-size: 85%;
+  color: #777;
+}
+
 .ep-count {
   font-size: 80%;
   color: #777;
@@ -132,35 +162,4 @@ h1 a:hover {
   .post .content ul {
     padding-left: 30px;
   }
-}
-
-/* Experimental Block */
-.v2tl {
-  padding-left: 0px;
-  list-style-type: none;
-}
-.v2tl > a:hover {
-  text-decoration: none;
-}
-.v2tl li {
-  border-left: 1px solid #ccc;
-}
-.v2tl li:hover {
-  border-left: 1px solid #ff2d55;
-}
-.v2tl-node {
-  margin-bottom: 8px;
-  display: flex;
-  align-items: flex-start;
-}
-.v2tl-node > img {
-  padding-left: 4px;
-  margin-right: 10px;
-}
-.v2tl-body {
-  flex: 1;
-}
-.v2tl-body > .date {
-  font-size: 85%;
-  color: #777;
 }
