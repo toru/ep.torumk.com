@@ -17,10 +17,9 @@ permalink: /homemade-ikura-don
 
 ![ikura-and-shirasu-bowl]({{ site.image_store }}{{ page.images[0] }})
 
-食材は [Nijiya SF](https://www.yelp.com/biz/nijiya-market-san-francisco) で調達しました。
-イクラだけだと飽きそうなので、シラスも購入しました。
-コメは鉄板の [Tamaki Gold](http://www.tamakimai.com/) です。
-食べすぎないように小さめの茶碗を使いました。
+食材は [Nijiya SF](https://www.yelp.com/biz/nijiya-market-san-francisco) で調達。
+イクラだけだと飽きそうなので、娘のためにもシラスを購入しました。
+コメは [Tamaki Gold](http://www.tamakimai.com/) で、食べすぎないように小さめの茶碗を使いました。
 最後に少しだけ減塩醤油をたらして完成。
 味は期待どおりの幸せな味でした。
-これでしばらく頑張れそう。
+これでしばらく頑張れる。
