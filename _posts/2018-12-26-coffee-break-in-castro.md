@@ -7,10 +7,11 @@ images:
   - 48546ffc.jpg
 
 related:
-  - /dogpatch-to-mid-market
+  - /sightglass-coffee
   - /week-with-the-little-one
 
 permalink: /coffee-break-in-castro
+tags: san-francisco
 ---
 
 家族を [Charlie's Corner](https://charliescorner.com/) にドロップオフした後、給油ついでに [Castro](https://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%B9%E3%83%88%E3%83%AD%E9%80%9A%E3%82%8A) で一息つきました。
