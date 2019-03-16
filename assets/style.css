@@ -8,7 +8,7 @@ body {
 
 a {
   text-decoration: none;
-  color: #256fba;
+  color: #136ecb;
 }
 a:hover,
 a:focus {
@@ -124,6 +124,7 @@ h1 a:hover {
   padding: 5px 0;
   overflow: hidden;
   border-bottom: 1px #ccc solid;
+  font-size: 110%;
 }
 .nav > li:first-child {
   padding-left: 0;
@@ -142,7 +143,7 @@ h1 a:hover {
 }
 .nav > li a {
   display: block;
-  color: #256fba;
+  color: #136ecb;
 }
 .nav > li a:hover,
 .nav > li a:focus {
