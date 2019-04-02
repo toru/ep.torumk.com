@@ -99,7 +99,7 @@ h1 a:hover {
   color: #444;
 }
 .post .adjacent-posts {
-  font-size: 90%;
+  font-size: 105%;
   margin: 20px 0px;
   overflow: auto;
 }
@@ -162,5 +162,8 @@ h1 a:hover {
   }
   .post .content ul {
     padding-left: 30px;
+  }
+  .post .adjacent-posts {
+    font-size: 90%;
   }
 }
