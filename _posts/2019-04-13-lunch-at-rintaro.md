@@ -11,7 +11,7 @@ related:
   - /murrays-salmon-bagel
 
 permalink: /lunch-at-rintaro
-tags: san-francisco
+tags: san-francisco food
 ---
 
 信頼できる食通の同僚に勧められた [Rintaro](https://izakayarintaro.com/) に行ってきました。

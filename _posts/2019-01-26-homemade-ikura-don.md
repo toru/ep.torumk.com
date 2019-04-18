@@ -11,6 +11,7 @@ related:
   - /murrays-salmon-bagel
 
 permalink: /homemade-ikura-don
+tags: food
 ---
 
 ふと、イクラ丼が食べたくなったので作ってみました。

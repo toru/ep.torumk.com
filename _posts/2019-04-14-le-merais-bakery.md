@@ -11,7 +11,7 @@ related:
   - /french-oysters
 
 permalink: /le-merais-bakery
-tags: san-francisco
+tags: san-francisco food
 ---
 
 ブランチで [Castro](https://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%B9%E3%83%88%E3%83%AD%E9%80%9A%E3%82%8A) にあるフレンチベーカリーの [Le Merais Bakery](http://www.lemaraisbakery.com/) に行ってきました。
