@@ -11,7 +11,7 @@ related:
   - /bike-stolen
 
 permalink: /ca-driver-license
-tags: san-francisco
+tags: san-francisco california
 ---
 
 カリフォルニア州の[普通運転免許](https://www.dmv.ca.gov/portal/dmv/detail/pubs/hdbk/lic_classes)を取得しました。

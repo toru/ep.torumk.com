@@ -11,7 +11,7 @@ related:
   - /week-with-the-little-one
 
 permalink: /sf-air-pollution
-tags: san-francisco
+tags: san-francisco california
 ---
 
 カリフォルニア北部で[未だかつてない山火事](https://en.wikipedia.org/wiki/Camp_Fire_(2018))が起きました。言葉がありません。

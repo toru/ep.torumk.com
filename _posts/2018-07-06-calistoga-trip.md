@@ -11,7 +11,7 @@ related:
   - /july-seattle-trip
 
 permalink: /calistoga-trip
-tags: travel napa wine
+tags: travel napa wine california
 ---
 
 今年の独立記念日は家族で[ナパ](https://ja.wikipedia.org/wiki/ナパ郡_(カリフォルニア州))北部の[カリストガ](http://www.visitcalifornia.com/jp/attraction/カリストガ)に行きました。
