@@ -6,7 +6,7 @@ is_post: true
 ---
 
 ソフトウェアエンジニア。
-[米サンフランシスコ](/t/san-francisco)在住。
+[米カリフォルニア州](/t/california) [サンフランシスコ](/t/san-francisco)在住。
 以前は東京で、その前は 1990 年から 2007 年までニュージーランドで暮らしていました。
 [Fastly](/t/fastly) でプロトコル実装や分散システムの仕事をしています。
 詳しくは [LinkedIn](https://www.linkedin.com/in/maesaka) まで。
