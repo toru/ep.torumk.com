@@ -55,6 +55,7 @@ h1 a:hover {
 .tl-node > img {
   padding-left: 4px;
   margin-right: 10px;
+  width: 48px;
 }
 .tl-body {
   flex: 1;
