@@ -161,6 +161,9 @@ h1 a:hover {
   .nav {
     font-size: 85%;
   }
+  .tl-node > img {
+    width: 50px;
+  }
   .post .content ul {
     padding-left: 30px;
   }
