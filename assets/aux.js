@@ -15,6 +15,22 @@ document.addEventListener('keyup', function(ev) {
   }
 });
 
+function loadLatestCheckin() {
+  fetch("https://torumk.com/checkins/latest")
+    .then(function(res) {
+      if (res.ok) {
+        return res.json();
+      }
+      throw new Error("fetch failure");
+    })
+    .then(function(parsed) {
+      console.log(parsed);
+    })
+    .catch(function(err) {
+      console.log(err);
+    });
+}
+
 class SearchEngine {
   constructor() {
     this.idxPath = "/assets/fts.idx";
