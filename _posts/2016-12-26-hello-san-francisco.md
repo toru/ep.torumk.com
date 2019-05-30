@@ -11,7 +11,7 @@ related:
   - /bike-stolen
 
 permalink: /hello-san-francisco
-tags: san-francisco
+tags: san-francisco california
 ---
 
 実際には 8 月に引越しました。

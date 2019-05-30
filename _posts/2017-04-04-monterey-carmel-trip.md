@@ -8,10 +8,10 @@ images:
 
 related:
   - /calistoga-trip
-  - /thanksgiving-2018
+  - /monterey-getaway
 
 permalink: /monterey-carmel-trip
-tags: travel
+tags: travel california
 ---
 
 西海岸の[モントレー](https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%B3%E3%83%88%E3%83%AC%E3%83%BC)と[カーメル・バイ・ザ・シー](https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%BC%E3%83%A1%E3%83%AB%E3%83%BB%E3%83%90%E3%82%A4%E3%83%BB%E3%82%B6%E3%83%BB%E3%82%B7%E3%83%BC)に行ってきました。

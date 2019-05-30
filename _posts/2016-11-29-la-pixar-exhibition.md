@@ -8,10 +8,10 @@ images:
 
 related:
   - /nyc-with-family
-  - /barcelona-trip
+  - /breakfast-at-republique
 
 permalink: /la-pixar-exhibition
-tags: travel
+tags: travel california
 ---
 
 Thanksgiving の休日をつかって LA にいる親戚を訪れてきました。

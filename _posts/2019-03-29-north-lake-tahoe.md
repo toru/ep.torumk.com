@@ -11,7 +11,7 @@ related:
   - /monterey-getaway
 
 permalink: /north-lake-tahoe
-tags: travel
+tags: travel california
 ---
 
 娘の保育園の休みに合わせて North Lake Tahoe まで来ました。
