@@ -1,13 +1,13 @@
 document.addEventListener('keyup', function(ev) {
   switch (ev.key) {
     case "h":
-      var prev = document.querySelector('.adjacent-posts > .prev');
+      let prev = document.querySelector('.adjacent-posts > .prev');
       if (prev) {
         window.location.href = prev.href;
       }
       break;
     case "l":
-      var next = document.querySelector('.adjacent-posts > .next');
+      let next = document.querySelector('.adjacent-posts > .next');
       if (next) {
         window.location.href = next.href;
       }
@@ -37,7 +37,7 @@ class SearchEngine {
   }
 
   static isLocalStorageAvailable() {
-    var s = "e";
+    let s = "e";
     try {
       localStorage.setItem(s,s);
       localStorage.removeItem(s);
