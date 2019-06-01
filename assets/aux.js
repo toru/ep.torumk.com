@@ -31,6 +31,33 @@ function loadLatestCheckin() {
     });
 }
 
+class TLNavigator {
+  constructor() {
+    this.activated = false;
+  }
+
+  _activate() {
+    if (this.activated) {
+      return;
+    }
+    this.root = document.querySelector('.tl-node');
+    if (this.root == null) {
+      throw new Error("timeline missing");
+    }
+    // TODO: Use a dedicated css-class
+    this.root.style.borderLeftColor = "#e74c3c";
+    this.activated = true;
+  }
+
+  prev() {
+    throw new Error("unimplemented");
+  }
+
+  next() {
+    throw new Error("unimplemented");
+  }
+}
+
 class SearchEngine {
   constructor() {
     this.idxPath = "/assets/fts.idx";
