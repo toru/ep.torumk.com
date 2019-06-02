@@ -32,21 +32,17 @@ function loadLatestCheckin() {
 }
 
 class TLNavigator {
-  constructor() {
-    this.activated = false;
-  }
-
   _activate() {
-    if (this.activated) {
+    if (this.entries.length) {
       return;
     }
-    this.root = document.querySelector('.tl-node');
-    if (this.root == null) {
+    this.entries = document.querySelectorAll('.tl-node');
+    if (this.entries.length == 0) {
       throw new Error("timeline missing");
     }
+    this.curr = this.entries[0];
     // TODO: Use a dedicated css-class
-    this.root.style.borderLeftColor = "#e74c3c";
-    this.activated = true;
+    this.curr.style.borderLeftColor = "#e74c3c";
   }
 
   prev() {
