@@ -33,7 +33,7 @@ function loadLatestCheckin() {
 
 class TLNavigator {
   _activate() {
-    if (this.entries.length) {
+    if (this.entries && this.entries.length) {
       return;
     }
     this.entries = document.querySelectorAll('.tl-node');
