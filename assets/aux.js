@@ -52,6 +52,10 @@ class TLNavigator {
   next() {
     throw new Error("unimplemented");
   }
+
+  open() {
+    throw new Error("unimplemented");
+  }
 }
 
 class SearchEngine {
