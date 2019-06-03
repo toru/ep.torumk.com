@@ -54,7 +54,9 @@ class TLNavigator {
   }
 
   open() {
-    throw new Error("unimplemented");
+    if (this.curr) {
+      window.location.href = this.curr.parentNode.href;
+    }
   }
 }
 
