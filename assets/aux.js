@@ -40,9 +40,9 @@ class TLNavigator {
     if (this.entries.length == 0) {
       throw new Error("timeline missing");
     }
-    this.curr = this.entries[0];
+    this.currIdx = 0;
     // TODO: Use a dedicated css-class
-    this.curr.style.borderLeftColor = "#e74c3c";
+    this.entries[this.currIdx].style.borderLeftColor = "#e74c3c";
   }
 
   prev() {
@@ -54,8 +54,9 @@ class TLNavigator {
   }
 
   open() {
-    if (this.curr) {
-      window.location.href = this.curr.parentNode.href;
+    let node = this.entries[this.currIdx];
+    if (node) {
+      window.location.href = node.parentNode.href;
     }
   }
 }
