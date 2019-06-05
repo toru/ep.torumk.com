@@ -41,8 +41,7 @@ class TLNavigator {
       throw new Error("timeline missing");
     }
     this.currIdx = 0;
-    // TODO: Use a dedicated css-class
-    this.entries[this.currIdx].style.borderLeftColor = "#e74c3c";
+    this.entries[this.currIdx].classList.add("active");
   }
 
   prev() {

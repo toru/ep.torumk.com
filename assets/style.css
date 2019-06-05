@@ -44,7 +44,8 @@ h1 a:hover {
 .tl li {
   border-left: 1px solid #ccc;
 }
-.tl li:hover {
+.tl li:hover,
+.tl li.active {
   border-left: 1px solid #ff2d55;
 }
 .tl-node {
