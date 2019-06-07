@@ -34,7 +34,7 @@ function loadLatestCheckin() {
 class TLNavigator {
   _activate() {
     if (this.entries && this.entries.length) {
-      return;
+      return false;
     }
     this.entries = document.querySelectorAll('.tl-node');
     if (this.entries.length == 0) {
@@ -42,6 +42,7 @@ class TLNavigator {
     }
     this.currIdx = 0;
     this.entries[this.currIdx].classList.add("active");
+    return true;
   }
 
   prev() {
