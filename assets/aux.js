@@ -46,7 +46,11 @@ class TLNavigator {
   }
 
   prev() {
-    throw new Error("unimplemented");
+    if (this._activate() || this.currIdx == 0) {
+      return;
+    }
+    this.entries[this.currIdx].classList.remove("active");
+    this.entries[--this.currIdx].classList.add("active");
   }
 
   next() {
