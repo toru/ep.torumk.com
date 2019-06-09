@@ -1,20 +1,3 @@
-document.addEventListener('keyup', function(ev) {
-  switch (ev.key) {
-    case "h":
-      let prev = document.querySelector('.adjacent-posts > .prev');
-      if (prev) {
-        window.location.href = prev.href;
-      }
-      break;
-    case "l":
-      let next = document.querySelector('.adjacent-posts > .next');
-      if (next) {
-        window.location.href = next.href;
-      }
-      break;
-  }
-});
-
 function loadLatestCheckin() {
   fetch("https://torumk.com/checkins/latest")
     .then(function(res) {
@@ -117,3 +100,31 @@ class SearchEngine {
     }
   }
 }
+
+let nav = new TLNavigator();
+
+document.addEventListener('keyup', function(ev) {
+  switch (ev.key) {
+    case "h":
+      let prev = document.querySelector('.adjacent-posts > .prev');
+      if (prev) {
+        window.location.href = prev.href;
+      }
+      break;
+    case "j":
+      nav.next();
+      break;
+    case "k":
+      nav.prev();
+      break;
+    case "l":
+      let next = document.querySelector('.adjacent-posts > .next');
+      if (next) {
+        window.location.href = next.href;
+      }
+      break;
+    case "o":
+      nav.open();
+      break;
+  }
+});
