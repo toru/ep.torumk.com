@@ -25,6 +25,7 @@ class TLNavigator {
     }
     this.currIdx = 0;
     this.entries[this.currIdx].classList.add("active");
+    this.entries[this.currIdx].focus();
     return true;
   }
 
@@ -33,7 +34,9 @@ class TLNavigator {
       return;
     }
     this.entries[this.currIdx].classList.remove("active");
-    this.entries[--this.currIdx].classList.add("active");
+    this.currIdx--;
+    this.entries[this.currIdx].classList.add("active");
+    this.entries[this.currIdx].focus();
   }
 
   next() {
@@ -44,7 +47,9 @@ class TLNavigator {
       return;
     }
     this.entries[this.currIdx].classList.remove("active");
-    this.entries[++this.currIdx].classList.add("active");
+    this.currIdx++;
+    this.entries[this.currIdx].classList.add("active");
+    this.entries[this.currIdx].focus();
   }
 
   open() {
