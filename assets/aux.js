@@ -131,5 +131,10 @@ document.addEventListener('keyup', function(ev) {
     case "o":
       nav.open();
       break;
+    case "Enter":
+      if (document.activeElement.classList.contains("tl-node")) {
+        nav.open();
+      }
+      break;
   }
 });
