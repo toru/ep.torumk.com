@@ -44,12 +44,14 @@ h1 a:hover {
 .tl li {
   border-left: 1px solid #ccc;
 }
-.tl li:hover,
-.tl li.active {
+.tl li:hover {
   border-left: 1px solid #ff2d55;
 }
 .tl li:focus {
   outline: thin dotted;
+}
+.tl li.active {
+  border-left: 2px solid #ff2d55;
 }
 .tl-node {
   margin-bottom: 8px;
