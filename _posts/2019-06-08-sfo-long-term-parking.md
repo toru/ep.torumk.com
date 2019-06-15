@@ -1,5 +1,5 @@
 ---
-title: SFO 空港に 3 週間駐車した結果
+title: SFO 国際空港に 3 週間駐車した結果
 titlesuffix: true
 thumb: true
 
