@@ -8,7 +8,7 @@ images:
 
 related:
   - /week-with-the-little-one
-  - /urashima-taro-in-sacramento
+  - /jp-driver-license-renewal
 
 permalink: /sfo-long-term-parking
 tags: travel
@@ -19,8 +19,8 @@ tags: travel
 ![sfo-long-term-parking-receipt]({{ site.image_store }}{{ page.images[0] }})
 
 ちょうど SFO の新ガレージ完成に伴い駐車料金が [$25 から $18 に下がった](https://www.flysfo.com/media/press-releases/sfo-celebrates-opening-new-long-term-parking-garage-18-daily-rate-effective-may)ところだったので、良いタイミングでした。
-試しに Yelp で見つけたチャイルドシート対応のハイヤーサービスにも見積もりをお願いしたところ、片道 $200 の見積もりが返ってきました。
-差額を考えると自分で運転したほうが気楽に済むので、今回はハイヤーを見送りました。
+Lyft や Uber はカリフォルニア州ではチャイルドシートのオプションを提供していないので、試しに Yelp で見つけたチャイルドシート対応のハイヤーサービスにも見積もりをお願いしました。
+見積もりは片道 $200 と、差額を考えると自分で運転したほうが気楽に済むので、今回はハイヤーを見送りました。
 対して成田国際空港から都内への移動にはチャイルドシート付きのハイヤーを利用しました。
 料金は 25,000 円と、走行距離やチップ不要なことを考えるとリーズナブルな気がします。
-次回は United 航空の羽田便かな。幼児連れに成田は遠い。
+とはいえ次回は United 航空の羽田便かな。幼児連れに成田は遠い。
