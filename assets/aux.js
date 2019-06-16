@@ -128,9 +128,6 @@ document.addEventListener('keyup', function(ev) {
         window.location.href = next.href;
       }
       break;
-    case "o":
-      nav.open();
-      break;
     case "Enter":
       if (document.activeElement.classList.contains("tl-node")) {
         nav.open();
