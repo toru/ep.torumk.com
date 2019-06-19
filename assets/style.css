@@ -33,6 +33,9 @@ h1 a:hover {
   margin-top: 12px;
   margin-bottom: 16px;
 }
+.page-title {
+  font-size: 165%;
+}
 
 .tl {
   padding-left: 0px;
@@ -163,6 +166,9 @@ h1 a:hover {
   }
   .site-title {
     font-size: 230%;
+  }
+  .page-title {
+    font-size: 190%;
   }
   .nav {
     font-size: 85%;
