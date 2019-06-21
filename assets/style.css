@@ -35,6 +35,7 @@ h1 a:hover {
 }
 .tag-title {
   font-size: 165%;
+  margin-bottom: 10px;
 }
 
 .tl {
