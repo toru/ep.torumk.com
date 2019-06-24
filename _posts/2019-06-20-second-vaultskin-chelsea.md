@@ -13,7 +13,7 @@ related:
 permalink: /second-vaultskin-chelsea
 ---
 
-愛用してきた [Vaultskin の Chelsea](https://www.vaultskin.com/chelsea-rfid-wallet-brown.html)がヘタってきたので、同じモデルの色違いを購入しました。
+愛用してきた [Vaultskin の Chelsea](https://www.vaultskin.com/chelsea-rfid-wallet-brown.html) がヘタってきたので、同じモデルの色違いを購入しました。
 
 ![vaultskin]({{ site.image_store }}{{ page.images[0] }})
 
