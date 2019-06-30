@@ -1,5 +1,5 @@
 ---
-title: 現在と過去の計算機
+title: 過去から現在までの計算機
 permalink: /computers
 layout: default
 is_post: true
