@@ -31,3 +31,10 @@ OS は Ubuntu (Lucid Lynx) だったと思います。
 シンプルでパワフルな良いマシンでした。
 米国への移住に伴って家族に譲りました。
 プログラミング機から作曲機へ。
+
+### Apple iBook G3 Snow
+
+はじめて購入した [PowerPC 500MHz の Mac](https://en.wikipedia.org/wiki/IBook#iBook_G3_Dual_USB_(%22Snow%22)) です。
+Mac OS 9.1 がプリインストールされていて、Max OS X (10.1) のインストーラー CD が付属していました。
+[Mozilla Application Suite](https://ja.wikipedia.org/wiki/Mozilla_Application_Suite) の起動に数十秒かかったのをよく覚えています。
+このマシンで [Java](https://ja.wikipedia.org/wiki/Java) にはじめて触れました。
