@@ -38,3 +38,8 @@ OS は Ubuntu (Lucid Lynx) だったと思います。
 Mac OS 9.1 がプリインストールされていて、Max OS X (10.1) のインストーラー CD が付属していました。
 [Mozilla Application Suite](https://ja.wikipedia.org/wiki/Mozilla_Application_Suite) の起動に数十秒かかったのをよく覚えています。
 このマシンで [Java](https://ja.wikipedia.org/wiki/Java) にはじめて触れました。
+
+### UMAX Apus 2000
+
+家族の知り合いに譲ってもらいました。当初の OS は Windows 98 で、後に悪名だかき Windows ME に入れ替えました。
+このマシンでウェブサイト作りに没頭しました。
