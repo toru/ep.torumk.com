@@ -14,7 +14,7 @@ TODO: 利用中の計算機をリストする
 
 ## 過去のハードウェア
 
-### 自作ワークステーション
+### Intel ワークステーション
 
 ```spec
 Case: ANTEC ThreeHundred
@@ -31,6 +31,13 @@ OS は Ubuntu (Lucid Lynx) だったと思います。
 シンプルでパワフルな良いマシンでした。
 米国への移住に伴って家族に譲りました。
 プログラミング機から作曲機へ。
+
+### AMD ワークステーション
+
+はじめて組んだ自鯖です。
+スペックは忘れました。
+Gigabyte のマザボに [AMD Athlon 64](https://en.wikipedia.org/wiki/Athlon_64) を挿していたことだけは覚えています。
+OS は [Fedora Core 3](https://fedoraproject.org/wiki/Releases/HistoricalSchedules#Fedora_Core_3_.28Codename:_Heidelberg.29) でした。
 
 ### Apple iBook G3 Snow
 
