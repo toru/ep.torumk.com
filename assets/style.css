@@ -15,13 +15,6 @@ a:focus {
   text-decoration: underline;
 }
 
-h1 a {
-  color: #222;
-}
-h1 a:hover {
-  text-decoration: none;
-}
-
 .wrapper {
   margin: 0 auto;
   padding: 0px 12px;
@@ -29,9 +22,16 @@ h1 a:hover {
 }
 
 .site-title {
-  font-size: 200%;
-  margin-top: 12px;
-  margin-bottom: 16px;
+  font-size: 110%;
+  font-weight: 900;
+  margin: 0px;
+}
+.site-title a {
+  color: #444;
+}
+.site-title a:hover {
+  color: #ff2d55;
+  text-decoration: none;
 }
 .tag-title {
   font-size: 165%;
@@ -130,49 +130,37 @@ h1 a:hover {
 }
 
 .nav {
-  list-style: none;
-  margin: 0;
-  padding: 5px 0;
-  overflow: hidden;
+  margin-top: 5px;
+  padding-bottom: 5px;
+  display: flex;
+  align-items: center;
   border-bottom: 1px #ccc solid;
+}
+.nav ul {
+  list-style: none;
+  margin: 0px 2px;
+  padding: 0px;
+  overflow: hidden;
   font-size: 110%;
 }
-.nav > li:first-child {
-  padding-left: 0;
-  font-weight: 900;
-}
-.nav > li:first-child a {
-  color: #444;
-}
-.nav > li:first-child a:hover {
-  text-decoration: none;
-  color: #ff2d55;
-}
-.nav > li {
+.nav li {
   float: left;
+  margin: 0px;
   padding-left: 8px;
-}
-.nav > li a {
-  display: block;
-  color: #136ecb;
-}
-.nav > li a:hover,
-.nav > li a:focus {
-  border: none;
 }
 
 @media (min-width: 1025px) {
   .wrapper {
     width: 720px;
   }
-  .site-title {
-    font-size: 230%;
+  .nav h1 {
+    font-size: 85%;
+  }
+  .nav ul {
+    font-size: 85%;
   }
   .tag-title {
     font-size: 190%;
-  }
-  .nav {
-    font-size: 85%;
   }
   .tl-node > img {
     width: 50px;
