@@ -12,6 +12,19 @@ Shell は [oh-my-zsh](https://ohmyz.sh/) に影響されて [Zsh](https://ja.wik
 
 TODO: 利用中の計算機をリストする
 
+### MacBook Air (11-inch, Mid 2012)
+
+```spec
+CPU: 2GHz Intel Core i7
+RAM: 8GB 1600MHz DDR3
+SSD: 120GB Apple SSD TS128E (Toshiba)
+Graphics: Intel HD Graphics 4000 1536MB
+```
+
+年季が入ってきましたが、まだまだ現役で使っています。
+このマシンのおかげで今の自分があると言っても過言ではないほど使い倒しました。
+使わなくなったら娘に譲る予定です。
+
 ## 過去のハードウェア
 
 ### ThinkPad X61
