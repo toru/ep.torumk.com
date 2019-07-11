@@ -1,6 +1,6 @@
 ---
 title: 過去から現在までの計算機
-permalink: /computers
+permalink: /gear
 layout: default
 is_post: true
 ---
