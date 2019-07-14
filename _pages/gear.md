@@ -14,12 +14,12 @@ Shell は [oh-my-zsh](https://ohmyz.sh/) に影響されて [Zsh](https://ja.wik
 
 ### MacBook Pro (13-inch, 2018)
 
-```spec
+<pre class="spec">
 CPU: 2.7GHz Intel Core i7
 RAM: 16GB 2133MHz LPDDR3
 SSD: 512GB Apple SSD AP0512M
 GPU: Intel Iris Plus Graphics 655 1536MB
-```
+</pre>
 
 メインでつかっているマシンです。
 タッチバーとキーボードが残念ですが、軽量なところが素晴らしい。
@@ -28,13 +28,13 @@ GPU: Intel Iris Plus Graphics 655 1536MB
 
 ### MacBook Pro (Retina, 15-inch, Mid 2015)
 
-```spec
+<pre class="spec">
 CPU: 2.5 GHz Intel Core i7
 RAM: 16 GB 1600 MHz DDR3
 SSD: 512GB Apple SSD SM0512G
 GPU: AMD Radeon R9 M370X 2GB (Discrete)
 GPU: Intel Iris Pro 1536MB
-```
+</pre>
 
 Fastly 社の福利厚生でもらいました。
 mStand の上から常に外部ディスプレイに繋いで、デスクトップとして使っています。
@@ -42,12 +42,12 @@ mStand の上から常に外部ディスプレイに繋いで、デスクトッ�
 
 ### MacBook Air (11-inch, Mid 2012)
 
-```spec
+<pre class="spec">
 CPU: 2GHz Intel Core i7
 RAM: 8GB 1600MHz DDR3
 SSD: 120GB Apple SSD TS128E (Toshiba)
 Graphics: Intel HD Graphics 4000 1536MB
-```
+</pre>
 
 年季が入ってきましたが、まだまだ現役で使っています。
 このマシンのおかげで今の自分があると言っても過言ではないほど使い倒しました。
@@ -64,14 +64,14 @@ Graphics: Intel HD Graphics 4000 1536MB
 
 ### Intel ワークステーション
 
-```spec
+<pre class="spec">
 Case: ANTEC ThreeHundred
 Mobo: ASUS P8Z68-V (Z68 1155 ATX DDR3)
 CPU:  Intel Core i7-2600K (1155/3.40/8M/C4/T8)
 RAM:  ADT AX3U1600GC4G9-2G (DDR3 PC3-12800 4GBx2)
 SSD:  Crucial M4 CT064M4SSD2
 PSU:  KRPW-SS600W/85+ (ATX 600W 80+B)
-```
+</pre>
 
 2011 年に組んだ開発機です。
 パーツはドスパラ秋葉原店で買い集めました。
