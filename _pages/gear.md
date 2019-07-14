@@ -10,19 +10,35 @@ is_post: true
 手元の計算資源が足りないときは [Google Cloud Platform](https://ja.wikipedia.org/wiki/Google_Cloud_Platform) を利用しています。
 Shell は [oh-my-zsh](https://ohmyz.sh/) に影響されて [Zsh](https://ja.wikipedia.org/wiki/Z_Shell) を使い続けていましたが、最近はこだわりが減ってミニマルな設定の [Bash](https://ja.wikipedia.org/wiki/Bash) にもどってきました。
 
+## 現役のハードウェア
+
 ### MacBook Pro (13-inch, 2018)
 
 ```spec
 CPU: 2.7GHz Intel Core i7
 RAM: 16GB 2133MHz LPDDR3
 SSD: 512GB Apple SSD AP0512M
-Graphics: Intel Iris Plus Graphics 655 1536MB
+GPU: Intel Iris Plus Graphics 655 1536MB
 ```
 
 メインでつかっているマシンです。
 タッチバーとキーボードが残念ですが、軽量なところが素晴らしい。
 用途はプログラミングとリモートシステム管理です。
 贅沢すぎる使い方かも。
+
+### MacBook Pro (Retina, 15-inch, Mid 2015)
+
+```spec
+CPU: 2.5 GHz Intel Core i7
+RAM: 16 GB 1600 MHz DDR3
+SSD: 512GB Apple SSD SM0512G
+GPU: AMD Radeon R9 M370X 2GB (Discrete)
+GPU: Intel Iris Pro 1536MB
+```
+
+Fastly 社の福利厚生でもらいました。
+mStand の上から常に外部ディスプレイに繋いで、デスクトップとして使っています。
+この世代の MacBook Pro は名作だと思います。
 
 ### MacBook Air (11-inch, Mid 2012)
 
