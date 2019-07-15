@@ -21,6 +21,26 @@ a:focus {
   -webkit-font-smoothing: antialiased;
 }
 
+.nav {
+  margin-top: 5px;
+  padding-bottom: 5px;
+  display: flex;
+  align-items: center;
+  border-bottom: 1px #ccc solid;
+}
+.nav ul {
+  list-style: none;
+  margin: 0px 2px;
+  padding: 0px;
+  overflow: hidden;
+  font-size: 110%;
+}
+.nav li {
+  float: left;
+  margin: 0px;
+  padding-left: 8px;
+}
+
 .site-title {
   font-size: 110%;
   font-weight: 900;
@@ -127,26 +147,6 @@ a:focus {
 .post .wine-list {
   padding: 8px 14px;
   background: #eee;
-}
-
-.nav {
-  margin-top: 5px;
-  padding-bottom: 5px;
-  display: flex;
-  align-items: center;
-  border-bottom: 1px #ccc solid;
-}
-.nav ul {
-  list-style: none;
-  margin: 0px 2px;
-  padding: 0px;
-  overflow: hidden;
-  font-size: 110%;
-}
-.nav li {
-  float: left;
-  margin: 0px;
-  padding-left: 8px;
 }
 
 @media (min-width: 1025px) {
