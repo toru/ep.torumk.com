@@ -148,6 +148,11 @@ a:focus {
   padding: 8px 14px;
   background: #eee;
 }
+.post .spec {
+  background: #eee;
+  outline: 1px solid #bbb;
+  padding: 5px;
+}
 
 @media (min-width: 1025px) {
   .wrapper {
