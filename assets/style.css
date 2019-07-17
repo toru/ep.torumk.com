@@ -152,6 +152,7 @@ a:focus {
   background: #eee;
   outline: 1px solid #bbb;
   padding: 5px;
+  line-height: 15px;
 }
 
 @media (min-width: 1025px) {
