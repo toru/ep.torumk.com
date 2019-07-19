@@ -8,7 +8,7 @@
   {% if page.is_post %}
   <meta property="og:type" content="article">
   <meta property="og:title" content="{{ page.title}}{% if page.titlesuffix %} | Toru Maesaka{% endif %}">
-  <meta property="og:description" content="{{ page.content | strip_html | strip_newlines | truncate: 64 }}">
+  <meta property="og:description" content="{{ page.content | markdownify | strip_html | strip_newlines | truncate: 64 }}">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:creator" content="@tmaesaka">
   {% endif %}
