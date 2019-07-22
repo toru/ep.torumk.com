@@ -38,7 +38,7 @@ GPU: Intel Iris Pro 1536MB
 
 Fastly 社の福利厚生でもらいました。
 mStand の上から常に外部ディスプレイに繋いで、デスクトップとして使っています。
-この世代の MacBook Pro は名作だと思います。
+[バッテリーの加熱問題](https://www.theverge.com/2019/6/20/18693136/apple-recall-2015-15-inch-macbook-pro-battery-overheat-fire-risk-safety)によって Apple に[自主回収された](/apple-battery-recall-visit)マシンですが、この世代の MacBook Pro は名作だと思います。
 
 ### MacBook Air (11-inch, Mid 2012)
 
