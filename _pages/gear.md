@@ -53,6 +53,13 @@ Graphics: Intel HD Graphics 4000 1536MB
 このマシンのおかげで今の自分があると言っても過言ではないほど使い倒しました。
 使わなくなったら娘に譲る予定です。
 
+### ThinkPad X240
+
+断捨離していた同僚から安く譲ってもらいました。
+SSD 換装済み。
+OS は [Arch Linux](https://ja.wikipedia.org/wiki/Arch_Linux) を選びました。
+主な用途は素の Linux 環境下でのソフトウェア検証やプログラミングです。
+
 ## 過去のハードウェア
 
 ### ThinkPad X61
@@ -85,7 +92,7 @@ OS は Ubuntu (Lucid Lynx) だったと思います。
 はじめて組んだ自鯖です。
 スペックは忘れました。
 Gigabyte のマザボに [AMD Athlon 64](https://en.wikipedia.org/wiki/Athlon_64) を挿していたことだけは覚えています。
-OS は [Fedora Core 3](https://fedoraproject.org/wiki/Releases/HistoricalSchedules#Fedora_Core_3_.28Codename:_Heidelberg.29) でした。
+OS は [Fedora Core 3](https://fedoraproject.org/wiki/Releases/HistoricalSchedules#Fedora_Core_3_.28Codename:_Heidelberg.29) を入れてた気がします。
 
 ### Apple iBook G3 Snow
 
