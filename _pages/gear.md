@@ -1,5 +1,5 @@
 ---
-title: 過去から現在までの計算機
+title: Gear | 計算機など
 permalink: /gear
 layout: default
 is_post: true
