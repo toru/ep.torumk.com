@@ -42,6 +42,8 @@ mStand の上から常に外部ディスプレイに繋いで、デスクトッ�
 
 ### MacBook Air (11-inch, Mid 2012)
 
+![unboxed-mba-11]({{ site.image_store }}b18623a3.jpg)
+
 <pre class="spec">
 CPU: 2GHz Intel Core i7
 RAM: 8GB 1600MHz DDR3
