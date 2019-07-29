@@ -66,6 +66,8 @@ OS は [Arch Linux](https://ja.wikipedia.org/wiki/Arch_Linux) を選びました
 
 ### ThinkPad X61
 
+![x61]({{ site.image_store }}6ad6728b.jpg)
+
 日本ではじめて購入したコンピュータです。
 まっさきにヤフオクで購入した英語配列キーボードに換装しました。
 メモリ増設、SSD 換装、外部バッテリーを取り付けるなど、簡素なカスタマイゼーションを施しました。
