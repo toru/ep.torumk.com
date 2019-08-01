@@ -7,7 +7,7 @@
       <img src="{{ site.object_store }}/ep/sq-{{ ep.images[0] }}" width="48px">
       {% else %}
       {% assign fallback_indices = "0|1|2" | split: "|" %}
-      <img src="{{ site.object_store }}/ep/sq-fallback-{{ fallback_indices | sample }}.png" width="48px">
+      <img src="{{ site.object_store }}/ep/sq-fallback-{{ fallback_indices | sample }}.png">
       {% endif %}
       <div class="tl-body">
         <div class="title">{{ ep.title }}</div>
