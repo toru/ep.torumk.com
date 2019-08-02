@@ -169,7 +169,10 @@ a:focus {
     font-size: 190%;
   }
   .tl-node > img {
-    width: 50px;
+    width: 57px;
+  }
+  .tl-body {
+    font-size: 105%;
   }
   .post .content ul {
     padding-left: 30px;
