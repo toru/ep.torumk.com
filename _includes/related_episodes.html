@@ -2,7 +2,7 @@
 {% for id in include.ep_ids %}
   {% assign ep = site.posts | where:"id", id | first %}
   <a href="{{ep.url}}">
-    <li class="tl-node">
+    <li class="tl-node" tabindex="-1">
       {% if ep.thumb %}
       <img src="{{ site.object_store }}/ep/sq-{{ ep.images[0] }}" width="48px">
       {% else %}
