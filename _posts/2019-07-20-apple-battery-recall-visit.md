@@ -7,8 +7,8 @@ images:
   - 94de246f.jpg
 
 related:
+  - /macbook-pro-pickup
   - /sfpride-2019
-  - /anker-usb-adapter
 
 permalink: /apple-battery-recall-visit
 tags: apple san-francisco
@@ -19,7 +19,7 @@ Apple から [MacBook Pro (Retina, 15-inch, Mid 2015)](/gear#macbook-pro-retina-
 ![apple-union-square]({{ site.image_store }}{{ page.images[0] }})
 
 微妙な体験でした。
-リコールに応えて来たのに、こちらが修理を求めているかのような対応でした。
+リコールの通知に応えて来たのに、こちらが修理を求めているかのような対応でした。
 とにかく早く帰りたかったので、なるべく突っ込まずに手続きを完了してもらいました。
 マシンが手元にもどってくるのは 2 週間後とのことです。
 強気だなあ、困る人多そう。
