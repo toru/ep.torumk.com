@@ -17,7 +17,7 @@ permalink: /boosted-rev
 
 ![boosted-rev]({{ site.image_store }}{{ page.images[0] }})
 
-Rev は [Boosted 社](https://en.wikipedia.org/wiki/Boosted_(company)) が培ってきた技術を応用して開発した両輪駆動の高性能電動スクーターです (日本だとキックボードかな)。 
+Boosted Rev は電動スケートボードで有名な [Boosted 社](https://boostedboards.com/about) が開発した両輪駆動の高性能電動スクーターです (日本だとキックボードかな)。
 Vehicle-grade quality と Boosted が謳うだけあって、フレームのサイズ・剛性ともに圧巻です。
 その代わりに重さが 20.9kg もあるので、持ち歩きが辛い点が悩みどころです。
 速度面は最速設定の Mode 3 でゼロスタートから一気に 40km/h に加速します。
