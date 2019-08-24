@@ -20,6 +20,6 @@ permalink: /boosted-rev
 Rev は [Boosted 社](https://en.wikipedia.org/wiki/Boosted_(company)) が培ってきた技術を応用して開発した両輪駆動の高性能電動スクーターです (日本だとキックボードかな)。 
 Vehicle-grade quality と Boosted が謳うだけあって、フレームのサイズ・剛性ともに圧巻です。
 その代わりに重さが 20.9kg もあるので、持ち歩きが辛い点が悩みどころです。
-最速の Mode 3 でゼロスタートから一気に 40km/h に加速します。
-バイクレーンでこの加速は危険なので、<a href="https://en.wikipedia.org/wiki/South_of_Market,_San_Francisco">SoMa</a> では Mode 2 しばりでいこうと思います。
+速度面は最速設定の Mode 3 でゼロスタートから一気に 40km/h に加速します。
+バイクレーンでこの加速は危険なので、普段は Mode 2 しばりでいこうと思います。
 安全第一。
