@@ -7,7 +7,7 @@ is_post: true
 
 ソフトウェアエンジニア。
 [米カリフォルニア州](/t/california) [サンフランシスコ](/t/san-francisco)在住。
-以前は東京で、その前は 1990 年から 2007 年までニュージーランドで暮らしていました。
+以前は東京で、その前は幼少期からニュージーランドで暮らしていました。
 [Fastly](/t/fastly) でプロトコル実装や分散システムの仕事をしています。
 [OSS](https://ja.wikipedia.org/wiki/オープンソースソフトウェア) 方面は仕事の関係で [H2O](https://github.com/h2o/h2o), [picotls](https://github.com/h2o/picotls), [quicly](https://github.com/h2o/quicly) などに参加させてもらっています。
 詳しくは [LinkedIn](https://www.linkedin.com/in/maesaka) まで。
