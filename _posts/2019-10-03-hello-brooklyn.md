@@ -18,7 +18,7 @@ permalink: /hello-brooklyn
 ![brooklyn-heights-view]({{ site.image_store }}{{ page.images[0] }})
 
 フライトは娘に負担がかからないように [SFO](https://ja.wikipedia.org/wiki/サンフランシスコ国際空港) から [EWR](https://ja.wikipedia.org/wiki/ニューアーク・リバティー国際空港) への直行便を利用しました。
-EWR (New Jersey 州) からは Lyft/Uber 上のチャイルドシートオプションが使えないので、[Yellow Cab](https://ja.wikipedia.org/wiki/イエローキャブ_(タクシー)) で [Brooklyn Heights](https://en.wikipedia.org/wiki/Brooklyn_Heights) に移動しました。
-微妙に割高でしたが並ばずに乗れたので、結果的に素晴らしい体験でした。
-Brooklyn は今回が初めてなんですが、暮らしてみたいと思うほど気に入りました。
+到着してから EWR からは Lyft/Uber のチャイルドシートオプションが使えないことがわかり、急遽 [Yellow Cab](https://ja.wikipedia.org/wiki/イエローキャブ_(タクシー)) で [Brooklyn Heights](https://en.wikipedia.org/wiki/Brooklyn_Heights) に移動しました。
+微妙に割高でしたが、結果的に円滑で素晴らしい体験でした。
+Brooklyn は今回が初めてなんですが、暮らしてみたいと思うほど好きになりました。
 緑が多くて空気が美味しいのと、歴史あってこその自然な格好良さが心に刺さりました。
