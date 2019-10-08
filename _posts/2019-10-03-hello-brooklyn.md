@@ -1,0 +1,24 @@
+---
+title: Brooklyn に住みたいと思った
+titlesuffix: true
+thumb: true
+
+images:
+  - d0c34a3c.jpg
+
+related:
+  - /sfo-long-term-parking
+  - /murrays-salmon-bagel
+
+permalink: /hello-brooklyn
+---
+
+友人の結婚式参加のために [Brooklyn, NY](https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AB%E3%83%83%E3%82%AF%E3%83%AA%E3%83%B3%E5%8C%BA) に来ています。
+
+![brooklyn-heights-view]({{ site.image_store }}{{ page.images[0] }})
+
+フライトは娘に負担がかからないように [SFO](https://ja.wikipedia.org/wiki/サンフランシスコ国際空港) から [EWR](https://ja.wikipedia.org/wiki/ニューアーク・リバティー国際空港) への直行便を利用しました。
+EWR (New Jersey 州) からは Lyft/Uber 上のチャイルドシートオプションが使えないので、[Yellow Cab](https://ja.wikipedia.org/wiki/イエローキャブ_(タクシー)) で [Brooklyn Heights](https://en.wikipedia.org/wiki/Brooklyn_Heights) に移動しました。
+微妙に割高でしたが並ばずに乗れたので、結果的に素晴らしい体験でした。
+Brooklyn は今回が初めてなんですが、暮らしてみたいと思うほど気に入りました。
+緑が多くて空気が美味しいのと、歴史あってこその自然な格好良さが心に刺さりました。
