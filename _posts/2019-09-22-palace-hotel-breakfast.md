@@ -7,6 +7,7 @@ images:
   - a20eb835.jpg
 
 related:
+  - /curiodyssey-and-wursthall
   - /le-merais-bakery
   - /sightglass-coffee
 

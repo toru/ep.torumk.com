@@ -8,6 +8,7 @@ images:
 
 related:
   - /freezing-denver
+  - /images-through-fastly
   - /hello-fastly
 
 permalink: /fastly-year-five

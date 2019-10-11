@@ -9,6 +9,7 @@ images:
 related:
   - /sfo-long-term-parking
   - /murrays-salmon-bagel
+  - /freezing-denver
 
 permalink: /hello-brooklyn
 tags: travel
