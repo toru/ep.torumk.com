@@ -11,6 +11,7 @@ related:
   - /murrays-salmon-bagel
 
 permalink: /hello-brooklyn
+tags: travel
 ---
 
 友人の結婚式参加のために [Brooklyn, NY](https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AB%E3%83%83%E3%82%AF%E3%83%AA%E3%83%B3%E5%8C%BA) に来ています。
