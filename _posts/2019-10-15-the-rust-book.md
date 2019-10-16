@@ -12,6 +12,7 @@ related:
   - /hello-fastly
 
 permalink: /the-rust-book
+tags: fastly
 ---
 
 
@@ -19,6 +20,6 @@ permalink: /the-rust-book
 
 ![the-rust-programming-language]({{ site.image_store }}{{ page.images[0] }})
 
-自分のチームは主に [C 言語](https://ja.wikipedia.org/wiki/C%E8%A8%80%E8%AA%9E)を扱っていますが、日々 [Rust の存在感](https://www.fastly.com/blog/edge-programming-rust-web-assembly)が近場で強まっています。
-必然的に自分たちが開発しているソフトウェアとの連携が重要になってくるので、いつでも [Rust](https://ja.wikipedia.org/wiki/Rust_(%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E8%A8%80%E8%AA%9E)) のパッチを投げれるようにしておいてくれ、とのことです。
+自分のチームは主に [C 言語](https://ja.wikipedia.org/wiki/C%E8%A8%80%E8%AA%9E)を扱っていますが、近場で日々 [Rust の存在感](https://www.fastly.com/blog/edge-programming-rust-web-assembly)が強まっています。
+必然的に自分たちが開発しているソフトウェアとの連携が重要になってくるので、いつでも [Rust](https://ja.wikipedia.org/wiki/Rust_(%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E8%A8%80%E8%AA%9E)) のパッチを投げれるようにしておいてくれ、との趣旨です。
 業務でプログラミング言語を習得できるのは幸せなことなので、忙しいけど時間をつくって頑張ってみよう。
