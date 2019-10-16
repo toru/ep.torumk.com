@@ -11,9 +11,9 @@ The generated website is hosted by [GitHub Pages](https://pages.github.com).
 .
 ├── _config.yml  // Jekyll configuration
 ├── _includes    // Partial templates
-├── _layouts     // View templates
+├── _layouts     // Layout templates
 ├── _pages       // Miscellaneous pages
 │   └── memories // Slideshows
-├── _posts       // Episode pages
+├── _posts       // Episodes
 └── assets       // Static assets
 ```
