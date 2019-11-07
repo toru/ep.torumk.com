@@ -13,7 +13,7 @@ related:
 permalink: /liberty-2-pro-replacement
 ---
 
-先日届いた [Soudcore Liberty 2 Pro](https://www.soundcore.com/products/variant/liberty-2-pro/A3909011) を最新ロットの個体に交換してもらうことになりました。
+先日届いた [Soundcore Liberty 2 Pro](https://www.soundcore.com/products/variant/liberty-2-pro/A3909011) を最新ロットの個体に交換してもらうことになりました。
 
 ![return-package]({{ site.image_store }}{{ page.images[0] }})
 
