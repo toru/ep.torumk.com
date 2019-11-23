@@ -11,6 +11,7 @@ related:
   - /images-through-fastly
 
 permalink: /browse-flickr-before-buying
+tags: camera
 ---
 
 2008 年も終わりが近づいてきました。
