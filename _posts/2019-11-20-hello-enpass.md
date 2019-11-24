@@ -14,7 +14,7 @@ permalink: /hello-enpass
 ---
 
 長年愛用してきた [1Password](https://1password.com/) から [Enpass](https://www.enpass.io/) に (ほぼ) 乗り換えました。
-1Password は [Dropbox](https://ja.wikipedia.org/wiki/Dropbox) を利用する場合に Dropbox へのフルアクセス権限を要求すること以外は不満のないソフトウェアでしたが、運営企業の方向転換に合わせて自分も別の道を模索することにしました。
+1Password は [Dropbox](https://ja.wikipedia.org/wiki/Dropbox) を利用する場合に Dropbox へのフルアクセス権限を要求すること以外は不満のないソフトウェアでしたが、運営企業の最近の[方向性](https://twitter.com/kennwhite/status/1195704336917180423)に合わせて自分も別の道を模索することにしました。
 
 ![enpass-macos]({{ site.image_store }}{{ page.images[0] }})
 
