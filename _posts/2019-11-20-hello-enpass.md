@@ -1,12 +1,18 @@
 ---
 title: 1Password から Enpass に乗り換えた
 titlesuffix: true
+thumb: true
 
-permalink: /switched-to-enpass
+images:
+  - ff4ec04f.png
+
+permalink: /hello-enpass
 ---
 
 長年愛用してきた [1Password](https://1password.com/) から [Enpass](https://www.enpass.io/) に (ほぼ) 乗り換えました。
-1Password は [Dropbox](https://ja.wikipedia.org/wiki/Dropbox) のフルアクセスが必須なこと以外は不満のないソフトウェアでしたが、運営企業の方向転換に合わせて自分も別の道を模索することにしました。
+1Password は [Dropbox](https://ja.wikipedia.org/wiki/Dropbox) を利用する場合にフルアクセス権限の委譲が必要なこと以外は不満のないソフトウェアでしたが、運営企業の方向転換に合わせて自分も別の道を模索することにしました。
+
+![enpass-macos]({{ site.image_store }}{{ page.images[0] }})
 
 乗り換え先の条件は実績 (コミュニティと外部監査) をはじめ、ローカルのファイルシステムで完結することと、買い切りライセンスの存在としました。
 当初は巷で人気の [BitWarden](https://bitwarden.com) (オープンソース) に心が揺らいでいました。
