@@ -8,7 +8,7 @@ is_post: true
 成り行きで [Macintosh](https://ja.wikipedia.org/wiki/Macintosh) を長年つかい続けています。
 [Apple](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%83%E3%83%97%E3%83%AB_(%E4%BC%81%E6%A5%AD)) とは[不思議な関係](https://twitter.com/tmaesaka/status/162135456581033984)です。
 手元の計算資源が足りないときは [Google Cloud Platform](https://ja.wikipedia.org/wiki/Google_Cloud_Platform) を利用しています。
-Shell は [oh-my-zsh](https://ohmyz.sh/) に影響されて [Zsh](https://ja.wikipedia.org/wiki/Z_Shell) を使い続けていましたが、最近はこだわりが減ってミニマルな設定の [Bash](https://ja.wikipedia.org/wiki/Bash) にもどってきました。
+Shell は [oh-my-zsh](https://ohmyz.sh/) の影響で [Zsh](https://ja.wikipedia.org/wiki/Z_Shell) を使い続けていましたが、最近はこだわりが減ってミニマルな設定の [Bash](https://ja.wikipedia.org/wiki/Bash) に回帰しました。
 
 ## 現役のハードウェア
 
@@ -36,9 +36,10 @@ GPU: AMD Radeon R9 M370X 2GB (Discrete)
 GPU: Intel Iris Pro 1536MB
 </pre>
 
-Fastly 社の福利厚生でもらいました。
+<a href="/t/fastly">Fastly</a> 社の福利厚生でもらいました。
 mStand の上から常に外部ディスプレイに繋いで、デスクトップとして使っています。
-[バッテリーの加熱問題](https://www.theverge.com/2019/6/20/18693136/apple-recall-2015-15-inch-macbook-pro-battery-overheat-fire-risk-safety)によって Apple に[自主回収された](/apple-battery-recall-visit)マシンですが、この世代の MacBook Pro は名作だと思います。
+[バッテリーの加熱問題](https://www.theverge.com/2019/6/20/18693136/apple-recall-2015-15-inch-macbook-pro-battery-overheat-fire-risk-safety)によって Apple に[自主回収](/apple-battery-recall-visit)されました。
+この世代の MacBook Pro は名作だと思います。
 
 ### MacBook Air (11-inch, Mid 2012)
 
@@ -51,8 +52,8 @@ SSD: 120GB Apple SSD TS128E (Toshiba)
 Graphics: Intel HD Graphics 4000 1536MB
 </pre>
 
-年季が入ってきましたが、まだまだ現役で使っています。
-このマシンのおかげで今の自分があると言っても過言ではないほど使い倒しました。
+年季が入ってきましたが、まだまだ現役で使い倒しています。
+このマシンのおかげで今の自分があると言っても過言ではありません。
 使わなくなったら娘に譲る予定です。
 
 ### ThinkPad X240
@@ -69,7 +70,7 @@ OS は [Arch Linux](https://ja.wikipedia.org/wiki/Arch_Linux) を選びました
 ![x61]({{ site.image_store }}6ad6728b.jpg)
 
 日本ではじめて購入したコンピュータです。
-まっさきにヤフオクで購入した英語配列キーボードに換装しました。
+ヤフオクで購入した英語配列キーボードに換装しました。
 メモリ増設、SSD 換装、外部バッテリーを取り付けるなど、簡素なカスタマイゼーションを施しました。
 めっきり使わなくなったので、近々 E-Waste に出します。
 
@@ -96,16 +97,17 @@ OS は Ubuntu (Lucid Lynx) だったと思います。
 はじめて組んだ自鯖です。
 スペックは忘れました。
 Gigabyte のマザボに [AMD Athlon 64](https://en.wikipedia.org/wiki/Athlon_64) を挿していたことだけは覚えています。
-OS は [Fedora Core 3](https://fedoraproject.org/wiki/Releases/HistoricalSchedules#Fedora_Core_3_.28Codename:_Heidelberg.29) を入れてた気がします。
+OS は [Fedora Core 3](https://fedoraproject.org/wiki/Releases/HistoricalSchedules#Fedora_Core_3_.28Codename:_Heidelberg.29) を入れていたと記憶しています。
 
 ### Apple iBook G3 Snow
 
-はじめて購入した [PowerPC 500MHz の Mac](https://en.wikipedia.org/wiki/IBook#iBook_G3_Dual_USB_(%22Snow%22)) です。
+はじめて購入した Mac ([PowerPC 500MHz](https://en.wikipedia.org/wiki/IBook#iBook_G3_Dual_USB_(%22Snow%22))) です。
 Mac OS 9.1 がプリインストールされていて、Max OS X (10.1) のインストーラー CD が付属していました。
 [Mozilla Application Suite](https://ja.wikipedia.org/wiki/Mozilla_Application_Suite) の起動に数十秒かかったのをよく覚えています。
-このマシンで [Java](https://ja.wikipedia.org/wiki/Java) にはじめて触れました。
+このマシンで [Java](https://ja.wikipedia.org/wiki/Java) 言語に出会いました。
 
 ### UMAX Apus 2000
 
+はじめての専用機です。
 家族の知り合いに譲ってもらいました。当初の OS は Windows 98 で、後に悪名だかき Windows ME に入れ替えました。
-このマシンでウェブサイト作りに没頭しました。
+このマシンで HTML や <a href="https://ja.wikipedia.org/wiki/Common_Gateway_Interface">CGI</a> に没頭しました。
