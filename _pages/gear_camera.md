@@ -5,4 +5,10 @@ layout: default
 is_post: true
 ---
 
-TBD
+このウェブサイトの写真撮影に使っているカメラなどの機材を紹介します。
+
+## Body
+
+## Glass
+
+## Point and Shoot
