@@ -18,6 +18,8 @@ image_store:
 plugins:
   - jekyll-feed
 
+timezone: UTC
+
 author:
   name: Toru Maesaka
   uri: https://twitter.com/tmaesaka
