@@ -22,5 +22,5 @@ permalink: /boosted-rev-flat-repair
 作業自体は自転車のパンク修理に毛が生えた程度ですが、アクセルのナットを取り外すために必要な 21mm のレンチを持っていなかったので、[モンキーレンチ](https://ja.wikipedia.org/wiki/モンキーレンチ)で対応しました。
 良い機会なので、次回のパンクを見越して [Park Tool のレンチ](https://www.amazon.co.jp/dp/B005JASL98/?tag=amzntm-22)を注文しました。
 [チューブ](https://twitter.com/tmaesaka/status/1202321010768240640)は Park Tool の [GP-2 Super Patch](https://www.amazon.co.jp/dp/B07597N34L/?tag=amzntm-22) で修理しました。 
-ついでにタイヤも交換したいところですが、Reddit 情報だと[セルフサービスでは未販売](https://www.reddit.com/r/boostedscooters/comments/e63itl/the_inevitable_has_happened_sooner_than_i_liked/f9rqrkc/)な状況なので、しばらく様子見です。
+ついでにタイヤも交換したいところですが、Reddit 情報だと[セルフサービスでは手に入らない](https://www.reddit.com/r/boostedscooters/comments/e63itl/the_inevitable_has_happened_sooner_than_i_liked/f9rqrkc/)状況なので、しばらく様子見です。
 祝・通勤手段復活。
