@@ -14,8 +14,8 @@ related:
 permalink: /boosted-rev-flat-repair
 ---
 
-[Boosted Rev](https://boostedboards.com/vehicles/scooters/boosted-rev) のリアタイヤが[ガラスの破片](https://www.reddit.com/r/boostedscooters/comments/e63itl/the_inevitable_has_happened_sooner_than_i_liked/)によってパンクしていたので、修理しました。
-サンフランシスコの酷い路面や車上荒らしの多さを考えると、もったほうだと思います。
+[Boosted Rev](https://boostedboards.com/vehicles/scooters/boosted-rev) のリアタイヤに[ガラスの破片](https://www.reddit.com/r/boostedscooters/comments/e63itl/the_inevitable_has_happened_sooner_than_i_liked/)が刺さってパンクしていたので、修理しました。
+サンフランシスコの酷い路面や車上荒らしの多さを考えると、よく頑張ってくれました。
 
 ![boosted-rev-motor]({{ site.image_store }}{{ page.images[0] }})
 
