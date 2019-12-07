@@ -7,6 +7,7 @@ images:
   - 1ad69b18.jpg
 
 related:
+  - /boosted-rev-flat-repair
   - /bose-ae2-cushions
   - /suunto-core-strap-loop
 

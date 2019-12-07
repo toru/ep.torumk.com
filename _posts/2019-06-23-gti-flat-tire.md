@@ -9,6 +9,7 @@ images:
 related:
   - /sfo-long-term-parking
   - /ca-driver-license
+  - /boosted-rev-flat-repair
 
 permalink: /gti-flat-tire
 ---

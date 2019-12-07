@@ -7,6 +7,7 @@ images:
   - 2e81bf55.jpg
 
 related:
+  - /boosted-rev-flat-repair
   - /gti-flat-tire
   - /ford-gobike-commute
 
