@@ -6,7 +6,7 @@ defaults:
     scope:
       path: '_posts'
     values:
-      layout: 'default'
+      layout: 'episode'
       is_post: true
 
 object_store:
