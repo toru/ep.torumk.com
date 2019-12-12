@@ -45,20 +45,6 @@
       <h1>{{ page.title }}</h1>
       <div class="published">{{ page.date | date: "%B %-d, %Y" }}</div>
       <section class="content">{{ content }}</section>
-
-      {% if page.related %}
-      <h2>あわせて読みたい</h2>
-      {% include related_episodes.html ep_ids=page.related %}
-      {% endif %}
-
-      <div class="adjacent-posts">
-        {% if page.previous.url %}
-        <a class="prev" href="{{page.previous.url}}">&laquo; 前のエピソード</a>
-        {% endif %}
-        {% if page.next.url %}
-        <a class="next" href="{{page.next.url}}">次のエピソード &raquo;</a>
-        {% endif %}
-      </div>
     </div>
     {% else %}
     {{ content }}
