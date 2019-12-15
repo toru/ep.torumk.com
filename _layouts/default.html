@@ -7,13 +7,13 @@
   <meta property="og:image" content="{{ site.image_store }}{{ page.images[0] }}">
   {% if page.is_post %}
   <meta property="og:type" content="article">
-  <meta property="og:title" content="{{ page.title}}{% if page.titlesuffix %} | Toru Maesaka{% endif %}">
+  <meta property="og:title" content="{{ page.title}}">
   <meta property="og:description" content="{{ page.content | markdownify | strip_html | strip_newlines | truncate: 64 }}">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:creator" content="@tmaesaka">
   {% endif %}
 
-  <title>{{ page.title }}{% if page.titlesuffix %} | Toru Maesaka{% endif %}</title>
+  <title>{{ page.title }}</title>
 
   <link rel="stylesheet" href="https://fonts.googleapis.com/earlyaccess/notosansjp.css">
   <link rel="stylesheet" href="/assets/style.css">
