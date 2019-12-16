@@ -1,8 +1,7 @@
 ---
 title: 前坂 徹 | Toru Maesaka
 permalink: /about
-layout: default
-is_post: true
+layout: episode
 ---
 
 ソフトウェアエンジニア。

@@ -1,8 +1,7 @@
 ---
 title: Gear | カメラ
 permalink: /gear/camera
-layout: default
-is_post: true
+layout: episode
 ---
 
 このウェブサイトの写真撮影に使っているカメラなどの機材を紹介します。

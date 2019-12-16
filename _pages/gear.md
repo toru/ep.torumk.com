@@ -1,8 +1,7 @@
 ---
 title: Gear | 計算機など
 permalink: /gear
-layout: default
-is_post: true
+layout: episode
 ---
 
 成り行きで [Macintosh](https://ja.wikipedia.org/wiki/Macintosh) を長年つかい続けています。
