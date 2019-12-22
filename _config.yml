@@ -7,7 +7,6 @@ defaults:
       path: '_posts'
     values:
       layout: 'episode'
-      is_post: true
 
 object_store:
   - https://mk-cdn.freetls.fastly.net
