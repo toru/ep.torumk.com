@@ -40,15 +40,7 @@
         <li><a href="/gear">Gear</a></li>
       </ul>
     </div>
-    {% if page.is_post %}
-    <div class="post">
-      <h1>{{ page.title }}</h1>
-      <div class="published">{{ page.date | date: "%B %-d, %Y" }}</div>
-      <section class="content">{{ content }}</section>
-    </div>
-    {% else %}
     {{ content }}
-    {% endif %}
   </div>
 </body>
 </html>
