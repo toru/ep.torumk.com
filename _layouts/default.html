@@ -3,15 +3,13 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
+  {% if page.images[0] %}
   <meta property="og:image" content="{{ site.image_store }}{{ page.images[0] }}">
-  {% if page.is_post %}
-  <meta property="og:type" content="article">
+  {% endif %}
+  <meta property="og:type" content="website">
   <meta property="og:title" content="{{ page.title}}">
-  <meta property="og:description" content="{{ page.content | markdownify | strip_html | strip_newlines | truncate: 64 }}">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:creator" content="@tmaesaka">
-  {% endif %}
 
   <title>{{ page.title }}</title>
 
