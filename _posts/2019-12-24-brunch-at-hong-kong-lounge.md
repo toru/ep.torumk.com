@@ -12,6 +12,7 @@ related:
   - /french-oysters
 
 permalink: /brunch-at-hong-kong-lounge
+tags: san-francisco
 ---
 
 中華料理。
