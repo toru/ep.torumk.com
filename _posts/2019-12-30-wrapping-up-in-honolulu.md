@@ -22,8 +22,8 @@ tags: travel
 ![liquid-aloha]({{ site.image_store }}{{ page.images[0] }})
 
 2019 年はいろんな課題に決着がついた良い年でした。
-とても不安だった悩みも払拭できました。
-そのいっぽうで、とにかく疲れました。
+とても不安だった悩みも解決しました。
+そのいっぽうで、とても疲れました。
 来年は可能な限りセルフケアを意識したいと思います。
 充電しつつ、今後にむけて新たな目標を設定していきます。
 とりあえず [Vim](https://ja.wikipedia.org/wiki/Vim) から [VSCode](https://ja.wikipedia.org/wiki/Visual_Studio_Code) に乗り換えるところからはじめてみよう。
