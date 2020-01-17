@@ -8,6 +8,12 @@ layout: episode
 
 ## Body
 
+### Sony Alpha 7 III
+
+現役でつかっているカメラです。
+思いきってニューヨークの [Adorama](https://www.adorama.com/) でボディのみ購入しました。
+レンズは汎用的に使えそうな [Sony 24-70mm F/4.0 SEL2470Z](https://www.sony.jp/ichigan/products/SEL2470Z/) を eBay で購入しました。
+
 ### Nikon D80
 
 はじめて購入した DSLR カメラです。
