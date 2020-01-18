@@ -11,7 +11,7 @@ related:
   - /macbook-pro-pickup
   - /hhkb-keycap-wash
 
-permalink: /cable-recycling
+permalink: /usb-cable-recycling
 ---
 
 新年あけましておめでとうございます。
