@@ -11,7 +11,7 @@ related:
   - /the-rust-book
   - /atom-syndication
 
-permalink: /chrome-web-inpsector
+permalink: /chrome-web-inspector
 ---
 
 Web Inspector の[フロントエンド](https://trac.webkit.org/browser/trunk/Source/WebInspectorUI/)は HTML, CSS, そして JavaScript で構成されています。

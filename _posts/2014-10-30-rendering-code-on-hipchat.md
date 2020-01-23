@@ -7,7 +7,7 @@ images:
   - 588df8f6.png
 
 related:
-  - /chrome-web-inpsector
+  - /chrome-web-inspector
   - /the-rust-book
   - /hello-enpass
 
