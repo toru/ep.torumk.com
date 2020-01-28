@@ -15,9 +15,9 @@ permalink: /off-facebook-activity
 tags: privacy
 ---
 
-Facebook が提携先から得てきた我々の行動履歴を[クリアする機能](https://www.facebook.com/off_facebook_activity/)がリリースされました。
+Facebook が提携先から得てきた我々の行動履歴を[クリアする機能](https://www.facebook.com/off_facebook_activity/)が登場しました。
 もちろん即決でクリアしました。
-同様に、[未来の行動](https://www.facebook.com/off_facebook_activity/future_activity)をアカウントに紐付けないオプションもあったので、そちらも有効にしました。
+同様に、未来の行動をアカウントに紐付けないオプションもあったので、そちらも有効にしました。
 
 ![clear-off-facebook-activity]({{ site.image_store }}{{ page.images[0] }})
 
