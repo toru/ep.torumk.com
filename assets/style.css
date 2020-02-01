@@ -38,7 +38,7 @@ a:focus {
 .nav li {
   float: left;
   margin: 0px;
-  padding-left: 8px;
+  padding-left: 6px;
 }
 
 .site-title {
@@ -48,6 +48,7 @@ a:focus {
 }
 .site-title a {
   color: #444;
+  transition: color .2s;
 }
 .site-title a:hover {
   color: #ff2d55;
@@ -56,6 +57,11 @@ a:focus {
 .tag-title {
   font-size: 165%;
   margin-bottom: 10px;
+}
+
+.divider {
+  padding-left: 6px;
+  color: #888;
 }
 
 .tl {
