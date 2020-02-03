@@ -8,7 +8,8 @@ images:
 
 related:
   - /the-rust-book
-  - /atom-syndication
+  - /tracing-h2o
+  - /off-facebook-activity
 
 permalink: /hello-enpass
 ---
