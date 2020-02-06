@@ -64,6 +64,12 @@ a:focus {
   color: #888;
 }
 
+.tw {
+  color: #444;
+  font-size: 90%;
+  font-weight: 600;
+}
+
 .tl {
   padding-left: 0px;
   list-style-type: none;
