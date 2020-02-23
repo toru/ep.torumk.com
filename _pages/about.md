@@ -20,7 +20,6 @@ layout: episode
 [マニアックなページ](/gear)も管理しています。
 ホスティングは [GitHub Pages](https://pages.github.com/) を利用しています ([ソースコード](https://github.com/toru/ep.torumk.com))。
 お問い合わせは <mailto:toru@torumk.com> までお願いします。
-ソーシャルメディアによるご連絡につきましては、お返事できない場合があります。
 
 ## 公開スタイル
 
