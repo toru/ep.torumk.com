@@ -1,5 +1,5 @@
 ---
-title: Boosted が経営破綻寸前
+title: Boosted が経営破綻してしまった
 titlesuffix: true
 thumb: true
 
