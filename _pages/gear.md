@@ -21,7 +21,7 @@ CPU:  TBD
 GPU:  TBD
 RAM:  TBD
 SSD:  TBD
-PSU:  Corsair SF600/750 (あるいは Seasonic SGX-650)
+PSU:  Corsair SF600 80+ Gold Certified
 </pre>
 
 ## 現役のハードウェア
