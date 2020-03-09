@@ -16,7 +16,7 @@ Shell は [oh-my-zsh](https://ohmyz.sh/) の影響で [Zsh](https://ja.wikipedia
 
 <pre class="spec">
 Case: NCASE M1 V6.1
-Mobo: TBD
+Mobo: ASUS ROG Strix X570-I
 CPU:  TBD
 GPU:  TBD
 RAM:  TBD
