@@ -21,7 +21,7 @@ tags: fastly
 ![zoo]({{ site.image_store }}{{ page.images[0] }})
 
 各 QUIC event の出力は [Kazuho](https://twitter.com/kazuho) さんの要望で [JSON](https://ja.wikipedia.org/wiki/JavaScript_Object_Notation) 形式にしました。
-その恩恵は好きな [DW](https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%BC%E3%82%BF%E3%82%A6%E3%82%A7%E3%82%A2%E3%83%8F%E3%82%A6%E3%82%B9) プラットフォームに出力が流し込みやすくなることです。
+その恩恵は好きな [DW](https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%BC%E3%82%BF%E3%82%A6%E3%82%A7%E3%82%A2%E3%83%8F%E3%82%A6%E3%82%B9) プラットフォームに出力を流しやすいことです。
 ツールの使い方は [README#tracing-quic-events](https://github.com/toru/h2olog#tracing-quic-events) を参照してください。
 なるべくシンプルに使えるように努力しています。
 まだまだ課題がいくつもありますが、自分ひとりで考える必要がなくなったのは本当に嬉しい。
