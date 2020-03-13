@@ -20,7 +20,7 @@ Mobo: ASUS ROG Strix X570-I
 CPU:  TBD
 GPU:  TBD
 RAM:  TBD
-SSD:  TBD
+SSD:  Samsung 970 EVO NVMe M.2 500GB
 PSU:  Corsair SF600 80+ Gold Certified
 </pre>
 
