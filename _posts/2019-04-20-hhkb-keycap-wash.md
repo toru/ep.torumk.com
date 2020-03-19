@@ -7,8 +7,9 @@ images:
   - c5a1bda8.jpg
 
 related:
+  - /corsair-sf600
+  - /usb-cable-recycling
   - /anker-usb-adapter
-  - /samsung-837
 
 permalink: /hhkb-keycap-wash
 ---

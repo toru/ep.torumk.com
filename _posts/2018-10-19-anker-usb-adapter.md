@@ -7,6 +7,7 @@ images:
   - c27f8cbe.jpg
 
 related:
+  - /usb-cable-recycling
   - /fitbit-blaze-revived
   - /scammed-on-mercari
 

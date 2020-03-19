@@ -7,8 +7,9 @@ images:
   - c45c5e09.jpg
 
 related:
+  - /samsung-galaxy-buds-plus
+  - /soundcore-liberty-2-pro
   - /la-pixar-exhibition
-  - /farewell-kuo
 
 permalink: /fitbit-blaze-revived
 ---

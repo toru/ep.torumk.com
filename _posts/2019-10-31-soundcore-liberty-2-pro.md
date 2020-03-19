@@ -7,6 +7,7 @@ images:
   - 1bb9d6df.jpg
 
 related:
+  - /samsung-galaxy-buds-plus
   - /boosted-rev
   - /macbook-pro-pickup
 
