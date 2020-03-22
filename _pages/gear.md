@@ -12,7 +12,6 @@ Shell は [oh-my-zsh](https://ohmyz.sh/) の影響で [Zsh](https://ja.wikipedia
 ## 計画中のハードウェア
 
 [SFF](https://en.wikipedia.org/wiki/Small_form_factor) (Small Form Factor) マシンを組むことにしました。
-現在 [NCASE M1](https://ncases.com/) の発送まちです。
 
 <pre class="spec">
 Case: NCASE M1 V6.1
