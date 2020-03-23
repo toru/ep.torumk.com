@@ -20,6 +20,7 @@ CPU:  AMD Ryzen 3 3200G APU
 GPU:  TBD
 RAM:  Corsair Vengeance LPX DDR4 32GB 3600Mhz C18
 SSD:  Samsung 970 EVO NVMe M.2 500GB
+SSD:  Samsung 860 EVO SATA III 1TB
 PSU:  Corsair SF600 80+ Gold Certified
 </pre>
 
