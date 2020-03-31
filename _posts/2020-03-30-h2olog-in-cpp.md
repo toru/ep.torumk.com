@@ -15,7 +15,7 @@ permalink: /h2olog-in-cpp
 ---
 
 [h2olog](https://github.com/toru/h2olog) を [C++](https://ja.wikipedia.org/wiki/C%2B%2B) で書き直すことを検討しています。
-理由はイベントの読み取り側のパフォーマンスを上げることで、[BPF](https://www.kernel.org/doc/html/latest/bpf/index.html) の ring buffer を詰まりにくくするためです。
+理由はイベントの読み取り側のパフォーマンスを上げることで、[BPF](https://www.kernel.org/doc/html/latest/bpf/index.html) の ring buffer を溢れにくくするためです。
 
 ![water]({{ site.image_store }}{{ page.images[0] }})
 
