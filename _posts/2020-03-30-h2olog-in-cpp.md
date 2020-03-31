@@ -19,7 +19,7 @@ permalink: /h2olog-in-cpp
 
 ![water]({{ site.image_store }}{{ page.images[0] }})
 
-Python が悪いというわけではなく、高スループットのサーバから QUIC のトレースを取るには荷が重いという感じです。
+Python が悪いというわけではなく、高スループットのサーバから QUIC のトレースを取るには荷が重いという結論です。
 [gfx](https://twitter.com/__gfx__) さんが[脱帽レベルの最適化](https://github.com/toru/h2olog/pull/36)を施してくれたにも関わらず、力及ばすでした。
 得意でもない C++ を選んだ理由は [BCC](https://iovisor.github.io/bcc/) が [C++ API](https://github.com/iovisor/bcc/tree/master/src/cc/api) を提供しているからです。
 とりあえず実験的に[ブランチ](https://github.com/toru/h2olog/tree/v2)を作りました。
