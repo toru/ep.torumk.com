@@ -25,3 +25,5 @@ Python が悪いというわけではなく、高スループットのサーバ�
 とりあえず実験的に[ブランチ](https://github.com/toru/h2olog/tree/v2)を作りました。
 C++ は奥が深いので、しばらくはいわゆる The Better C として扱おうと思います。
 誰か CMakeLists.txt を書いてくれないかな。
+
+追記: [syohex](https://twitter.com/syohex) さんが CMakeLists.txt を[貢献してくれました](https://github.com/toru/h2olog/pull/38)。ありがとうございます。
