@@ -9,9 +9,14 @@ layout: episode
 手元の計算資源が足りないときは [DigitalOcean](https://www.digitalocean.com/) や [GCP](https://ja.wikipedia.org/wiki/Google_Cloud_Platform) を利用しています。
 Shell は [oh-my-zsh](https://ohmyz.sh/) の影響で [Zsh](https://ja.wikipedia.org/wiki/Z_Shell) を使い続けていましたが、最近はこだわりが減ってミニマルな設定の [Bash](https://ja.wikipedia.org/wiki/Bash) に回帰しました。
 
-## 計画中のハードウェア
+## 現役のハードウェア
 
-[SFF](https://en.wikipedia.org/wiki/Small_form_factor) (Small Form Factor) マシンを組むことにしました。
+### AMD Ryzen Desktop
+
+ゲーミング用に [SFF](https://smallformfactor.net/) (Small Form Factor) マシンを組みました。
+ケースの [NCASE M1](https://ncases.com/) をとても気に入っています。
+Windows ME ぶりの Windows なので、浦島太郎状態です。
+Windows 10 の ISO が FAT32 の許容範囲を超えていて、正気かと戸惑いました。
 
 <pre class="spec">
 Case: NCASE M1 V6.1
@@ -23,8 +28,6 @@ SSD:  Samsung 970 EVO NVMe M.2 500GB
 SSD:  Samsung 860 EVO SATA III 1TB
 PSU:  Corsair SF600 80+ Gold Certified
 </pre>
-
-## 現役のハードウェア
 
 ### MacBook Pro (13-inch, 2018)
 
