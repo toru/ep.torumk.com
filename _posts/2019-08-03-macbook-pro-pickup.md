@@ -8,10 +8,10 @@ images:
 
 related:
   - /apple-battery-recall-visit
-  - /gti-flat-tire
+  - /corsair-sf600
+  - /asus-rog-x570i-strix
 
 permalink: /macbook-pro-pickup
-tags: apple
 ---
 
 バッテリーのリコールで[修理に出していた](/apple-battery-recall-visit) MacBook Pro が受取り可能になったと連絡があったので、再び [Apple Union Square](https://www.apple.com/retail/unionsquare/) に行ってきました。
