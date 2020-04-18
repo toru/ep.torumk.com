@@ -12,6 +12,7 @@ related:
   - /images-through-fastly
 
 permalink: /h2olog-in-cpp
+tags: fastly
 ---
 
 [h2olog](https://github.com/toru/h2olog) を [C++](https://ja.wikipedia.org/wiki/C%2B%2B) で書き直すことを検討しています。
