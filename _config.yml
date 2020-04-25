@@ -1,6 +1,9 @@
 exclude: ['README.md']
 include: ['_pages']
 
+plugins:
+  - jekyll-feed
+
 defaults:
   -
     scope:
@@ -13,9 +16,6 @@ object_store:
 
 image_store:
   - https://mk-cdn.freetls.fastly.net/ep/
-
-plugins:
-  - jekyll-feed
 
 timezone: UTC
 
