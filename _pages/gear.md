@@ -54,7 +54,7 @@ GPU: Intel Iris Pro 1536MB
 </pre>
 
 <a href="/t/fastly">Fastly</a> 社の福利厚生でもらいました。
-mStand の上から常に外部ディスプレイに繋いで、デスクトップとして使っています。
+以前は mStand の上から使っていましたが、最近は mTower に乗り換えました。
 [バッテリーの加熱問題](https://www.theverge.com/2019/6/20/18693136/apple-recall-2015-15-inch-macbook-pro-battery-overheat-fire-risk-safety)によって Apple に[自主回収](/apple-battery-recall-visit)されました。
 この世代の MacBook Pro は名作だと思います。
 
