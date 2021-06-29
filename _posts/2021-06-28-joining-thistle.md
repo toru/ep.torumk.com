@@ -18,7 +18,7 @@ Thistle では世の中に無数に存在するデバイスにおけるセキュ
 
 前職の Fastly では自分の子どもたちに胸を張れる仕事をいくつもできました。
 [入社当時](/hello-fastly)は小さかった Fastly も今やインターネットの大部分を支えるインフラとなりました。
-[QUIC](https://datatracker.ietf.org/doc/html/rfc9000) と [HTTP/3](https://developer.mozilla.org/en-US/docs/Glossary/HTTP_3) の最前線で働けたのも技術者として夢のような環境でした。
+[QUIC](https://datatracker.ietf.org/doc/html/rfc9000) と [HTTP/3](https://developer.mozilla.org/en-US/docs/Glossary/HTTP_3) の最前線で自由に働けるなど、技術者として夢のような環境でした。
 辞める理由は特になかったのですが、なんとなく次はセキュリティやコンプラまわりの固い分野のソフトウェアを開発したいと妄想していました。
 そんな中、縁あって立ち上げ直後の Thistle に入社する機会が訪れたので、思いきってスタートアップに飛び込むことにしました (6 年ぶり 3 回目)。
 
