@@ -6,12 +6,13 @@ layout: episode
 
 ソフトウェアエンジニア。
 [サンフランシスコ](/t/san-francisco)在住。
-以前は東京で、その前はニュージーランドにいました。
-[Fastly](/t/fastly) でプロトコル実装や分散システムの仕事をしています。
-[OSS](https://ja.wikipedia.org/wiki/オープンソースソフトウェア) 方面は仕事の関係で [H2O](https://github.com/h2o/h2o), [picotls](https://github.com/h2o/picotls), [quicly](https://github.com/h2o/quicly) などに貢献させてもらっています。
-コンピュータ以外の趣味は [Personal Finance](https://www.reddit.com/r/personalfinance/) など。
-食は[生牡蠣](/t/oyster)が好物です。
+以前は東京で、その前はニュージーランドに住んでいました。
+[Thistle Technologies](https://www.thistle.tech) というスタートアップで働いています。
+以前は [Fastly](/t/fastly) でプロトコル実装や分散システムの仕事をしていました。
+さらに遡ると Google や日本企業にも在籍していました。
+[OSS](https://ja.wikipedia.org/wiki/オープンソースソフトウェア) 方面もいろいろやってます。
 ときどき[旅](/t/travel)にでます。
+食は[生牡蠣](/t/oyster)が好物です。
 
 ![playtime]({{ site.object_store }}/ep/d4a29e83.jpg)
 
