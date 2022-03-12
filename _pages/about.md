@@ -14,13 +14,13 @@ layout: episode
 ときどき[旅](/t/travel)にでます。
 食は[生牡蠣](/t/oyster)が好物です。
 
-![playtime]({{ site.object_store }}/ep/d4a29e83.jpg)
-
 このウェブサイトは日本との縁を守るために運営しています。
 主なコンテンツは不定期に発信している日々のエピソードです。
 [マニアックなページ](/gear)も管理しています。
 ホスティングは [GitHub Pages](https://pages.github.com/) を利用しています ([ソースコード](https://github.com/toru/ep.torumk.com))。
 お問い合わせは <mailto:toru@torumk.com> までお願いします。
+
+![playtime]({{ site.object_store }}/ep/d4a29e83.jpg)
 
 ## 公開スタイル
 
