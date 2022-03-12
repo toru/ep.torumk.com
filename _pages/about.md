@@ -6,10 +6,10 @@ layout: episode
 
 ソフトウェアエンジニア。
 [サンフランシスコ](/t/san-francisco)在住。
-以前は東京で、その前はニュージーランドに住んでいました。
-[Thistle Technologies](https://www.thistle.tech) というスタートアップで働いています。
-以前は [Fastly](/t/fastly) でプロトコル実装や分散システムの仕事をしていました。
-さらに遡ると Google や日本企業にも在籍していました。
+以前は東京で、その前は幼少期からニュージーランドに住んでいました。
+[Thistle Technologies](https://www.thistle.tech) というセキュリティプラットフォームのスタートアップで働いています。
+以前は [Fastly](/t/fastly) でプロトコル実装や分散システム開発の仕事をしていました。
+さらに以前は Google やミクシィなどの日本企業に在籍していました。
 [OSS](https://ja.wikipedia.org/wiki/オープンソースソフトウェア) 方面もいろいろやってます。
 ときどき[旅](/t/travel)にでます。
 食は[生牡蠣](/t/oyster)が好物です。
