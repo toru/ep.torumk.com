@@ -17,3 +17,8 @@ The generated website is hosted by [GitHub Pages](https://pages.github.com).
 ├── _posts       // Episodes
 └── assets       // Static assets
 ```
+
+## Dependencies
+
+* [jekyll](https://rubygems.org/gems/jekyll)
+* [jekyll-feed](https://rubygems.org/gems/jekyll-feed)
