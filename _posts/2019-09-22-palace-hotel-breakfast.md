@@ -19,6 +19,6 @@ tags: san-francisco
 
 ![the-garden-court]({{ site.image_store }}{{ page.images[0] }})
 
-たまたま家族が仕事で日本から来ていたので、みんなで良い思い出が作れました。
+たまたま親戚が仕事で日本から来ていたので、みんなで良い思い出が作れました。
 The Garden Court のビュッフェはいたって平凡でしたが、[ビスケット](https://en.wikipedia.org/wiki/Biscuit_(bread)) (アメリカ式) は絶品でした。
 ラウンジの雰囲気が圧倒的に素晴らしいので、ドリンクを片手に会話がとても弾みました。

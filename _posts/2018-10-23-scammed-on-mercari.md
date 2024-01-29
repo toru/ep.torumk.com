@@ -13,10 +13,6 @@ related:
 permalink: /scammed-on-mercari
 ---
 
-米メルカリでアップル製品を売ったら即返品されました (追記: 傷物が返ってきました)。
-
-![kirby]({{ site.image_store }}{{ page.images[0] }})
-
 アメリカで頑張っているメルカリを応援しようと思い、無料で譲る予定だった新品同様のアップル製品を[出品](https://twitter.com/tmaesaka/status/1053362964814737408)しました。
 デバイスは当日中に売れ、その体験が嬉しくて即 Shipping に取りかかりました。
 結果、デバイスは Buyer の手に最短時間で届きました。
