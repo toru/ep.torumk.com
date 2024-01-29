@@ -17,8 +17,6 @@ tags: san-francisco california
 カリフォルニア州の[普通運転免許](https://www.dmv.ca.gov/portal/dmv/detail/pubs/hdbk/lic_classes)を取得しました。
 以下、簡単な備忘録です。
 
-![gti]({{ site.image_store }}{{ page.images[0] }})
-
 ## 筆記試験
 
 サンフランシスコの [DMV](https://www.dmv.ca.gov/portal/dmv) で筆記試験 (タッチスクリーン) を受けました。

@@ -18,8 +18,6 @@ Pixel XL が起動はおろか、充電すらしなくなりました。
 [Nexus 5X が故障](/bricked-nexus-5x)したときといい、運が悪いですね。
 今回は幸いなことに [Project Fi](https://en.wikipedia.org/wiki/Google_Fi) の保証で本体を交換してもらえました。
 
-![hello-pixel]({{ site.image_store }}{{ page.images[0] }})
-
 症状を調べてみたところ、どうやら今回の症状は珍しくないようです。
 
 - [So my Pixel XL died and won’t turn on today…](https://www.reddit.com/r/GooglePixel/comments/5cswoc/so_my_pixel_xl_died_and_wont_turn_on_today/)
