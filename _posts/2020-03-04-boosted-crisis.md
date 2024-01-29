@@ -15,8 +15,8 @@ permalink: /boosted-crisis
 ---
 
 電動スケートボードで有名な [Boosted](https://en.wikipedia.org/wiki/Boosted_(company)) が大幅な[レイオフを実施したと発表](https://blog.boostedboards.com/a-message-to-the-boosted-community/)しました。
-同時に社の新しいオーナーを模索中とのことで、実質的な経営破綻です。
-自分は Boosted Rev のオーナーなので、他人事ではなく困った話です。
+同時に社の身売り先をを模索中とのことで、実質的な経営破綻です。
+自分は [Boosted Rev](/boosted-rev) のオーナーなので、個人的に困った話です。
 
 ![boosted-announcement]({{ site.image_store }}{{ page.images[0] }})
 
@@ -24,4 +24,4 @@ permalink: /boosted-crisis
 Boosted 製品は良くも悪くもパーツが独自仕様なので、入手が困難になることが予想されます。
 特に安全面で重要な Rev のタイヤは公式サイトからも買えないので、とても心配です。
 全ては買収元次第。
-[Tesla](https://ja.wikipedia.org/wiki/%E3%83%86%E3%82%B9%E3%83%A9_(%E4%BC%9A%E7%A4%BE)) が Boosted を買ってくれないかな。
+[Tesla](https://ja.wikipedia.org/wiki/%E3%83%86%E3%82%B9%E3%83%A9_(%E4%BC%9A%E7%A4%BE)) が Boosted 社を買ってくれないかな。

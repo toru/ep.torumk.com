@@ -14,8 +14,7 @@ related:
 permalink: /fitbit-blaze-revived
 ---
 
-ほこりをかぶっていた [Fitbit Blaze](https://en.wikipedia.org/wiki/List_of_Fitbit_products#Fitbit_Blaze) を再び使い始めました。
-
+ほこりをかぶっていた [Fitbit Blaze](https://en.wikipedia.org/wiki/List_of_Fitbit_products#Fitbit_Blaze) を再び使いはじめました。
 
 ![fitbit-blaze]({{ site.image_store }}{{ page.images[0] }})
 

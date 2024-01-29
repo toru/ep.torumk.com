@@ -17,8 +17,6 @@ tags: fastly
 
 早いもので、[Fastly](https://www.fastly.com) に入社して 4 年たちました。
 
-![dogs-of-fastly]({{ site.image_store }}{{ page.images[0] }})
-
 米国への移住、子どもが生まれる、会社が上場するなど、思い返すと波乱万丈な時間でした。
 実務面は 1 年ほど前から Edge Protocols というチームに異動して、C 言語での開発をしています。
 並行して [HTTP/2](https://ja.wikipedia.org/wiki/HTTP/2) インフラのリリースマネージメントも任されていて、コンテキストスイッチに追われる日々です。
