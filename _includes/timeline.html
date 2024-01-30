@@ -2,12 +2,6 @@
 {% for ep in include.episodes %}
   <a href="{{ep.url}}">
     <li class="tl-node" tabindex="-1">
-      {% if ep.thumb %}
-      <img src="{{ site.object_store }}/ep/sq-{{ ep.images[0] }}" width="48px">
-      {% else %}
-      {% assign fallback_indices = "0|1|2" | split: "|" %}
-      <img src="{{ site.object_store }}/ep/sq-fallback-{{ fallback_indices | sample }}.png">
-      {% endif %}
       <div class="tl-body">
         <div class="title">{{ ep.title }}</div>
         <div class="date">Published: {{ ep.date | date: "%Y-%m-%d" }}</div>

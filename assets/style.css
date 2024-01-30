@@ -78,16 +78,16 @@ a:focus {
   text-decoration: none;
 }
 .tl li {
-  border-left: 1px solid #ccc;
+  border-left: 16px solid #faf9f6;
 }
 .tl li:hover {
-  border-left: 1px solid #ff2d55;
+  border-color: #626262;
 }
 .tl li:focus {
   outline: thin dotted;
 }
 .tl li.active {
-  border-left: 2px solid #ff2d55;
+  border-color: #626262;
 }
 .tl-node {
   margin-bottom: 8px;
@@ -101,6 +101,7 @@ a:focus {
 }
 .tl-body {
   flex: 1;
+  padding-left: 12px;
 }
 .tl-body > .date {
   font-size: 85%;
